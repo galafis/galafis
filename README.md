@@ -350,8 +350,5 @@ Projetos de Machine Learning e Analytics | Pipelines de Dados e Big Data | Ferra
 ![Followers](https://img.shields.io/github/followers/galafis?color=00D4FF&style=for-the-badge&label=NETWORK&logo=github)
 ![Stars](https://img.shields.io/github/stars/galafis?color=00D4FF&style=for-the-badge&label=RECONHECIMENTO&logo=github)
 
-**🔄 Última atualização:** Junho 2024 | **📍 Localização:** São Paulo, Brasil | **🌐 Timezone:** GMT-3
-**💼 Status:** Disponível para oportunidades técnicas | **🎯 Foco:** Data Science & Cybersecurity
-
 </div>
 
