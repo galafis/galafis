@@ -35,7 +35,7 @@
 
 ### 👨‍💼 Quem sou eu?
 
-Sou **Gabriel Demetrios Lafis**, um profissional multidisciplinar com sólida experiência em **Data Science**, **Engenharia de Dados**, **Desenvolvimento de Sistemas** e **Segurança Cibernética**. Como **Gestor de TI**, combino expertise técnica com visão estratégica para liderar projetos inovadores e transformações digitais.
+Sou **Gabriel Demetrios Lafis**, um profissional multidisciplinar com sólida experiência em **Data Science**, **Engenharia de Dados**, **Desenvolvimento de Sistemas** e **Segurança Cibernética**. Combino expertise técnica com conhecimento em gestão de TI para desenvolver soluções inovadoras e eficientes.
 
 ### 🎓 Formação Acadêmica & Profissional
 - 🎓 **Graduação em Segurança Cibernética**
@@ -46,20 +46,21 @@ Sou **Gabriel Demetrios Lafis**, um profissional multidisciplinar com sólida ex
 - 🛡️ **Especialista em Cybersecurity** e Infraestrutura
 
 ### 🌟 Experiência Profissional
-- 💼 **5+ anos** em gestão de equipes de TI
+- 📊 **Cientista de Dados** com expertise em análise e modelagem
 - 🔒 **Especialista** em segurança de infraestruturas críticas
-- 📈 **Líder** em projetos de transformação digital
-- 🤖 **Pioneiro** na implementação de soluções de IA empresarial
+- 🏗️ **Engenheiro de Dados** com foco em pipelines e Big Data
+- 💻 **Desenvolvedor** de soluções Full-Stack e sistemas robustos
 - 🌍 **154 repositórios** públicos demonstrando expertise técnica
+- 🤖 **Entusiasta de IA** explorando tecnologias emergentes
 
 ### 🚀 Missão & Visão
-> *"Liderar a transformação digital através de soluções seguras, escaláveis e orientadas por dados"*
+> *"Desenvolver soluções tecnológicas seguras, escaláveis e orientadas por dados, contribuindo para a inovação e excelência técnica"*
 
 **🎯 Foco Principal:**
 - 🔬 **Inovação** em Data Science e IA
 - 🛡️ **Segurança** de infraestruturas digitais
-- 🏢 **Gestão estratégica** de tecnologia
-- 📊 **Tomada de decisão** baseada em dados
+- 💻 **Desenvolvimento** de sistemas robustos
+- 📊 **Análise** e engenharia de dados
 
 ---
 
@@ -256,16 +257,16 @@ Sou **Gabriel Demetrios Lafis**, um profissional multidisciplinar com sólida ex
 </td>
 <td align="center" width="25%">
 
-**🏢 IT Management**
+**🏢 IT Knowledge**
 <br><br>
-![IT Management](https://img.shields.io/badge/Nível-Expert-00D4FF?style=for-the-badge)
+![IT Knowledge](https://img.shields.io/badge/Nível-Intermediário-4ECDC4?style=for-the-badge)
 <br><br>
-• Strategic IT Planning<br>
-• Team Leadership<br>
-• Digital Transformation<br>
-• Budget Management<br>
-• Vendor Management<br>
-• IT Governance
+• IT Infrastructure<br>
+• System Administration<br>
+• Technology Assessment<br>
+• Process Optimization<br>
+• Technical Documentation<br>
+• IT Governance Principles
 
 </td>
 </tr>
@@ -279,11 +280,11 @@ Sou **Gabriel Demetrios Lafis**, um profissional multidisciplinar com sólida ex
 
 | 💼 **Cargo** | 🏢 **Área** | ⏱️ **Experiência** | 🎯 **Especialização** |
 |:---:|:---:|:---:|:---:|
-| **Gestor de TI** | Gestão Estratégica | 5+ anos | Liderança, Planejamento, Governança |
-| **Cientista de Dados** | Data Science | 4+ anos | ML, AI, Analytics, Insights |
-| **Engenheiro de Dados** | Data Engineering | 4+ anos | Pipelines, Big Data, Cloud |
-| **Analista de Sistemas** | Desenvolvimento | 6+ anos | Full-Stack, Arquitetura, APIs |
-| **Especialista em Segurança** | Cybersecurity | 3+ anos | Pentesting, SOC, Compliance |
+| **Cientista de Dados** | Data Science | 3+ anos | ML, AI, Analytics, Insights |
+| **Engenheiro de Dados** | Data Engineering | 3+ anos | Pipelines, Big Data, Cloud |
+| **Analista de Sistemas** | Desenvolvimento | 4+ anos | Full-Stack, Arquitetura, APIs |
+| **Especialista em Segurança** | Cybersecurity | 2+ anos | Pentesting, SOC, Compliance |
+| **Desenvolvedor** | Systems Development | 4+ anos | Web Apps, APIs, Databases |
 
 </div>
 
@@ -349,40 +350,40 @@ Sou **Gabriel Demetrios Lafis**, um profissional multidisciplinar com sólida ex
 ### 🎯 **Especialização por Área**
 
 <!-- Expertise Distribution -->
-![Data Science](https://img.shields.io/badge/Data%20Science-30%25-FF6B6B?style=for-the-badge&logo=python)
+![Data Science](https://img.shields.io/badge/Data%20Science-35%25-FF6B6B?style=for-the-badge&logo=python)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-25%25-4ECDC4?style=for-the-badge&logo=security)
-![IT Management](https://img.shields.io/badge/IT%20Management-20%25-45B7D1?style=for-the-badge&logo=management)
-![Data Engineering](https://img.shields.io/badge/Data%20Engineering-15%25-96CEB4?style=for-the-badge&logo=database)
-![Systems Development](https://img.shields.io/badge/Systems%20Development-10%25-FECA57?style=for-the-badge&logo=code)
+![Data Engineering](https://img.shields.io/badge/Data%20Engineering-20%25-96CEB4?style=for-the-badge&logo=database)
+![Systems Development](https://img.shields.io/badge/Systems%20Development-15%25-FECA57?style=for-the-badge&logo=code)
+![IT Knowledge](https://img.shields.io/badge/IT%20Knowledge-5%25-45B7D1?style=for-the-badge&logo=management)
 
-### 📅 **Impacto & Resultados**
+### 📅 **Projetos & Contribuições**
 
 ```text
-🎯 ROI em Projetos de IA        ████████████████████████████████████████ 300%+
-🛡️ Redução de Incidentes        ███████████████████████████████████████  85%
-📊 Melhoria em Analytics        ████████████████████████████████████████ 250%
-⚡ Otimização de Processos      ██████████████████████████████████████   90%
-💰 Economia de Custos           ███████████████████████████████████████  75%
-🚀 Aceleração de Projetos       ████████████████████████████████████████ 200%
+📊 Projetos de Data Science     ████████████████████████████████████████ 25+
+🛡️ Análises de Segurança       ███████████████████████████████████████  15+
+🏗️ Pipelines de Dados          ████████████████████████████████████████ 20+
+💻 Aplicações Desenvolvidas     ██████████████████████████████████████   18+
+🔍 Repositórios Públicos        ████████████████████████████████████████ 154
+🎓 Certificações Obtidas        ███████████████████████████████████████  8+
 ```
 
 </div>
 
 ---
 
-## 🌐 Liderança & Networking Profissional
+## 🌐 Networking Profissional
 
 <div align="center">
 
-### 💬 **Conecte-se para Oportunidades Estratégicas**
+### 💬 **Conecte-se para Oportunidades Técnicas**
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="50"/>
 
 **Aberto para discussões sobre:**
-- 🏢 **Oportunidades de Liderança** em TI
-- 🤝 **Parcerias Estratégicas** em Data Science
+- 📊 **Projetos** de Data Science e Analytics
+- 🤝 **Colaborações** em Engenharia de Dados
 - 🛡️ **Consultoria** em Cybersecurity
-- 📊 **Projetos** de Transformação Digital
+- 💻 **Desenvolvimento** de Sistemas e APIs
 
 ### 📱 **Canais Profissionais**
 
@@ -404,38 +405,38 @@ Sou **Gabriel Demetrios Lafis**, um profissional multidisciplinar com sólida ex
 <tr>
 <td align="center">
 
-**🏢 Gestão Executiva**
-<br>
-CTO/CIO Positions<br>
-Digital Transformation<br>
-Strategic IT Planning
-
-</td>
-<td align="center">
-
 **🔬 Consultoria Técnica**
 <br>
-Data Science Strategy<br>
+Data Science Projects<br>
 Cybersecurity Assessment<br>
-Cloud Migration
+System Architecture
 
 </td>
 <td align="center">
 
-**🎓 Mentoria & Educação**
+**💻 Desenvolvimento**
 <br>
-Technical Leadership<br>
-Career Development<br>
-Industry Speaking
+Full-Stack Applications<br>
+Data Engineering<br>
+API Development
 
 </td>
 <td align="center">
 
-**🚀 Inovação & Startups**
+**🎓 Aprendizado & Educação**
 <br>
-Tech Advisory Board<br>
-Investment Analysis<br>
-Product Strategy
+Technical Training<br>
+Knowledge Sharing<br>
+Community Projects
+
+</td>
+<td align="center">
+
+**🚀 Inovação & Tecnologia**
+<br>
+Open Source Projects<br>
+Research Collaboration<br>
+Technology Exploration
 
 </td>
 </tr>
