@@ -169,42 +169,6 @@ Sou **Gabriel Demetrios Lafis**, um profissional multidisciplinar com sólida ex
 
 ---
 
-## 🏆 Conquistas & Certificações Profissionais
-
-<div align="center">
-
-<!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=galafis&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C"/>
-
-</div>
-
-### 📜 **Certificações & Qualificações**
-
-<div align="center">
-
-| 🎓 **Certificação** | 🏢 **Instituição** | 📅 **Ano** | 🔗 **Status** |
-|:---:|:---:|:---:|:---:|
-| **Graduação em Segurança Cibernética** | Universidade | 2023 | ✅ Concluído |
-| **IBM Full-Stack JavaScript Developer** | IBM/Coursera | 2024 | ✅ Concluído |
-| **AWS Solutions Architect** | Amazon Web Services | 2024 | ✅ Concluído |
-| **CISSP - Certified Information Systems Security Professional** | (ISC)² | 2024 | 🔄 Em andamento |
-| **PMP - Project Management Professional** | PMI | 2023 | ✅ Concluído |
-| **ITIL 4 Foundation** | Axelos | 2023 | ✅ Concluído |
-| **Microsoft Azure Security Engineer** | Microsoft | 2024 | 🔄 Em andamento |
-| **Certified Ethical Hacker (CEH)** | EC-Council | 2023 | ✅ Concluído |
-
-</div>
-
-### 🏅 **Especializações Técnicas**
-- 🛡️ **Cybersecurity**: Penetration Testing, Vulnerability Assessment, SOC Management
-- 📊 **Data Science**: Machine Learning, Deep Learning, Statistical Analysis
-- 🏗️ **Data Engineering**: ETL/ELT, Data Pipelines, Big Data Architecture
-- 💻 **Systems Development**: Full-Stack Development, Microservices, API Design
-- 🏢 **IT Management**: Strategic Planning, Team Leadership, Digital Transformation
-- ☁️ **Cloud Architecture**: Multi-cloud strategies, Infrastructure as Code
-
----
-
 ## 💼 Experiência & Competências Profissionais
 
 <div align="center">
@@ -320,52 +284,13 @@ Sou **Gabriel Demetrios Lafis**, um profissional multidisciplinar com sólida ex
 
 </div>
 
-### 📊 **Distribuição de Projetos por Área**
+### 📊 **Áreas de Foco dos Projetos**
 
 <div align="center">
 
-| 🤖 **Data Science & AI** | 🏗️ **Data Engineering** | 🛡️ **Cybersecurity** | 💻 **Systems Development** | 🏢 **IT Management** |
-|:---:|:---:|:---:|:---:|:---:|
-| 25 Repositórios | 20 Repositórios | 15 Repositórios | 18 Repositórios | 12 Repositórios |
-| ML/AI Solutions | Big Data Pipelines | Security Tools | Enterprise Apps | Management Systems |
-| Predictive Analytics | Cloud Architecture | Pentesting Suites | Full-Stack Solutions | Governance Frameworks |
-| Business Intelligence | ETL Frameworks | Vulnerability Scanners | API Ecosystems | Strategic Dashboards |
+**🤖 Data Science & AI** | **🏗️ Data Engineering** | **🛡️ Cybersecurity** | **💻 Systems Development**
 
-</div>
-
----
-
-## 📈 Métricas & KPIs Profissionais
-
-<div align="center">
-
-### 📊 **Indicadores de Performance**
-
-<!-- Professional Metrics -->
-<img src="https://img.shields.io/badge/Projetos%20Liderados-50+-00D4FF?style=for-the-badge&logo=project&logoColor=white" alt="Projects Led"/>
-<img src="https://img.shields.io/badge/Equipes%20Gerenciadas-15+-00D4FF?style=for-the-badge&logo=team&logoColor=white" alt="Teams Managed"/>
-<img src="https://img.shields.io/badge/Orçamento%20Gerido-R%24%205M+-00D4FF?style=for-the-badge&logo=money&logoColor=white" alt="Budget Managed"/>
-<img src="https://img.shields.io/badge/Certificações-8+-00D4FF?style=for-the-badge&logo=certificate&logoColor=white" alt="Certifications"/>
-
-### 🎯 **Especialização por Área**
-
-<!-- Expertise Distribution -->
-![Data Science](https://img.shields.io/badge/Data%20Science-35%25-FF6B6B?style=for-the-badge&logo=python)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-25%25-4ECDC4?style=for-the-badge&logo=security)
-![Data Engineering](https://img.shields.io/badge/Data%20Engineering-20%25-96CEB4?style=for-the-badge&logo=database)
-![Systems Development](https://img.shields.io/badge/Systems%20Development-15%25-FECA57?style=for-the-badge&logo=code)
-![IT Knowledge](https://img.shields.io/badge/IT%20Knowledge-5%25-45B7D1?style=for-the-badge&logo=management)
-
-### 📅 **Projetos & Contribuições**
-
-```text
-📊 Projetos de Data Science     ████████████████████████████████████████ 25+
-🛡️ Análises de Segurança       ███████████████████████████████████████  15+
-🏗️ Pipelines de Dados          ████████████████████████████████████████ 20+
-💻 Aplicações Desenvolvidas     ██████████████████████████████████████   18+
-🔍 Repositórios Públicos        ████████████████████████████████████████ 154
-🎓 Certificações Obtidas        ███████████████████████████████████████  8+
-```
+Projetos de Machine Learning e Analytics | Pipelines de Dados e Big Data | Ferramentas de Segurança | Aplicações Full-Stack e APIs
 
 </div>
 
@@ -446,156 +371,42 @@ Technology Exploration
 
 ---
 
-## 🎯 Visão Estratégica & Objetivos
+## 📚 Aprendizado Contínuo
 
 <div align="center">
 
-### 🚀 **Roadmap Profissional 2024-2025**
+### 🎯 **Foco em Desenvolvimento**
 
-<table>
-<tr>
-<td align="center" width="25%">
+**Áreas de interesse para crescimento profissional:**
+- 🤖 **Inteligência Artificial** e Machine Learning avançado
+- ☁️ **Cloud Computing** e arquiteturas escaláveis  
+- 🛡️ **Cybersecurity** e proteção de dados
+- 📊 **Data Engineering** e Big Data
+- 💻 **Desenvolvimento** de sistemas modernos
 
-**Q1 2024**
-<br><br>
-✅ Certificação CISSP<br>
-✅ Liderança de 3 projetos IA<br>
-✅ Implementação SOC<br>
-🔄 Expansão da equipe
-
-</td>
-<td align="center" width="25%">
-
-**Q2 2024**
-<br><br>
-🎯 Azure Security Engineer<br>
-🎯 Data Lake Architecture<br>
-🎯 Compliance Framework<br>
-🎯 International Projects
-
-</td>
-<td align="center" width="25%">
-
-**Q3 2024**
-<br><br>
-🎯 Executive MBA<br>
-🎯 AI Governance Program<br>
-🎯 Cybersecurity Center<br>
-🎯 Strategic Partnerships
-
-</td>
-<td align="center" width="25%">
-
-**Q4 2024**
-<br><br>
-🎯 CTO Position<br>
-🎯 Industry Recognition<br>
-🎯 Thought Leadership<br>
-🎯 Global Expansion
-
-</td>
-</tr>
-</table>
-
-### 🌟 **Missão Profissional**
-
-> *"Liderar a transformação digital através de soluções inovadoras, seguras e orientadas por dados, criando valor sustentável para organizações e sociedade"*
-
-**🎯 Objetivos Estratégicos:**
-- 🏢 **Liderança Executiva**: Posições C-Level em tecnologia
-- 🔬 **Inovação**: Pioneirismo em IA e Cybersecurity
-- 🌍 **Impacto Global**: Soluções que transformam indústrias
-- 🎓 **Educação**: Formação da próxima geração de líderes tech
-
-</div>
-
----
-
-## 📚 Thought Leadership & Contribuições
-
-<div align="center">
-
-### ✍️ **Compartilhando Expertise**
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="50"/>
-
-**Publicações & Apresentações Recentes:**
-
-| 📝 **Título** | 📅 **Data** | 🏢 **Venue** | 👀 **Impacto** |
-|:---:|:---:|:---:|:---:|
-| "AI Governance in Enterprise Security" | 15/05/2024 | RSA Conference | 5.2K views |
-| "Data-Driven Cybersecurity Strategy" | 02/05/2024 | InfoSec Summit | 3.8K views |
-| "Leading Digital Transformation" | 20/04/2024 | CIO Forum | 4.5K views |
-| "Future of Data Engineering" | 05/04/2024 | Data Summit | 2.9K views |
-
-**🎤 Speaking Engagements:**
-- 🌟 **Keynote Speaker** - Brazilian Data Science Conference 2024
-- 🎓 **Guest Lecturer** - MBA Programs in Technology Management
-- 💼 **Panel Expert** - Cybersecurity Leadership Forums
-- 🚀 **Mentor** - Startup Accelerator Programs
-
-</div>
-
----
-
-## 🏆 Reconhecimentos & Prêmios
-
-<div align="center">
-
-### 🌟 **Conquistas Profissionais**
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-**🏅 Prêmios & Reconhecimentos**
-<br><br>
-🏆 **CIO of the Year 2023** - Tech Excellence Awards<br>
-🥇 **Best Data Science Project** - Innovation Summit<br>
-🎖️ **Cybersecurity Leader** - Security Excellence<br>
-⭐ **Top 40 Under 40** - Technology Leaders<br>
-🌟 **Innovation Award** - Digital Transformation
-
-</td>
-<td align="center" width="50%">
-
-**📊 Métricas de Liderança**
-<br><br>
-👥 **Equipes Lideradas:** 50+ profissionais<br>
-💰 **Orçamento Gerido:** R$ 15M+ anualmente<br>
-🚀 **Projetos Entregues:** 100+ com sucesso<br>
-📈 **ROI Médio:** 250% em projetos de IA<br>
-🎯 **Taxa de Sucesso:** 95% em entregas
-
-</td>
-</tr>
-</table>
+### 🌟 **Objetivos de Aprendizado**
+- 📖 Manter-se atualizado com tecnologias emergentes
+- 🔬 Explorar novas ferramentas e frameworks
+- 🤝 Contribuir para projetos open source
+- 📚 Compartilhar conhecimento com a comunidade
 
 </div>
 
 ---
 
 <div align="center">
-
-### 💭 **Filosofia Profissional**
-
-> *"A verdadeira liderança em tecnologia não está apenas em dominar ferramentas, mas em inspirar pessoas, transformar processos e criar valor sustentável através da inovação responsável."*
-> 
-> **— Gabriel Demetrios Lafis**
-
----
 
 ### 🙏 **Conecte-se para Oportunidades**
 
 **Obrigado por visitar meu perfil profissional!** 
 
 **🤝 Estou sempre aberto para:**
-- 💼 Oportunidades de liderança executiva
-- 🤝 Parcerias estratégicas em tecnologia
-- 🎓 Projetos de mentoria e educação
-- 🚀 Iniciativas de inovação e transformação digital
+- 💻 **Oportunidades técnicas** em Data Science e Cybersecurity
+- 🤝 **Colaborações** em projetos de tecnologia
+- 🎓 **Aprendizado** e troca de conhecimentos
+- 🚀 **Projetos inovadores** e desafios técnicos
 
-**📞 Entre em contato para discussões estratégicas!**
+**📞 Entre em contato para discussões técnicas!**
 
 ---
 
