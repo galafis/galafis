@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header com animação -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Gabriel%20Demetrios%20Lafis&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Data%20Scientist%20%7C%20Data%20Engineer%20%7C%20Cybersecurity%20Expert&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Gabriel%20Demetrios%20Lafis&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Data%20Scientist%20%7C%20Data%20Engineer%20%7C%20Cybersecurity%20Specialist&descAlignY=55&descSize=18"/>
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=🚀+Cientista+de+Dados+%7C+Engenheiro+de+Dados;💻+Analista+%26+Desenvolvedor+de+Sistemas;🛡️+Especialista+em+Segurança+Cibernética;🎓+Graduado+em+Segurança+Cibernética;📊+Analisando+dados+e+criando+insights;🔒+Protegendo+infraestruturas+digitais!" alt="Typing SVG" />
@@ -178,9 +178,7 @@ Sou **Gabriel Demetrios Lafis**, um profissional multidisciplinar com sólida ex
 
 **🔬 Data Science & Analytics**
 <br><br>
-![Data Science](https://img.shields.io/badge/Nível-Expert-00D4FF?style=for-the-badge)
-<br><br>
-• Machine Learning Avançado<br>
+• Machine Learning<br>
 • Modelagem Preditiva<br>
 • Business Intelligence<br>
 • Statistical Analysis<br>
@@ -191,8 +189,6 @@ Sou **Gabriel Demetrios Lafis**, um profissional multidisciplinar com sólida ex
 <td align="center" width="25%">
 
 **🏗️ Data Engineering**
-<br><br>
-![Data Engineering](https://img.shields.io/badge/Nível-Expert-00D4FF?style=for-the-badge)
 <br><br>
 • Big Data Architecture<br>
 • ETL/ELT Pipelines<br>
@@ -206,8 +202,6 @@ Sou **Gabriel Demetrios Lafis**, um profissional multidisciplinar com sólida ex
 
 **🛡️ Cybersecurity**
 <br><br>
-![Cybersecurity](https://img.shields.io/badge/Nível-Expert-00D4FF?style=for-the-badge)
-<br><br>
 • Security Architecture<br>
 • Penetration Testing<br>
 • Incident Response<br>
@@ -219,8 +213,6 @@ Sou **Gabriel Demetrios Lafis**, um profissional multidisciplinar com sólida ex
 <td align="center" width="25%">
 
 **🏢 IT Knowledge**
-<br><br>
-![IT Knowledge](https://img.shields.io/badge/Nível-Intermediário-4ECDC4?style=for-the-badge)
 <br><br>
 • IT Infrastructure<br>
 • System Administration<br>
@@ -318,7 +310,7 @@ Projetos de Machine Learning e Analytics | Pipelines de Dados e Big Data | Ferra
 ### 🎯 **Foco em Desenvolvimento**
 
 **Áreas de interesse para crescimento profissional:**
-- 🤖 **Inteligência Artificial** e Machine Learning avançado
+- 🤖 **Inteligência Artificial** e Machine Learning
 - ☁️ **Cloud Computing** e arquiteturas escaláveis  
 - 🛡️ **Cybersecurity** e proteção de dados
 - 📊 **Data Engineering** e Big Data
