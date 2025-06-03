@@ -70,75 +70,71 @@ Sou **Gabriel Demetrios Lafis**, um profissional multidisciplinar com sólida ex
 <table>
 <tr>
 <td>
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=galafis&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&count_private=true&include_all_commits=true&custom_title=Estatísticas%20do%20GitHub"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=galafis&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&count_private=true&include_all_commits=true&custom_title=Estatísticas%20Completas%20do%20GitHub&rank_icon=github"/>
 </td>
 <td>
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galafis&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&langs_count=10&custom_title=Linguagens%20Mais%20Utilizadas"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galafis&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&langs_count=12&custom_title=Linguagens%20Mais%20Utilizadas&card_width=400"/>
+</td>
+</tr>
+</table>
+
+### 📈 **Métricas de Performance Avançadas**
+
+<table align="center">
+<tr>
+<td align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=galafis&theme=tokyonight&custom_title=Estatísticas%20Detalhadas"/>
+</td>
+<td align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=galafis&theme=tokyonight&utcOffset=-3&custom_title=Horários%20Produtivos"/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=galafis&theme=tokyonight&custom_title=Repositórios%20por%20Linguagem"/>
+</td>
+<td align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=galafis&theme=tokyonight&custom_title=Commits%20por%20Linguagem"/>
 </td>
 </tr>
 </table>
 
 ### 🔥 **Sequência de Contribuições**
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=galafis&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=galafis&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&excludeDaysLabel=FFFFFF"/>
 
-### 📈 **Gráfico de Atividade Anual**
+### 📊 **Gráfico de Atividade Anual**
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=galafis&theme=tokyo-night&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribuições%20nos%20últimos%2012%20meses"/>
 
-### 🎯 **Métricas Detalhadas de Performance**
+### 🏅 **Troféus e Conquistas GitHub**
 
-<table align="center">
-<tr>
-<td align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=galafis&theme=tokyonight"/>
-</td>
-<td align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=galafis&theme=tokyonight&utcOffset=8"/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=galafis&theme=tokyonight"/>
-</td>
-<td align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=galafis&theme=tokyonight"/>
-</td>
-</tr>
-</table>
-
-### 🏅 **Troféus e Conquistas**
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=galafis&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7"/>
-
-### 📊 **Distribuição de Commits por Linguagem**
-
-<img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=galafis&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&custom_title=Tempo%20de%20Codificação%20Semanal"/>
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=galafis&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C"/>
 
 ### 🌟 **Repositórios em Destaque**
 
 <table>
 <tr>
 <td>
-<a href="https://github.com/galafis/Advanced-ML-Pipeline">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=galafis&repo=Advanced-ML-Pipeline&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&icon_color=00D4FF"/>
+<a href="https://github.com/galafis/Java-Banking-System">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=galafis&repo=Java-Banking-System&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&icon_color=00D4FF"/>
 </a>
 </td>
 <td>
-<a href="https://github.com/galafis/Cybersecurity-Toolkit">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=galafis&repo=Cybersecurity-Toolkit&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&icon_color=00D4FF"/>
+<a href="https://github.com/galafis/React-Admin-Dashboard">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=galafis&repo=React-Admin-Dashboard&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&icon_color=00D4FF"/>
 </a>
 </td>
 </tr>
 <tr>
 <td>
-<a href="https://github.com/galafis/Data-Engineering-Platform">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=galafis&repo=Data-Engineering-Platform&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&icon_color=00D4FF"/>
+<a href="https://github.com/galafis/TypeScript-API-Gateway">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=galafis&repo=TypeScript-API-Gateway&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&icon_color=00D4FF"/>
 </a>
 </td>
 <td>
-<a href="https://github.com/galafis/Real-Time-Analytics-Dashboard">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=galafis&repo=Real-Time-Analytics-Dashboard&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&icon_color=00D4FF"/>
+<a href="https://github.com/galafis/R-Statistical-Modeling">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=galafis&repo=R-Statistical-Modeling&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&icon_color=00D4FF"/>
 </a>
 </td>
 </tr>
@@ -146,7 +142,7 @@ Sou **Gabriel Demetrios Lafis**, um profissional multidisciplinar com sólida ex
 
 ### 📈 **Estatísticas de Contribuição Detalhadas**
 
-<img width="100%" src="https://github-contributor-stats.vercel.app/api?username=galafis&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+<img width="100%" src="https://github-contributor-stats.vercel.app/api?username=galafis&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&show_discussions=true"/>
 
 ### 🎨 **Visualização 3D das Contribuições**
 
