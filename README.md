@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Header com animação -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Gabriel%20Demetrios%20Lafis&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Data%20Scientist%20%7C%20IT%20Manager%20%7C%20Cybersecurity%20Expert&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Gabriel%20Demetrios%20Lafis&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Data%20Scientist%20%7C%20Data%20Engineer%20%7C%20Cybersecurity%20Expert&descAlignY=55&descSize=18"/>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=🚀+Cientista+de+Dados+%7C+Engenheiro+de+Dados;💻+Analista+%26+Desenvolvedor+de+Sistemas;🛡️+Especialista+em+Segurança+Cibernética;🏢+Gestor+de+Tecnologia+da+Informação;📊+Transformando+dados+em+insights+estratégicos;🔒+Protegendo+infraestruturas+digitais!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=🚀+Cientista+de+Dados+%7C+Engenheiro+de+Dados;💻+Analista+%26+Desenvolvedor+de+Sistemas;🛡️+Especialista+em+Segurança+Cibernética;🎓+Graduado+em+Segurança+Cibernética;📊+Analisando+dados+e+criando+insights;🔒+Protegendo+infraestruturas+digitais!" alt="Typing SVG" />
 
 <!-- Social Badges -->
 <p>
@@ -35,7 +35,7 @@
 
 ### 👨‍💼 Quem sou eu?
 
-Sou **Gabriel Demetrios Lafis**, um profissional multidisciplinar com sólida experiência em **Data Science**, **Engenharia de Dados**, **Desenvolvimento de Sistemas** e **Segurança Cibernética**. Combino expertise técnica com conhecimento em gestão de TI para desenvolver soluções inovadoras e eficientes.
+Sou **Gabriel Demetrios Lafis**, um profissional multidisciplinar com sólida experiência em **Data Science**, **Engenharia de Dados**, **Desenvolvimento de Sistemas** e **Segurança Cibernética**. Combino expertise técnica com conhecimento em tecnologia para desenvolver soluções inovadoras e eficientes.
 
 ### 🎓 Formação Acadêmica & Profissional
 - 🎓 **Graduação em Segurança Cibernética**
@@ -155,7 +155,7 @@ Sou **Gabriel Demetrios Lafis**, um profissional multidisciplinar com sólida ex
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
 </p>
 
-### 🏢 **Gestão & Governança de TI**
+### 🏢 **Conhecimento em TI**
 <p>
   <img src="https://img.shields.io/badge/ITIL-326CE5?style=for-the-badge&logo=itil&logoColor=white" alt="ITIL"/>
   <img src="https://img.shields.io/badge/COBIT-FF6B35?style=for-the-badge&logo=cobit&logoColor=white" alt="COBIT"/>
@@ -254,7 +254,7 @@ Sou **Gabriel Demetrios Lafis**, um profissional multidisciplinar com sólida ex
 
 ---
 
-## 🚀 Projetos Estratégicos em Destaque
+## 🚀 Projetos em Destaque
 
 <div align="center">
 
@@ -324,49 +324,6 @@ Projetos de Machine Learning e Analytics | Pipelines de Dados e Big Data | Ferra
   </a>
 </p>
 
-### 🤝 **Áreas de Interesse para Colaboração**
-
-<table align="center">
-<tr>
-<td align="center">
-
-**🔬 Consultoria Técnica**
-<br>
-Data Science Projects<br>
-Cybersecurity Assessment<br>
-System Architecture
-
-</td>
-<td align="center">
-
-**💻 Desenvolvimento**
-<br>
-Full-Stack Applications<br>
-Data Engineering<br>
-API Development
-
-</td>
-<td align="center">
-
-**🎓 Aprendizado & Educação**
-<br>
-Technical Training<br>
-Knowledge Sharing<br>
-Community Projects
-
-</td>
-<td align="center">
-
-**🚀 Inovação & Tecnologia**
-<br>
-Open Source Projects<br>
-Research Collaboration<br>
-Technology Exploration
-
-</td>
-</tr>
-</table>
-
 </div>
 
 ---
@@ -411,7 +368,7 @@ Technology Exploration
 ---
 
 <!-- Footer Animation -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Transformando%20o%20Futuro%20com%20Tecnologia&fontSize=18&fontColor=fff&animation=twinkling&fontAlignY=75"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Gabriel%20Demetrios%20Lafis&fontSize=18&fontColor=fff&animation=twinkling&fontAlignY=75"/>
 
 <!-- Final Professional Stats -->
 ![Profile Views](https://komarev.com/ghpvc/?username=galafis&color=00D4FF&style=for-the-badge&label=VISUALIZAÇÕES+PROFISSIONAIS)
@@ -419,7 +376,7 @@ Technology Exploration
 ![Stars](https://img.shields.io/github/stars/galafis?color=00D4FF&style=for-the-badge&label=RECONHECIMENTO&logo=github)
 
 **🔄 Última atualização:** Junho 2024 | **📍 Localização:** São Paulo, Brasil | **🌐 Timezone:** GMT-3
-**💼 Status:** Disponível para oportunidades de liderança | **🎯 Foco:** Transformação Digital & IA
+**💼 Status:** Disponível para oportunidades técnicas | **🎯 Foco:** Data Science & Cybersecurity
 
 </div>
 
