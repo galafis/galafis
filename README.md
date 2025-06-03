@@ -39,17 +39,14 @@ Sou **Gabriel Demetrios Lafis**, um profissional multidisciplinar com sólida ex
 
 ### 🎓 Formação Acadêmica & Profissional
 - 🎓 **Graduação em Segurança Cibernética**
-- 📊 **Cientista de Dados** com expertise em ML/AI
-- 🏗️ **Engenheiro de Dados** especializado em Big Data
-- 💻 **Analista e Desenvolvedor de Sistemas** Full-Stack
-- 🏢 **Gestor de Tecnologia da Informação**
-- 🛡️ **Especialista em Cybersecurity** e Infraestrutura
+- 🎓 **Graduação em Análise e Desenvolvimento de Sistemas**
+- 🎓 **Graduação em Gestão da Tecnologia da Informação**
 
 ### 🌟 Experiência Profissional
 - 📊 **Cientista de Dados** com expertise em análise e modelagem
-- 🔒 **Especialista** em segurança de infraestruturas críticas
 - 🏗️ **Engenheiro de Dados** com foco em pipelines e Big Data
-- 💻 **Desenvolvedor** de soluções Full-Stack e sistemas robustos
+- 💻 **Desenvolvedor de Sistemas** Full-Stack e APIs
+- 🛡️ **Especialista em Cybersecurity** e proteção de dados
 - 🌍 **154 repositórios** públicos demonstrando expertise técnica
 - 🤖 **Entusiasta de IA** explorando tecnologias emergentes
 
@@ -235,20 +232,6 @@ Sou **Gabriel Demetrios Lafis**, um profissional multidisciplinar com sólida ex
 </td>
 </tr>
 </table>
-
-</div>
-
-### 📈 **Experiência Profissional Detalhada**
-
-<div align="center">
-
-| 💼 **Cargo** | 🏢 **Área** | ⏱️ **Experiência** | 🎯 **Especialização** |
-|:---:|:---:|:---:|:---:|
-| **Cientista de Dados** | Data Science | 3+ anos | ML, AI, Analytics, Insights |
-| **Engenheiro de Dados** | Data Engineering | 3+ anos | Pipelines, Big Data, Cloud |
-| **Analista de Sistemas** | Desenvolvimento | 4+ anos | Full-Stack, Arquitetura, APIs |
-| **Especialista em Segurança** | Cybersecurity | 2+ anos | Pentesting, SOC, Compliance |
-| **Desenvolvedor** | Systems Development | 4+ anos | Web Apps, APIs, Databases |
 
 </div>
 
