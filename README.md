@@ -47,7 +47,7 @@ Sou **Gabriel Demetrios Lafis**, um profissional multidisciplinar com sólida ex
 - 🏗️ **Engenheiro de Dados** com foco em pipelines e Big Data
 - 💻 **Desenvolvedor de Sistemas** Full-Stack e APIs
 - 🛡️ **Especialista em Cybersecurity** e proteção de dados
-- 🌍 **154 repositórios** públicos demonstrando expertise técnica
+- 🌍 **275 repositórios** públicos demonstrando expertise técnica
 - 🤖 **Entusiasta de IA** explorando tecnologias emergentes
 
 ### 🚀 Missão & Visão
