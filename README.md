@@ -73,7 +73,7 @@ Sou **Gabriel Demetrios Lafis**, um profissional multidisciplinar com sólida ex
 <img height="200em" src="https://github-readme-stats.vercel.app/api?username=galafis&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&count_private=true&include_all_commits=true&custom_title=Estatísticas%20Completas%20do%20GitHub&rank_icon=github"/>
 </td>
 <td>
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galafis&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&langs_count=12&custom_title=Linguagens%20Mais%20Utilizadas&card_width=400"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galafis&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&langs_count=10&custom_title=Linguagens%20Mais%20Utilizadas&card_width=400"/>
 </td>
 </tr>
 </table>
