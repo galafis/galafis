@@ -1,427 +1,329 @@
 <div align="center">
 
-<!-- Header com animação -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Gabriel%20Demetrios%20Lafis&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Data%20Scientist%20%7C%20Data%20Engineer%20%7C%20Cybersecurity%20Specialist&descAlignY=55&descSize=18"/>
+# Gabriel Demetrios Lafis
+### 🔬 Data Scientist | 📊 Data Analyst | 🤖 AI Specialist
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=🚀+Cientista+de+Dados+%7C+Engenheiro+de+Dados;💻+Analista+%26+Desenvolvedor+de+Sistemas;🛡️+Especialista+em+Segurança+Cibernética;🎓+Graduado+em+Segurança+Cibernética;📊+Analisando+dados+e+criando+insights;🔒+Protegendo+infraestruturas+digitais!" alt="Typing SVG" />
+*[English](#english) | [Português](#português)*
 
-<!-- Social Badges -->
-<p>
-  <a href="https://www.linkedin.com/in/gabriel-demetrios-lafis-62197711b">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:gabrieldemetrios@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
-  </a>
-  <a href="https://github.com/galafis">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000" alt="GitHub"/>
-  </a>
-  <a href="https://wa.me/5511999999999">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366" alt="WhatsApp"/>
-  </a>
-</p>
-
-<!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=galafis&color=00D4FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-demetrios-lafis)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/galafis)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrieldemetrios@gmail.com)
 
 </div>
 
 ---
 
-## 🎯 Perfil Profissional
+## English
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+### 👨‍💻 About Me
 
-### 👨‍💼 Quem sou eu?
+I'm a **Data Scientist** and **AI Specialist** with extensive experience in cybersecurity, systems development, and IT management. I combine analytical expertise with technical skills to transform large volumes of data into strategic insights that support data-driven decision making.
 
-Sou **Gabriel Demetrios Lafis**, um profissional multidisciplinar com sólida experiência em **Data Science**, **Engenharia de Dados**, **Desenvolvimento de Sistemas** e **Segurança Cibernética**. Combino expertise técnica com conhecimento em tecnologia para desenvolver soluções inovadoras e eficientes.
-
-### 🎓 Formação Acadêmica & Profissional
-- 🎓 **Graduação em Segurança Cibernética**
-- 🎓 **Graduação em Análise e Desenvolvimento de Sistemas**
-- 🎓 **Graduação em Gestão da Tecnologia da Informação**
-
-### 🌟 Experiência Profissional
-- 📊 **Cientista de Dados** com expertise em análise e modelagem
-- 🏗️ **Engenheiro de Dados** com foco em pipelines e Big Data
-- 💻 **Desenvolvedor de Sistemas** Full-Stack e APIs
-- 🛡️ **Especialista em Cybersecurity** e proteção de dados
-- 🌍 **275 repositórios** públicos demonstrando expertise técnica
-- 🤖 **Entusiasta de IA** explorando tecnologias emergentes
-
-### 🚀 Missão & Visão
-> *"Desenvolver soluções tecnológicas seguras, escaláveis e orientadas por dados, contribuindo para a inovação e excelência técnica"*
-
-**🎯 Foco Principal:**
-- 🔬 **Inovação** em Data Science e IA
-- 🛡️ **Segurança** de infraestruturas digitais
-- 💻 **Desenvolvimento** de sistemas robustos
-- 📊 **Análise** e engenharia de dados
+**🎯 Current Focus:** Advanced Machine Learning, Deep Learning, Fraud Detection, and AI-driven analytics solutions
 
 ---
 
-## 📊 GitHub Analytics & Performance
+### 🎓 Education & Professional Certifications
 
-<div align="center">
+**🎓 Academic Degrees:**
+- **Data Science Professional** - EBAC (2024-2025)
+- **Bachelor's in Cybersecurity** - UNDB (2023-2025)
+- **Bachelor's in Systems Analysis and Development** - UNDB (2023-2025)
+- **Bachelor's in Information Technology Management** - UNDB (2023-2025)
 
-### 🏆 **Estatísticas Gerais do GitHub**
+**📜 Professional Certificates:**
+- **IBM Data Science Professional Certificate** - IBM/Coursera (2024-2025)
+- **IBM Data Analyst Professional Certificate** - IBM/Coursera (2024-2025)
+- **Data Science Specialization** - Johns Hopkins University/Coursera (2024-2025)
+- **IBM Full Stack Software Developer Professional Certificate** - IBM/Coursera (2024-2025)
+- **IBM Business Intelligence (BI) Analyst Professional Certificate** - IBM/Coursera (2024-2025)
+- **IBM Cybersecurity Analyst Professional Certificate** - IBM/Coursera (2025)
+
+---
+
+### 💼 Professional Experience
+
+**🏦 SICREDI** - *Junior-Mid Level Cybersecurity Analyst* (Jan 2023 - Jun 2025)
+- Strategic role in fraud prevention, detection and response to cyber risks
+- Enterprise-grade projects using data analysis and AI for security
+- Developed AI Financial Fraud Detection System using ML/DL, Random Forest, XGBoost, Neural Networks
+
+**🌐 EBANX** - *Full-Stack Intern* (Mar 2022 - Jan 2023)
+- Full-stack development experience in fintech environment
+
+**💻 FREELANCER** - *Data Scientist & Analyst* (Mar 2022 - Present)
+- 275+ repositories on GitHub (154 public) focused on AI, data science, big data, bioinformatics
+- Projects spanning finance, healthcare, biotechnology, and corporate systems
+
+---
+
+### 🚀 Featured Projects
+
+#### 🔍 [AI Financial Fraud Detection](https://github.com/galafis/ai-financial-fraud-detection)
+**Enterprise-grade fraud detection system with AI**
+- **Tech Stack:** Python, TensorFlow, XGBoost, Kafka, Spark Streaming, MLOps
+- **Features:** Real-time detection, explainable AI, drift detection, automated monitoring
+
+#### 📈 [High-Frequency Trading Analytics](https://github.com/galafis/high-frequency-trading-analytics)
+**Advanced analytics for high-frequency trading**
+- **Tech Stack:** Python, Machine Learning, Time Series Analysis
+- **Features:** Market prediction, risk analysis, automated trading strategies
+
+#### 🧬 [Genomic Data Analysis Pipeline](https://github.com/galafis/genomic-data-analysis-pipeline)
+**Bioinformatics pipeline for genomic analysis**
+- **Tech Stack:** Python, R, NGS, Bioinformatics tools
+- **Features:** Genomic sequencing analysis, variant calling, statistical analysis
+
+#### 🌐 [Multi-language Sentiment Engine](https://github.com/galafis/multi-language-sentiment-engine)
+**Multilingual sentiment analysis engine**
+- **Tech Stack:** Python, NLP, TensorFlow, BERT
+- **Features:** Multi-language support, real-time analysis, API integration
+
+---
+
+### 🛠️ Technical Skills
 
 <table>
 <tr>
-<td>
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=galafis&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&count_private=true&include_all_commits=true&custom_title=Estatísticas%20Completas%20do%20GitHub&rank_icon=github"/>
+<td width="50%">
+
+**🔬 Data Science & AI**
+- Machine Learning & Deep Learning
+- Statistical Modeling & Analysis
+- Predictive Analytics & Forecasting
+- Time Series Analysis
+- Natural Language Processing (NLP)
+- Computer Vision
+- Fraud Detection Systems
+
 </td>
-<td>
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galafis&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&langs_count=10&custom_title=Linguagens%20Mais%20Utilizadas&card_width=400"/>
+<td width="50%">
+
+**💻 Programming Languages**
+- Python, R, SQL
+- Java, Scala, Julia
+- JavaScript, TypeScript
+- Go, Rust, PHP
+- SAS/Matlab, Bash/Shell
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🛠️ Tools & Frameworks**
+- TensorFlow, PyTorch, Scikit-learn
+- Pandas, NumPy, Matplotlib, Seaborn
+- Apache Spark, Kafka, Airflow
+- Docker, Kubernetes, MLOps
+- Power BI, Tableau, Looker Studio
+
+</td>
+<td width="50%">
+
+**☁️ Cloud & Infrastructure**
+- AWS, Google Cloud Platform, Azure
+- Big Data Processing
+- Real-time Data Streaming
+- MLOps & Model Deployment
+- Data Governance
+- Linux, Git, GitHub
+
 </td>
 </tr>
 </table>
 
-### 📈 **Métricas de Performance Avançadas**
+---
 
-<table align="center">
-<tr>
-<td align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=galafis&theme=tokyonight&custom_title=Estatísticas%20Detalhadas"/>
-</td>
-<td align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=galafis&theme=tokyonight&utcOffset=-3&custom_title=Horários%20Produtivos"/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=galafis&theme=tokyonight&custom_title=Repositórios%20por%20Linguagem"/>
-</td>
-<td align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=galafis&theme=tokyonight&custom_title=Commits%20por%20Linguagem"/>
-</td>
-</tr>
-</table>
+### 📊 GitHub Analytics
 
-### 🔥 **Sequência de Contribuições**
+<div align="center">
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=galafis&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&excludeDaysLabel=FFFFFF"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=galafis&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 
-### 📊 **Gráfico de Atividade Anual**
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=galafis&layout=compact&theme=dark&hide_border=true&langs_count=8)
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=galafis&theme=tokyo-night&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribuições%20nos%20últimos%2012%20meses"/>
+</div>
 
-### 🏅 **Troféus e Conquistas GitHub**
+---
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=galafis&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C"/>
+### 🎯 Professional Interests
 
-### 🌟 **Repositórios em Destaque**
+- **🔬 Advanced Analytics:** Developing sophisticated models for complex business problems
+- **🤖 AI Innovation:** Exploring cutting-edge AI technologies and applications
+- **🛡️ Cybersecurity:** Implementing AI-driven security solutions
+- **📊 Business Intelligence:** Creating data-driven insights for strategic decisions
+- **🌐 Open Source:** Contributing to the data science and AI community
+
+---
+
+## Português
+
+### 👨‍💻 Sobre Mim
+
+Sou **Cientista de Dados** e **Especialista em IA** com ampla experiência em segurança cibernética, desenvolvimento de sistemas e gestão de TI. Combino expertise analítica com habilidades técnicas para transformar grandes volumes de dados em insights estratégicos que apoiam a tomada de decisões baseada em dados.
+
+**🎯 Foco Atual:** Machine Learning Avançado, Deep Learning, Detecção de Fraudes e soluções analíticas orientadas por IA
+
+---
+
+### 🎓 Formação Acadêmica e Certificações Profissionais
+
+**🎓 Graduações:**
+- **Cientista de Dados** - EBAC (2024-2025)
+- **Tecnólogo em Segurança Cibernética** - UNDB (2023-2025)
+- **Tecnólogo em Análise e Desenvolvimento de Sistemas** - UNDB (2023-2025)
+- **Tecnólogo em Gestão da Tecnologia da Informação** - UNDB (2023-2025)
+
+**📜 Certificações Profissionais:**
+- **IBM Data Science Professional Certificate** - IBM/Coursera (2024-2025)
+- **IBM Data Analyst Professional Certificate** - IBM/Coursera (2024-2025)
+- **Data Science Specialization** - Johns Hopkins University/Coursera (2024-2025)
+- **IBM Full Stack Software Developer Professional Certificate** - IBM/Coursera (2024-2025)
+- **IBM Business Intelligence (BI) Analyst Professional Certificate** - IBM/Coursera (2024-2025)
+- **IBM Cybersecurity Analyst Professional Certificate** - IBM/Coursera (2025)
+
+---
+
+### 💼 Experiência Profissional
+
+**🏦 SICREDI** - *Analista de Cibersegurança Júnior-Pleno* (Jan 2023 - Jun 2025)
+- Atuação estratégica na prevenção, detecção e resposta a fraudes e riscos cibernéticos
+- Projetos enterprise-grade utilizando análise de dados e IA para segurança
+- Desenvolvimento de Sistema de Detecção de Fraudes Financeiras com IA usando ML/DL, Random Forest, XGBoost
+
+**🌐 EBANX** - *Estagiário Full-Stack* (Mar 2022 - Jan 2023)
+- Experiência em desenvolvimento full-stack em ambiente fintech
+
+**💻 FREELANCER** - *Cientista e Analista de Dados* (Mar 2022 - Atual)
+- 275+ repositórios no GitHub (154 públicos) focados em IA, ciência de dados, big data, bioinformática
+- Projetos abrangendo finanças, saúde, biotecnologia e sistemas corporativos
+
+---
+
+### 🚀 Projetos em Destaque
+
+#### 🔍 [Sistema de Detecção de Fraudes com IA](https://github.com/galafis/ai-financial-fraud-detection)
+**Sistema enterprise de detecção de fraudes com IA**
+- **Stack Tecnológico:** Python, TensorFlow, XGBoost, Kafka, Spark Streaming, MLOps
+- **Funcionalidades:** Detecção em tempo real, IA explicável, detecção de drift, monitoramento automatizado
+
+#### 📈 [Análise de Trading de Alta Frequência](https://github.com/galafis/high-frequency-trading-analytics)
+**Análise avançada para negociações de alta frequência**
+- **Stack Tecnológico:** Python, Machine Learning, Análise de Séries Temporais
+- **Funcionalidades:** Previsão de mercado, análise de risco, estratégias de trading automatizadas
+
+#### 🧬 [Pipeline de Análise de Dados Genômicos](https://github.com/galafis/genomic-data-analysis-pipeline)
+**Pipeline de bioinformática para análise genômica**
+- **Stack Tecnológico:** Python, R, NGS, ferramentas de bioinformática
+- **Funcionalidades:** Análise de sequenciamento genômico, chamada de variantes, análise estatística
+
+#### 🌐 [Motor de Análise de Sentimentos Multilíngue](https://github.com/galafis/multi-language-sentiment-engine)
+**Motor de análise de sentimentos multilíngue**
+- **Stack Tecnológico:** Python, NLP, TensorFlow, BERT
+- **Funcionalidades:** Suporte multilíngue, análise em tempo real, integração via API
+
+---
+
+### 🛠️ Competências Técnicas
 
 <table>
 <tr>
-<td>
-<a href="https://github.com/galafis/Java-Banking-System">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=galafis&repo=Java-Banking-System&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&icon_color=00D4FF"/>
-</a>
+<td width="50%">
+
+**🔬 Ciência de Dados e IA**
+- Machine Learning e Deep Learning
+- Modelagem e Análise Estatística
+- Análise Preditiva e Forecasting
+- Análise de Séries Temporais
+- Processamento de Linguagem Natural (NLP)
+- Visão Computacional
+- Sistemas de Detecção de Fraudes
+
 </td>
-<td>
-<a href="https://github.com/galafis/React-Admin-Dashboard">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=galafis&repo=React-Admin-Dashboard&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&icon_color=00D4FF"/>
-</a>
+<td width="50%">
+
+**💻 Linguagens de Programação**
+- Python, R, SQL
+- Java, Scala, Julia
+- JavaScript, TypeScript
+- Go, Rust, PHP
+- SAS/Matlab, Bash/Shell
+
 </td>
 </tr>
 <tr>
-<td>
-<a href="https://github.com/galafis/TypeScript-API-Gateway">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=galafis&repo=TypeScript-API-Gateway&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&icon_color=00D4FF"/>
-</a>
-</td>
-<td>
-<a href="https://github.com/galafis/R-Statistical-Modeling">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=galafis&repo=R-Statistical-Modeling&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&icon_color=00D4FF"/>
-</a>
-</td>
-</tr>
-</table>
+<td width="50%">
 
-### 📈 **Estatísticas de Contribuição Detalhadas**
-
-<img width="100%" src="https://github-contributor-stats.vercel.app/api?username=galafis&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&show_discussions=true"/>
-
-### 🎨 **Visualização 3D das Contribuições**
-
-<img width="100%" src="https://github.com/galafis/galafis/blob/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-## 🛠️ Arsenal Tecnológico Completo
-
-<div align="center">
-
-### 💻 **Linguagens de Programação**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
-</p>
-
-### 🤖 **Data Science & AI**
-<p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Spark"/>
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/>
-</p>
-
-### 🌐 **Desenvolvimento de Sistemas**
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET"/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
-</p>
-
-### 🛡️ **Segurança Cibernética**
-<p>
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/>
-  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/>
-  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP"/>
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" alt="Burp Suite"/>
-  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk"/>
-</p>
-
-### ☁️ **Cloud & DevOps**
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Microsoft%20Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
-</p>
-
-### 🗄️ **Bancos de Dados & Big Data**
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
-  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka"/>
-  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
-</p>
-
-### 🏢 **Conhecimento em TI**
-<p>
-  <img src="https://img.shields.io/badge/ITIL-326CE5?style=for-the-badge&logo=itil&logoColor=white" alt="ITIL"/>
-  <img src="https://img.shields.io/badge/COBIT-FF6B35?style=for-the-badge&logo=cobit&logoColor=white" alt="COBIT"/>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
-  <img src="https://img.shields.io/badge/ServiceNow-62D84E?style=for-the-badge&logo=servicenow&logoColor=white" alt="ServiceNow"/>
-  <img src="https://img.shields.io/badge/Microsoft%20Project-217346?style=for-the-badge&logo=microsoft&logoColor=white" alt="MS Project"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
-</p>
-
-</div>
-
----
-
-## 💼 Experiência & Competências Profissionais
-
-<div align="center">
-
-### 🎯 **Áreas de Atuação**
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-**🔬 Data Science & Analytics**
-<br><br>
-• Machine Learning<br>
-• Modelagem Preditiva<br>
-• Business Intelligence<br>
-• Statistical Analysis<br>
-• Data Visualization<br>
-• A/B Testing & Experimentation
+**🛠️ Ferramentas e Frameworks**
+- TensorFlow, PyTorch, Scikit-learn
+- Pandas, NumPy, Matplotlib, Seaborn
+- Apache Spark, Kafka, Airflow
+- Docker, Kubernetes, MLOps
+- Power BI, Tableau, Looker Studio
 
 </td>
-<td align="center" width="25%">
+<td width="50%">
 
-**🏗️ Data Engineering**
-<br><br>
-• Big Data Architecture<br>
-• ETL/ELT Pipelines<br>
-• Data Warehousing<br>
-• Stream Processing<br>
-• Cloud Data Solutions<br>
-• Data Governance
-
-</td>
-<td align="center" width="25%">
-
-**🛡️ Cybersecurity**
-<br><br>
-• Security Architecture<br>
-• Penetration Testing<br>
-• Incident Response<br>
-• Risk Assessment<br>
-• Compliance Management<br>
-• Security Operations Center
-
-</td>
-<td align="center" width="25%">
-
-**🏢 IT Knowledge**
-<br><br>
-• IT Infrastructure<br>
-• System Administration<br>
-• Technology Assessment<br>
-• Process Optimization<br>
-• Technical Documentation<br>
-• IT Governance Principles
+**☁️ Cloud e Infraestrutura**
+- AWS, Google Cloud Platform, Azure
+- Processamento de Big Data
+- Streaming de Dados em Tempo Real
+- MLOps e Deploy de Modelos
+- Governança de Dados
+- Linux, Git, GitHub
 
 </td>
 </tr>
 </table>
 
-</div>
-
 ---
 
-## 🚀 Projetos em Destaque
+### 📊 Métricas do GitHub
 
 <div align="center">
 
-### 🌟 **Portfolio de Soluções Empresariais**
-
-<!-- Pinned Repositories -->
-<a href="https://github.com/galafis/Advanced-ML-Pipeline">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=galafis&repo=Advanced-ML-Pipeline&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&icon_color=00D4FF"/>
-</a>
-<a href="https://github.com/galafis/Real-Time-Stock-Analytics">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=galafis&repo=Real-Time-Stock-Analytics&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&icon_color=00D4FF"/>
-</a>
-
-<a href="https://github.com/galafis/Network-Security-Scanner">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=galafis&repo=Network-Security-Scanner&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&icon_color=00D4FF"/>
-</a>
-<a href="https://github.com/galafis/Smart-Business-Intelligence-Platform">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=galafis&repo=Smart-Business-Intelligence-Platform&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&icon_color=00D4FF"/>
-</a>
-
-<a href="https://github.com/galafis/Cloud-Data-Warehouse">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=galafis&repo=Cloud-Data-Warehouse&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&icon_color=00D4FF"/>
-</a>
-<a href="https://github.com/galafis/Vulnerability-Assessment-Tool">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=galafis&repo=Vulnerability-Assessment-Tool&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&icon_color=00D4FF"/>
-</a>
-
-</div>
-
-### 📊 **Áreas de Foco dos Projetos**
-
-<div align="center">
-
-**🤖 Data Science & AI** | **🏗️ Data Engineering** | **🛡️ Cybersecurity** | **💻 Systems Development**
-
-Projetos de Machine Learning e Analytics | Pipelines de Dados e Big Data | Ferramentas de Segurança | Aplicações Full-Stack e APIs
+| Métrica | Valor |
+|---------|-------|
+| 📁 **Repositórios Públicos** | 275+ |
+| ⭐ **Total de Stars** | Em crescimento |
+| 🔄 **Projetos Ativos** | 15+ |
+| 🌐 **Linguagens Utilizadas** | 10+ |
+| 📈 **Anos de Experiência** | 3+ |
 
 </div>
 
 ---
 
-## 🌐 Networking Profissional
+### 🎯 Interesses Profissionais
 
-<div align="center">
-
-### 💬 **Conecte-se para Oportunidades Técnicas**
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="50"/>
-
-**Aberto para discussões sobre:**
-- 📊 **Projetos** de Data Science e Analytics
-- 🤝 **Colaborações** em Engenharia de Dados
-- 🛡️ **Consultoria** em Cybersecurity
-- 💻 **Desenvolvimento** de Sistemas e APIs
-
-### 📱 **Canais Profissionais**
-
-<p>
-  <a href="https://www.linkedin.com/in/gabriel-demetrios-lafis-62197711b">
-    <img src="https://img.shields.io/badge/LinkedIn-Networking%20Profissional-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:gabrieldemetrios@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contato%20Corporativo-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
-  </a>
-  <a href="https://wa.me/5511999999999">
-    <img src="https://img.shields.io/badge/WhatsApp-Contato%20Direto-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366" alt="WhatsApp"/>
-  </a>
-</p>
-
-</div>
+- **🔬 Análise Avançada:** Desenvolvimento de modelos sofisticados para problemas complexos de negócio
+- **🤖 Inovação em IA:** Exploração de tecnologias de IA de ponta e suas aplicações
+- **🛡️ Cibersegurança:** Implementação de soluções de segurança orientadas por IA
+- **📊 Business Intelligence:** Criação de insights orientados por dados para decisões estratégicas
+- **🌐 Open Source:** Contribuição para a comunidade de ciência de dados e IA
 
 ---
 
-## 📚 Aprendizado Contínuo
+### 🤝 Vamos nos Conectar
 
-<div align="center">
+Estou sempre interessado em colaborar em projetos inovadores de ciência de dados, discutir tendências de IA ou explorar novas oportunidades na área.
 
-### 🎯 **Foco em Desenvolvimento**
+**💼 Aberto para:**
+- Oportunidades de consultoria em Data Science & IA
+- Projetos de pesquisa colaborativa
+- Palestras e compartilhamento de conhecimento
+- Mentoria para aspirantes a cientistas de dados
 
-**Áreas de interesse para crescimento profissional:**
-- 🤖 **Inteligência Artificial** e Machine Learning
-- ☁️ **Cloud Computing** e arquiteturas escaláveis  
-- 🛡️ **Cybersecurity** e proteção de dados
-- 📊 **Data Engineering** e Big Data
-- 💻 **Desenvolvimento** de sistemas modernos
-
-### 🌟 **Objetivos de Aprendizado**
-- 📖 Manter-se atualizado com tecnologias emergentes
-- 🔬 Explorar novas ferramentas e frameworks
-- 🤝 Contribuir para projetos open source
-- 📚 Compartilhar conhecimento com a comunidade
-
-</div>
+**📧 Entre em contato:** [LinkedIn](https://linkedin.com/in/gabriel-demetrios-lafis) | [Email](mailto:gabrieldemetrios@gmail.com)
 
 ---
 
 <div align="center">
 
-### 🙏 **Conecte-se para Oportunidades**
+*"Transformando dados em insights, insights em ação"*
 
-**Obrigado por visitar meu perfil profissional!** 
-
-**🤝 Estou sempre aberto para:**
-- 💻 **Oportunidades técnicas** em Data Science e Cybersecurity
-- 🤝 **Colaborações** em projetos de tecnologia
-- 🎓 **Aprendizado** e troca de conhecimentos
-- 🚀 **Projetos inovadores** e desafios técnicos
-
-**📞 Entre em contato para discussões técnicas!**
-
----
-
-<!-- Footer Animation -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Gabriel%20Demetrios%20Lafis&fontSize=18&fontColor=fff&animation=twinkling&fontAlignY=75"/>
-
-<!-- Final Professional Stats -->
-![Profile Views](https://komarev.com/ghpvc/?username=galafis&color=00D4FF&style=for-the-badge&label=VISUALIZAÇÕES+PROFISSIONAIS)
-![Followers](https://img.shields.io/github/followers/galafis?color=00D4FF&style=for-the-badge&label=NETWORK&logo=github)
-![Stars](https://img.shields.io/github/stars/galafis?color=00D4FF&style=for-the-badge&label=RECONHECIMENTO&logo=github)
+**⚡ Construindo o futuro com dados e IA**
 
 </div>
 
