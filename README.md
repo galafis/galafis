@@ -1,7 +1,7 @@
 <div align="center">
 
 # Gabriel Demetrios Lafis
-### 🔬 Data Scientist | 📊 Data Analyst | 🤖 AI Specialist
+### 🔬 Data Scientist | 📊 Data Analyst | 🤖 AI Specialist | 🛠️ Data Engineer
 
 *[English](#english) | [Português](#português)*
 
