@@ -17,7 +17,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a **Data Scientist** and **AI Specialist** with extensive experience in cybersecurity, systems development, and IT management. I combine analytical expertise with technical skills to transform large volumes of data into strategic insights that support data-driven decision making.
+I'm a **Data Scientist**, **AI Specialist** and **Data Enginner** with extensive experience in cybersecurity, systems development, and IT management. I combine analytical expertise with technical skills to transform large volumes of data into strategic insights that support data-driven decision making.
 
 **🎯 Current Focus:** Advanced Machine Learning, Deep Learning, Fraud Detection, and AI-driven analytics solutions
 
@@ -161,7 +161,7 @@ I'm a **Data Scientist** and **AI Specialist** with extensive experience in cybe
 
 ### 👨‍💻 Sobre Mim
 
-Sou **Cientista de Dados** e **Especialista em IA** com ampla experiência em segurança cibernética, desenvolvimento de sistemas e gestão de TI. Combino expertise analítica com habilidades técnicas para transformar grandes volumes de dados em insights estratégicos que apoiam a tomada de decisões baseada em dados.
+Sou **Cientista de Dados** , **Especialista em IA** e **Engenheiro de Dados** com ampla experiência em segurança cibernética, desenvolvimento de sistemas e gestão de TI. Combino expertise analítica com habilidades técnicas para transformar grandes volumes de dados em insights estratégicos que apoiam a tomada de decisões baseada em dados.
 
 **🎯 Foco Atual:** Machine Learning Avançado, Deep Learning, Detecção de Fraudes e soluções analíticas orientadas por IA
 
