@@ -191,31 +191,31 @@ Gestão completa de operações de e-commerce, desde o planejamento estratégico
 <table>
 <tr>
 <td align="center" width="150">
-<a href="https://www.credly.com/badges/00634f82-b07f-4bbd-a6bb-53de397fc3a6">
-<img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="120" alt="IBM Data Science"/>
+<a href="https://www.credly.com/org/ibm/badge/data-science-professional-certificate">
+<img src="https://images.credly.com/size/340x340/images/5ca7b236-6105-4154-ba22-75a1e1cd5f24/image.png" width="120" alt="IBM Data Science"/>
 <br><sub><b>IBM Data Science</b></sub>
 </a>
 </td>
 <td align="center" width="150">
-<a href="https://www.credly.com/badges/5fc2d535-e716-46c4-881a-f4822b8da0e5">
-<img src="https://images.credly.com/size/340x340/images/5fc2d535-e716-46c4-881a-f4822b8da0e5/image.png" width="120" alt="IBM Data Analyst"/>
+<a href="https://www.credly.com/org/ibm/badge/data-analyst-professional-certificate">
+<img src="https://images.credly.com/size/340x340/images/ba5b2b4f-2f9c-4e37-b4ab-5f1d4f4c8b2e/image.png" width="120" alt="IBM Data Analyst"/>
 <br><sub><b>IBM Data Analyst</b></sub>
 </a>
 </td>
 <td align="center" width="150">
-<a href="https://www.credly.com/badges/087eaefb-61c2-426c-ae5d-2a456a6e7a1d">
-<img src="https://images.credly.com/size/340x340/images/087eaefb-61c2-426c-ae5d-2a456a6e7a1d/image.png" width="120" alt="IBM Full Stack"/>
+<a href="https://www.credly.com/org/ibm/badge/full-stack-software-developer-professional-certificate">
+<img src="https://images.credly.com/size/340x340/images/e5c85d62-4e50-4cd1-a8c1-57e84e451649/image.png" width="120" alt="IBM Full Stack"/>
 <br><sub><b>IBM Full Stack</b></sub>
 </a>
 </td>
 <td align="center" width="150">
-<a href="https://www.credly.com/badges/b47e9b58-7f54-4981-b156-5e7d354c8215">
+<a href="https://www.credly.com/org/ibm/badge/business-intelligence-bi-analyst-professional-certificate">
 <img src="https://images.credly.com/size/340x340/images/b47e9b58-7f54-4981-b156-5e7d354c8215/image.png" width="120" alt="IBM BI Analyst"/>
 <br><sub><b>IBM BI Analyst</b></sub>
 </a>
 </td>
 <td align="center" width="150">
-<a href="https://www.credly.com/badges/0571ab1d-f43b-43d9-9c68-8ebd0ebd61b7">
+<a href="https://www.credly.com/org/ibm/badge/cybersecurity-analyst-professional-certificate">
 <img src="https://images.credly.com/size/340x340/images/0571ab1d-f43b-43d9-9c68-8ebd0ebd61b7/image.png" width="120" alt="IBM Cybersecurity"/>
 <br><sub><b>IBM Cybersecurity</b></sub>
 </a>
@@ -229,7 +229,7 @@ Gestão completa de operações de e-commerce, desde o planejamento estratégico
 
 **📜 Possuo mais de 60 certificações profissionais verificadas**
 
-[![Veja todas as credenciais](https://img.shields.io/badge/Credly-Ver_Todas_as_Certificações-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/gabriel-demetrios-lafis/badges)
+[![Veja todas as credenciais](https://img.shields.io/badge/Credly-Ver_Todas_as_Certificações-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/gabriel-demetrios-lafis)
 
 </div>
 
