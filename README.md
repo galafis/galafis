@@ -1,6 +1,6 @@
 <div align="center">
 
-# Gabriel Demetrios Lafis
+# 👋 Gabriel Demetrios Lafis
 
 ### 🔬 Cientista de Dados | 📊 Analista de Dados | 🤖 Especialista em IA | 🛠️ Engenheiro de Dados
 
@@ -8,6 +8,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/galafis)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrieldemetrios@gmail.com)
 [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/gabriel-demetrios-lafis)
+
+![Profile Views](https://komarev.com/ghpvc/?username=galafis&color=58a6ff&style=flat-square&label=Visualizações)
 
 </div>
 
@@ -27,18 +29,33 @@
 
 <div align="center">
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=galafis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galafis&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
-</a>
+<table>
+<tr>
+<td>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=galafis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&custom_title=Estatísticas%20do%20GitHub)
+
+</td>
+<td>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=galafis&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+
+</td>
+</tr>
+</table>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=galafis&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=galafis&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)](https://git.io/streak-stats)
+### 📈 Métricas Principais | Key Metrics
+
+![Repositórios](https://img.shields.io/badge/Repositórios-351-58a6ff?style=for-the-badge&logo=github&logoColor=white)
+![Stars](https://img.shields.io/badge/Stars_Recebidas-349-yellow?style=for-the-badge&logo=github&logoColor=white)
+![Seguidores](https://img.shields.io/badge/Seguidores-4-blue?style=for-the-badge&logo=github&logoColor=white)
+![Contribuições](https://img.shields.io/badge/Contribuições_(2025)-3,293-green?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
@@ -68,7 +85,7 @@ I am a multidisciplinary IT professional focused on <strong>Data and Artificial 
 
 <div align="center">
 
-### Linguagens de Programação | Programming Languages
+### 💻 Linguagens de Programação | Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -82,7 +99,7 @@ I am a multidisciplinary IT professional focused on <strong>Data and Artificial 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### Cloud & DevOps
+### ☁️ Cloud & DevOps
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -93,7 +110,7 @@ I am a multidisciplinary IT professional focused on <strong>Data and Artificial 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### Machine Learning & AI
+### 🤖 Machine Learning & AI
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -101,7 +118,7 @@ I am a multidisciplinary IT professional focused on <strong>Data and Artificial 
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-### Data Engineering & Big Data
+### 📊 Data Engineering & Big Data
 
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
@@ -110,7 +127,7 @@ I am a multidisciplinary IT professional focused on <strong>Data and Artificial 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black)
 
-### Business Intelligence & Databases
+### 📈 Business Intelligence & Databases
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
@@ -183,40 +200,9 @@ Gestão completa de operações de e-commerce, desde o planejamento estratégico
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="150">
-<a href="https://www.credly.com/users/gabriel-demetrios-lafis/badges">
-<img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="100" alt="IBM Data Science"/>
-<br><sub><b>IBM Data Science</b></sub>
-</a>
-</td>
-<td align="center" width="150">
-<a href="https://www.credly.com/users/gabriel-demetrios-lafis/badges">
-<img src="https://images.credly.com/size/340x340/images/5fc2d535-e716-46c4-881a-f4822b8da0e5/image.png" width="100" alt="IBM Data Analyst"/>
-<br><sub><b>IBM Data Analyst</b></sub>
-</a>
-</td>
-<td align="center" width="150">
-<a href="https://www.credly.com/users/gabriel-demetrios-lafis/badges">
-<img src="https://images.credly.com/size/340x340/images/087eaefb-61c2-426c-ae5d-2a456a6e7a1d/image.png" width="100" alt="IBM Full Stack"/>
-<br><sub><b>IBM Full Stack</b></sub>
-</a>
-</td>
-<td align="center" width="150">
-<a href="https://www.credly.com/users/gabriel-demetrios-lafis/badges">
-<img src="https://images.credly.com/size/340x340/images/b47e9b58-7f54-4981-b156-5e7d354c8215/image.png" width="100" alt="IBM BI Analyst"/>
-<br><sub><b>IBM BI Analyst</b></sub>
-</a>
-</td>
-<td align="center" width="150">
-<a href="https://www.credly.com/users/gabriel-demetrios-lafis/badges">
-<img src="https://images.credly.com/size/340x340/images/0571ab1d-f43b-43d9-9c68-8ebd0ebd61b7/image.png" width="100" alt="IBM Cybersecurity"/>
-<br><sub><b>IBM Cybersecurity</b></sub>
-</a>
-</td>
-</tr>
-</table>
+| IBM Data Science | IBM Data Analyst | IBM Full Stack | IBM BI Analyst | IBM Cybersecurity |
+|:---:|:---:|:---:|:---:|:---:|
+| [![IBM Data Science](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/users/gabriel-demetrios-lafis/badges) | [![IBM Data Analyst](https://images.credly.com/size/110x110/images/5fc2d535-e716-46c4-881a-f4822b8da0e5/image.png)](https://www.credly.com/users/gabriel-demetrios-lafis/badges) | [![IBM Full Stack](https://images.credly.com/size/110x110/images/087eaefb-61c2-426c-ae5d-2a456a6e7a1d/image.png)](https://www.credly.com/users/gabriel-demetrios-lafis/badges) | [![IBM BI Analyst](https://images.credly.com/size/110x110/images/b47e9b58-7f54-4981-b156-5e7d354c8215/image.png)](https://www.credly.com/users/gabriel-demetrios-lafis/badges) | [![IBM Cybersecurity](https://images.credly.com/size/110x110/images/0571ab1d-f43b-43d9-9c68-8ebd0ebd61b7/image.png)](https://www.credly.com/users/gabriel-demetrios-lafis/badges) |
 
 </div>
 
@@ -272,7 +258,5 @@ Gestão completa de operações de e-commerce, desde o planejamento estratégico
 ### 💡 *"Transformando dados em inteligência de negócio através de IA e arquiteturas multi-cloud"*
 
 **⚡ Construindo o futuro com dados e IA**
-
-![Profile Views](https://komarev.com/ghpvc/?username=galafis&color=58a6ff&style=for-the-badge&label=VISUALIZAÇÕES+DO+PERFIL)
 
 </div>
