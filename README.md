@@ -29,8 +29,13 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=galafis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&custom_title=Estatísticas%20do%20GitHub" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galafis&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+| 📊 **Estatísticas do GitHub** | 🎯 **Most Used Languages** |
+|:---:|:---:|
+| ⭐ **Total Stars Earned:** 349 | 📊 **Jupyter Notebook** 39.66% |
+| 🔄 **Total Commits:** 2.2k | 🌐 **HTML** 28.26% |
+| 🔀 **Total PRs:** 23 | 🐍 **Python** 16.60% |
+| ❗ **Total Issues:** 29 | 💻 **JavaScript** 11.92% |
+| 📁 **Contributed to (last year):** 4 | 🎨 **CSS** 1.80% |
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=galafis&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
 
@@ -200,31 +205,31 @@ Gestão completa de operações de e-commerce, desde o planejamento estratégico
 <tr>
 <td align="center" width="150">
 <a href="https://www.credly.com/users/gabriel-lafis/badges">
-<img src="https://images.credly.com/size/340x340/images/5ca7b236-6105-4154-ba22-75a1e1cd5f24/image.png" width="120" alt="IBM Data Science"/>
+<img src="https://images.credly.com/size/110x110/images/5ca7b236-6105-4154-ba22-75a1e1cd5f24/image.png" width="100" alt="IBM Data Science"/>
 <br><sub><b>IBM Data Science</b></sub>
 </a>
 </td>
 <td align="center" width="150">
 <a href="https://www.credly.com/users/gabriel-lafis/badges">
-<img src="https://images.credly.com/size/340x340/images/ba5b2b4f-2f9c-4e37-b4ab-5f1d4f4c8b2e/image.png" width="120" alt="IBM Data Analyst"/>
+<img src="https://images.credly.com/size/110x110/images/ba5b2b4f-2f9c-4e37-b4ab-5f1d4f4c8b2e/image.png" width="100" alt="IBM Data Analyst"/>
 <br><sub><b>IBM Data Analyst</b></sub>
 </a>
 </td>
 <td align="center" width="150">
 <a href="https://www.credly.com/users/gabriel-lafis/badges">
-<img src="https://images.credly.com/size/340x340/images/e5c85d62-4e50-4cd1-a8c1-57e84e451649/image.png" width="120" alt="IBM Full Stack"/>
+<img src="https://images.credly.com/size/110x110/images/e5c85d62-4e50-4cd1-a8c1-57e84e451649/image.png" width="100" alt="IBM Full Stack"/>
 <br><sub><b>IBM Full Stack</b></sub>
 </a>
 </td>
 <td align="center" width="150">
 <a href="https://www.credly.com/users/gabriel-lafis/badges">
-<img src="https://images.credly.com/size/340x340/images/b47e9b58-7f54-4981-b156-5e7d354c8215/image.png" width="120" alt="IBM BI Analyst"/>
+<img src="https://images.credly.com/size/110x110/images/b47e9b58-7f54-4981-b156-5e7d354c8215/image.png" width="100" alt="IBM BI Analyst"/>
 <br><sub><b>IBM BI Analyst</b></sub>
 </a>
 </td>
 <td align="center" width="150">
 <a href="https://www.credly.com/users/gabriel-lafis/badges">
-<img src="https://images.credly.com/size/340x340/images/087eaefb-61a2-426b-ae74-74efca195667/image.png" width="120" alt="IBM AI Developer"/>
+<img src="https://images.credly.com/size/110x110/images/087eaefb-61a2-426b-ae74-74efca195667/image.png" width="100" alt="IBM AI Developer"/>
 <br><sub><b>IBM AI Developer</b></sub>
 </a>
 </td>
