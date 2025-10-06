@@ -31,11 +31,13 @@
 
 | 📊 **Estatísticas do GitHub** | 🎯 **Most Used Languages** |
 |:---:|:---:|
-| ⭐ **Total Stars Earned:** 349 | 📊 **Jupyter Notebook** 39.66% |
-| 🔄 **Total Commits:** 2.2k | 🌐 **HTML** 28.26% |
-| 🔀 **Total PRs:** 23 | 🐍 **Python** 16.60% |
-| ❗ **Total Issues:** 29 | 💻 **JavaScript** 11.92% |
-| 📁 **Contributed to (last year):** 4 | 🎨 **CSS** 1.80% |
+| ⭐ **Total Stars Earned:** 349 | 🐍 **Python** 29.3% (103 repos) |
+| 🔄 **Total Commits:** 2.2k | 💻 **JavaScript** 18.2% (64 repos) |
+| 🔀 **Total PRs:** 23 | 🌐 **HTML** 8.3% (29 repos) |
+| ❗ **Total Issues:** 29 | 📊 **R** 7.7% (27 repos) |
+| 📁 **Contributed to (last year):** 4 | 🔷 **TypeScript** 6.8% (24 repos) |
+|  | 🦀 **Rust** 6.8% (24 repos) |
+|  | ☕ **Java** 6.0% (21 repos) |
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=galafis&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
 
