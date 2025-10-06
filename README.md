@@ -171,12 +171,20 @@ Gestão completa de operações de e-commerce, desde o planejamento estratégico
 ### 📚 Formação Acadêmica
 
 - **Curso Superior de Tecnologia (CST), Gestão da Tecnologia da Informação**
-  - UniDomBosco | 2022 - 2025
-  - Competências: Estatística, Analítica de dados, Gestão de TI
+  - UniDomBosco | Out 2022 - Ago 2025
+  - Competências: Estatística, Analítica de dados, Gestão de projetos de TI, Segurança da informação, Gestão de infraestrutura de TI, Computação na Nuvem, Arquitetura de dados, Mineração de dados, Governança de TI, ETL
 
 - **Curso Superior de Tecnologia (CST), Defesa Cibernética**
-  - UniDomBosco | 2022 - 2025
-  - Competências: Protocolo SCAP, Estatística, Segurança da Informação
+  - UniDomBosco | Out 2022 - Ago 2025
+  - Competências: Protocolo SCAP, Estatística, Criptografia, Criptoanálise, Segurança da informação, Arquitetura de dados, Forense digital, Mineração de dados, Pentest, Enterprise Network Security, ETL
+
+- **Curso Superior de Tecnologia (CST), Análise de Sistemas de Computação**
+  - UniDomBosco | Out 2022 - Ago 2025
+  - Competências: Metodologias ágeis e em cascata, Estatística, Analítica de dados, Desenvolvimento web, Linguagens de programação, Engenharia de Software, Mineração de dados, ETL
+
+- **Profissionalizante, Cientista de Dados**
+  - EBAC - Escola Britânica de Artes Criativas e Tecnologia | Jun 2024 - Mai 2025
+  - Competências: Estatística, Ciência de dados, NLP, Visualização de dados, Modelagem de dados, Deep Learning, Análise de Big Data, SQL, ETL, Python
 
 - **Business Analytics Specialization**
   - The Wharton School | 2025
