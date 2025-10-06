@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=galafis&theme=dracula&no-frame=true&row=1&column=7)
+[![trophy](https://github-profile-trophy.vercel.app/?username=galafis&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -27,14 +27,24 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=galafis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galafis&layout=compact&langs_count=8&theme=dracula&hide_border=true"/>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=galafis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galafis&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+</a>
 
 </div>
 
 <div align="center">
 
-![Snake animation](https://github.com/galafis/galafis/raw/output/snake.svg)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=galafis&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/galafis/galafis/output/snake.svg)
 
 </div>
 
@@ -59,9 +69,10 @@ I am a multidisciplinary IT professional focused on <strong>Data and Artificial 
 <div align="center">
 
 ### Linguagens de Programação | Programming Languages
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
 ![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
@@ -72,6 +83,7 @@ I am a multidisciplinary IT professional focused on <strong>Data and Artificial 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### Cloud & DevOps
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
@@ -79,24 +91,33 @@ I am a multidisciplinary IT professional focused on <strong>Data and Artificial 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### Machine Learning & AI
+
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 ### Data Engineering & Big Data
+
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black)
 
-### Business Intelligence
+### Business Intelligence & Databases
+
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 </div>
 
@@ -162,13 +183,40 @@ Gestão completa de operações de e-commerce, desde o planejamento estratégico
 
 <div align="center">
 
+<table>
+<tr>
+<td align="center" width="150">
 <a href="https://www.credly.com/users/gabriel-demetrios-lafis/badges">
-  <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="120" alt="IBM Data Science"/>
-  <img src="https://images.credly.com/size/340x340/images/5fc2d535-e716-46c4-881a-f4822b8da0e5/image.png" width="120" alt="IBM Data Analyst"/>
-  <img src="https://images.credly.com/size/340x340/images/087eaefb-61c2-426c-ae5d-2a456a6e7a1d/image.png" width="120" alt="IBM Full Stack"/>
-  <img src="https://images.credly.com/size/340x340/images/b47e9b58-7f54-4981-b156-5e7d354c8215/image.png" width="120" alt="IBM BI Analyst"/>
-  <img src="https://images.credly.com/size/340x340/images/0571ab1d-f43b-43d9-9c68-8ebd0ebd61b7/image.png" width="120" alt="IBM Cybersecurity"/>
+<img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="100" alt="IBM Data Science"/>
+<br><sub><b>IBM Data Science</b></sub>
 </a>
+</td>
+<td align="center" width="150">
+<a href="https://www.credly.com/users/gabriel-demetrios-lafis/badges">
+<img src="https://images.credly.com/size/340x340/images/5fc2d535-e716-46c4-881a-f4822b8da0e5/image.png" width="100" alt="IBM Data Analyst"/>
+<br><sub><b>IBM Data Analyst</b></sub>
+</a>
+</td>
+<td align="center" width="150">
+<a href="https://www.credly.com/users/gabriel-demetrios-lafis/badges">
+<img src="https://images.credly.com/size/340x340/images/087eaefb-61c2-426c-ae5d-2a456a6e7a1d/image.png" width="100" alt="IBM Full Stack"/>
+<br><sub><b>IBM Full Stack</b></sub>
+</a>
+</td>
+<td align="center" width="150">
+<a href="https://www.credly.com/users/gabriel-demetrios-lafis/badges">
+<img src="https://images.credly.com/size/340x340/images/b47e9b58-7f54-4981-b156-5e7d354c8215/image.png" width="100" alt="IBM BI Analyst"/>
+<br><sub><b>IBM BI Analyst</b></sub>
+</a>
+</td>
+<td align="center" width="150">
+<a href="https://www.credly.com/users/gabriel-demetrios-lafis/badges">
+<img src="https://images.credly.com/size/340x340/images/0571ab1d-f43b-43d9-9c68-8ebd0ebd61b7/image.png" width="100" alt="IBM Cybersecurity"/>
+<br><sub><b>IBM Cybersecurity</b></sub>
+</a>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -181,14 +229,14 @@ Gestão completa de operações de e-commerce, desde o planejamento estratégico
 </div>
 
 **Principais Certificações:**
-- IBM Data Science Professional Certificate
-- IBM Data Analyst Professional Certificate
-- Data Science Specialization - Johns Hopkins University
-- IBM Full Stack Software Developer Professional Certificate
-- IBM Business Intelligence (BI) Analyst Professional Certificate
-- IBM Cybersecurity Analyst Professional Certificate
-- Business Analytics - The Wharton School
-- Controle Usando a Resposta em Frequência - ITA
+- ✅ IBM Data Science Professional Certificate
+- ✅ IBM Data Analyst Professional Certificate
+- ✅ Data Science Specialization - Johns Hopkins University
+- ✅ IBM Full Stack Software Developer Professional Certificate
+- ✅ IBM Business Intelligence (BI) Analyst Professional Certificate
+- ✅ IBM Cybersecurity Analyst Professional Certificate
+- ✅ Business Analytics - The Wharton School
+- ✅ Controle Usando a Resposta em Frequência - ITA
 
 ---
 
@@ -224,5 +272,7 @@ Gestão completa de operações de e-commerce, desde o planejamento estratégico
 ### 💡 *"Transformando dados em inteligência de negócio através de IA e arquiteturas multi-cloud"*
 
 **⚡ Construindo o futuro com dados e IA**
+
+![Profile Views](https://komarev.com/ghpvc/?username=galafis&color=58a6ff&style=for-the-badge&label=VISUALIZAÇÕES+DO+PERFIL)
 
 </div>
