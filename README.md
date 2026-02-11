@@ -4,10 +4,6 @@
 
 ### 🔬 Cientista de Dados | 📊 Analista de Dados | 🤖 Especialista em IA | 🛠️ Engenheiro de Dados
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-demetrios-lafis)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/galafis)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrieldemetrios@gmail.com)
-[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/gabriel-lafis/badges)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=galafis&color=58a6ff&style=flat-square&label=Visualizações)
 
@@ -19,7 +15,6 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=galafis&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -47,10 +42,6 @@
 
 ### 📈 Métricas Principais | Key Metrics
 
-![Repositórios](https://img.shields.io/badge/Repositórios-351-58a6ff?style=for-the-badge&logo=github&logoColor=white)
-![Stars](https://img.shields.io/badge/Stars_Recebidas-349-yellow?style=for-the-badge&logo=github&logoColor=white)
-![Seguidores](https://img.shields.io/badge/Seguidores-4-blue?style=for-the-badge&logo=github&logoColor=white)
-![Contribuições](https://img.shields.io/badge/Contribuições_(2025)-3,294-green?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
@@ -82,54 +73,18 @@ I am a multidisciplinary IT professional focused on <strong>Data and Artificial 
 
 ### 💻 Linguagens de Programação | Programming Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
-![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### ☁️ Cloud & DevOps
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### 🤖 Machine Learning & AI
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 ### 📊 Data Engineering & Big Data
 
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black)
 
 ### 📈 Business Intelligence & Databases
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 </div>
 
@@ -206,31 +161,26 @@ Gestão completa de operações de e-commerce, desde o planejamento estratégico
 <table>
 <tr>
 <td align="center" width="150">
-<a href="https://www.credly.com/users/gabriel-lafis/badges">
 <img src="https://images.credly.com/size/110x110/images/5ca7b236-6105-4154-ba22-75a1e1cd5f24/image.png" width="100" alt="IBM Data Science"/>
 <br><sub><b>IBM Data Science</b></sub>
 </a>
 </td>
 <td align="center" width="150">
-<a href="https://www.credly.com/users/gabriel-lafis/badges">
 <img src="https://images.credly.com/size/110x110/images/ba5b2b4f-2f9c-4e37-b4ab-5f1d4f4c8b2e/image.png" width="100" alt="IBM Data Analyst"/>
 <br><sub><b>IBM Data Analyst</b></sub>
 </a>
 </td>
 <td align="center" width="150">
-<a href="https://www.credly.com/users/gabriel-lafis/badges">
 <img src="https://images.credly.com/size/110x110/images/e5c85d62-4e50-4cd1-a8c1-57e84e451649/image.png" width="100" alt="IBM Full Stack"/>
 <br><sub><b>IBM Full Stack</b></sub>
 </a>
 </td>
 <td align="center" width="150">
-<a href="https://www.credly.com/users/gabriel-lafis/badges">
 <img src="https://images.credly.com/size/110x110/images/b47e9b58-7f54-4981-b156-5e7d354c8215/image.png" width="100" alt="IBM BI Analyst"/>
 <br><sub><b>IBM BI Analyst</b></sub>
 </a>
 </td>
 <td align="center" width="150">
-<a href="https://www.credly.com/users/gabriel-lafis/badges">
 <img src="https://images.credly.com/size/110x110/images/087eaefb-61a2-426b-ae74-74efca195667/image.png" width="100" alt="IBM AI Developer"/>
 <br><sub><b>IBM AI Developer</b></sub>
 </a>
@@ -244,7 +194,6 @@ Gestão completa de operações de e-commerce, desde o planejamento estratégico
 
 **📜 Possuo mais de 60 certificações profissionais verificadas**
 
-[![Veja todas as credenciais](https://img.shields.io/badge/Credly-Ver_Todas_as_Certificações-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/gabriel-lafis/badges)
 
 </div>
 
@@ -274,10 +223,6 @@ Gestão completa de operações de e-commerce, desde o planejamento estratégico
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-demetrios-lafis)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrieldemetrios@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/galafis)
-[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/gabriel-lafis/badges)
 
 **📍 Localização:** Curitiba, Paraná, Brasil
 
