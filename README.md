@@ -1,6 +1,19 @@
 # Gabriel Demetrios Lafis
 
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
+
 [Portugues](#portugues) | [English](#english)
+
+</div>
 
 ---
 
@@ -10,24 +23,52 @@
 
 Formado em Ciencia de Dados, baseado no Brasil. Trabalho com analise de dados, machine learning e engenharia de dados, com foco em aplicacoes para mercados financeiros e trading quantitativo.
 
-### Principais Areas
+### Areas de Atuacao
 
-- **Trading Quantitativo & Financas** -- backtesting de estrategias, analise tecnica, modelos de predicao de precos e volatilidade, gestao de risco
-- **Machine Learning & Data Science** -- classificacao, regressao, deteccao de anomalias, NLP, sistemas de recomendacao, forecasting de series temporais
-- **Engenharia de Dados** -- pipelines ETL, processamento distribuido, data quality, feature stores
-- **Desenvolvimento de APIs** -- APIs REST com FastAPI, microsservicos, autenticacao JWT
+```mermaid
+graph TD
+    A[Gabriel Demetrios Lafis] --> B[Trading Quantitativo]
+    A --> C[Machine Learning]
+    A --> D[Engenharia de Dados]
+    A --> E[Desenvolvimento Web]
 
-### Tecnologias
+    B --> B1[Backtesting de Estrategias]
+    B --> B2[Modelos de Volatilidade]
+    B --> B3[Gestao de Risco]
 
-**Linguagens:** Python, SQL, R, JavaScript, TypeScript, Rust, Java, Go, Scala, Julia
+    C --> C1[NLP e Sentiment Analysis]
+    C --> C2[Series Temporais]
+    C --> C3[Computer Vision]
 
-**Data & ML:** pandas, NumPy, scikit-learn, XGBoost, LightGBM, TensorFlow, PyTorch, Spark, dbt, Airflow, MLflow
+    D --> D1[Pipelines ETL]
+    D --> D2[Data Quality]
+    D --> D3[Feature Stores]
 
-**Web & Infra:** FastAPI, React, Node.js, Docker, Kubernetes, Terraform, PostgreSQL, Redis
+    E --> E1[APIs REST e FastAPI]
+    E --> E2[Microsservicos]
+    E --> E3[React e Dashboards]
+
+    style A fill:#2c3e50,color:#fff
+    style B fill:#e74c3c,color:#fff
+    style C fill:#3498db,color:#fff
+    style D fill:#2ecc71,color:#fff
+    style E fill:#9b59b6,color:#fff
+```
+
+### Stack Tecnologica
+
+| Categoria | Tecnologias |
+|-----------|-------------|
+| **Linguagens** | Python, SQL, R, JavaScript, TypeScript, Rust, Java, Go, Scala, Julia |
+| **Data & ML** | pandas, NumPy, scikit-learn, XGBoost, LightGBM, TensorFlow, PyTorch, Spark, dbt, Airflow, MLflow |
+| **Web & Infra** | FastAPI, React, Node.js, Docker, Kubernetes, Terraform, PostgreSQL, Redis |
+| **Cloud** | AWS, GCP, Azure |
+| **Visualizacao** | Matplotlib, Seaborn, Plotly, Tableau, Power BI |
 
 ### Contato
 
 - LinkedIn: [Gabriel Demetrios Lafis](https://linkedin.com/in/gabriel-demetrios-lafis)
+- GitHub: [github.com/galafis](https://github.com/galafis)
 
 ---
 
@@ -37,21 +78,49 @@ Formado em Ciencia de Dados, baseado no Brasil. Trabalho com analise de dados, m
 
 Data Science graduate based in Brazil. I work with data analysis, machine learning, and data engineering, focusing on financial markets and quantitative trading applications.
 
-### Main Areas
+### Areas of Expertise
 
-- **Quantitative Trading & Finance** -- strategy backtesting, technical analysis, price and volatility prediction models, risk management
-- **Machine Learning & Data Science** -- classification, regression, anomaly detection, NLP, recommendation systems, time series forecasting
-- **Data Engineering** -- ETL pipelines, distributed processing, data quality, feature stores
-- **API Development** -- REST APIs with FastAPI, microservices, JWT authentication
+```mermaid
+graph TD
+    A[Gabriel Demetrios Lafis] --> B[Quantitative Trading]
+    A --> C[Machine Learning]
+    A --> D[Data Engineering]
+    A --> E[Web Development]
 
-### Technologies
+    B --> B1[Strategy Backtesting]
+    B --> B2[Volatility Models]
+    B --> B3[Risk Management]
 
-**Languages:** Python, SQL, R, JavaScript, TypeScript, Rust, Java, Go, Scala, Julia
+    C --> C1[NLP and Sentiment Analysis]
+    C --> C2[Time Series]
+    C --> C3[Computer Vision]
 
-**Data & ML:** pandas, NumPy, scikit-learn, XGBoost, LightGBM, TensorFlow, PyTorch, Spark, dbt, Airflow, MLflow
+    D --> D1[ETL Pipelines]
+    D --> D2[Data Quality]
+    D --> D3[Feature Stores]
 
-**Web & Infra:** FastAPI, React, Node.js, Docker, Kubernetes, Terraform, PostgreSQL, Redis
+    E --> E1[REST APIs and FastAPI]
+    E --> E2[Microservices]
+    E --> E3[React and Dashboards]
+
+    style A fill:#2c3e50,color:#fff
+    style B fill:#e74c3c,color:#fff
+    style C fill:#3498db,color:#fff
+    style D fill:#2ecc71,color:#fff
+    style E fill:#9b59b6,color:#fff
+```
+
+### Tech Stack
+
+| Category | Technologies |
+|----------|-------------|
+| **Languages** | Python, SQL, R, JavaScript, TypeScript, Rust, Java, Go, Scala, Julia |
+| **Data & ML** | pandas, NumPy, scikit-learn, XGBoost, LightGBM, TensorFlow, PyTorch, Spark, dbt, Airflow, MLflow |
+| **Web & Infra** | FastAPI, React, Node.js, Docker, Kubernetes, Terraform, PostgreSQL, Redis |
+| **Cloud** | AWS, GCP, Azure |
+| **Visualization** | Matplotlib, Seaborn, Plotly, Tableau, Power BI |
 
 ### Contact
 
 - LinkedIn: [Gabriel Demetrios Lafis](https://linkedin.com/in/gabriel-demetrios-lafis)
+- GitHub: [github.com/galafis](https://github.com/galafis)
