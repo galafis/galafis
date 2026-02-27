@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Gabriel+Lafis+%F0%9F%91%8B;Data+Scientist+%7C+MLOps+Engineer;Generative+AI+%7C+LLMs+Specialist" alt="Typing SVG" />
+
 # Gabriel Demetrios Lafis
 
 **`Data Scientist | MLOps | Generative AI (LLMs)`**
@@ -42,6 +44,7 @@ My work spans **real-time fraud detection**, **LLM refinement with RLHF**, **cli
 <div align="center">
 
 ### Languages
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
@@ -52,15 +55,17 @@ My work spans **real-time fraud detection**, **LLM refinement with RLHF**, **cli
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
 ### ML & AI
+
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-189FDD?style=flat-square&logo=xgboost&logoColor=white)
 ![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=flat-square&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 
 ### Data & MLOps
+
 ![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
@@ -70,13 +75,17 @@ My work spans **real-time fraud detection**, **LLM refinement with RLHF**, **cli
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 ### Cloud & Databases
+
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 ### BI & Visualization
+
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=looker&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
@@ -137,7 +146,7 @@ My work spans **real-time fraud detection**, **LLM refinement with RLHF**, **cli
 <td width="50%" valign="top">
 
 ### Genomic Data Analysis Pipeline
-**Automated NGS data processing and analysis**
+**Automated NGS data processing and multi-omics analysis**
 
 `Python` `R` `Nextflow` `Docker` `TensorFlow`
 
@@ -157,12 +166,12 @@ My work spans **real-time fraud detection**, **LLM refinement with RLHF**, **cli
 
 <div align="center">
 
-| Provider | Certification |
-|----------|---------------|
-| ![Google](https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white) | Advanced Data Analytics, Data Analytics |
-| ![IBM](https://img.shields.io/badge/IBM-052FAD?style=flat-square&logo=ibm&logoColor=white) | AI Engineering, Generative AI Engineering, Deep Learning, Data Science, Data Engineering, Machine Learning |
-| ![Johns Hopkins](https://img.shields.io/badge/Johns_Hopkins-002D72?style=flat-square&logoColor=white) | Data Science Specialization |
-| ![Wharton](https://img.shields.io/badge/Wharton_UPenn-011F5B?style=flat-square&logoColor=white) | Business Analytics |
+| Provider | Certification | Credential |
+|----------|---------------|------------|
+| ![Google](https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white) | Advanced Data Analytics, Data Analytics | [View](https://www.credly.com/users/gabriel-lafis) |
+| ![IBM](https://img.shields.io/badge/IBM-052FAD?style=flat-square&logo=ibm&logoColor=white) | AI Engineering, Generative AI Engineering, Deep Learning, Data Science, Data Engineering, Machine Learning | [View](https://www.credly.com/users/gabriel-lafis) |
+| ![Johns Hopkins](https://img.shields.io/badge/Johns_Hopkins-002D72?style=flat-square&logoColor=white) | Data Science Specialization | [View](https://www.credly.com/users/gabriel-lafis) |
+| ![Wharton](https://img.shields.io/badge/Wharton_UPenn-011F5B?style=flat-square&logoColor=white) | Business Analytics | [View](https://www.credly.com/users/gabriel-lafis) |
 
 > **All credentials:** [credly.com/users/gabriel-lafis](https://www.credly.com/users/gabriel-lafis)
 
@@ -172,13 +181,13 @@ My work spans **real-time fraud detection**, **LLM refinement with RLHF**, **cli
 
 ## Professional Experience
 
-```
-Data Scientist / Data Analyst      @ trade2go          (2025 - 2026)  |  ML lifecycle, predictive models, BI dashboards
-Data Science Researcher            @ Manus AI          (2025 - present)|  R&D in AI/ML, architecture experimentation, feature engineering
-Data Scientist / GenAI Consultant  @ Mindrift           (2024 - 2025)  |  LLM refinement with RLHF, code validation, benchmarking
-Cybersecurity Analyst              @ Sicredi            (2023 - 2025)  |  Real-time fraud detection, MLOps pipelines, anomaly detection
-Fullstack Dev Intern               @ EBANX              (2022 - 2023)  |  Scalable web apps, query optimization, agile team
-```
+| Role | Company | Period | Highlights |
+|------|---------|--------|------------|
+| Data Scientist / Data Analyst | trade2go | 2025–2026 | ML lifecycle, predictive models, BI dashboards |
+| Data Science Researcher | Manus AI | 2025–present | R&D in AI/ML, architecture experimentation, feature engineering |
+| Data Scientist / GenAI Consultant | Mindrift | 2024–2025 | LLM refinement with RLHF, code validation, benchmarking |
+| Cybersecurity Analyst | Sicredi | 2023–2025 | Real-time fraud detection, MLOps pipelines, anomaly detection |
+| Fullstack Dev Intern | EBANX | 2022–2023 | Scalable web apps, query optimization, agile team |
 
 ---
 
@@ -196,9 +205,11 @@ Fullstack Dev Intern               @ EBANX              (2022 - 2023)  |  Scalab
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=galafis&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=galafis&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galafis&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+
+<br/>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=galafis&theme=tokyo-night&hide_border=true&area=true)](https://github.com/galafis)
 
 </div>
 
@@ -213,6 +224,8 @@ I'm always open to discussing **Data Science**, **MLOps**, **Generative AI**, or
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-demetrios-lafis)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrieldemetrios@gmail.com)
 [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/gabriel-lafis)
+
+<br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=galafis&color=0A66C2&style=flat-square&label=Profile+Views)
 
