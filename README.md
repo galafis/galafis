@@ -143,9 +143,9 @@ Every section is available in both languages. · Todas as seções estão dispon
 | **[Évia Cue Composer](https://github.com/galafis/evia-cue-composer)** | **EN:** Compose predictable signals with explicit access preferences.<br><br>**PT:** Componha sinais previsíveis com preferências explícitas de acessibilidade. | [Demo · Demonstração](https://galafis.github.io/evia-cue-composer/)<br>[Experiments · Experimentos](https://github.com/galafis/evia-cue-composer/blob/main/docs/EXPERIMENTS.md) |
 | **[Évia Local Event Journal](https://github.com/galafis/evia-local-event-journal)** | **EN:** Keep useful research events without collecting personal narratives.<br><br>**PT:** Registre eventos úteis de pesquisa sem coletar relatos pessoais. | [Demo · Demonstração](https://galafis.github.io/evia-local-event-journal/)<br>[Experiments · Experimentos](https://github.com/galafis/evia-local-event-journal/blob/main/docs/EXPERIMENTS.md)<br>[Python · EN/PT](https://github.com/galafis/evia-local-event-journal/blob/main/docs/PYTHON.md) |
 
-**EN:** **422 behavioral tests** across the portfolio · Browser demonstrations · Versioned examples · MIT-licensed source.
+**EN:** **422 browser tests + 144 Python tests**, plus independent C++ numerical checks across these 15 repositories · Browser demonstrations · Versioned examples · MIT-licensed source.
 
-**PT:** **422 testes de comportamento** no portfólio · Demonstrações no navegador · Exemplos versionados · Código-fonte sob licença MIT.
+**PT:** **422 testes do navegador + 144 testes Python**, além de verificações numéricas independentes em C++ nestes 15 repositórios · Demonstrações no navegador · Exemplos versionados · Código-fonte sob licença MIT.
 
 Independent research and development · Pesquisa e desenvolvimento independentes  
 [gabrieldemetrioslafis@usp.br](mailto:gabrieldemetrioslafis@usp.br)
