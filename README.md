@@ -28,58 +28,67 @@ Every section is available in both languages. · Todas as seções estão dispon
 ---
 
 <!-- robotics-portfolio:start -->
+
 <a id="robotics"></a>
 
 ## Robotics, Accessibility & Education · Robótica, Acessibilidade e Educação
 
-**EN:** Nine independent working prototypes covering **Unitree Go2 PRO development roadmaps** and **public companion studies for Évia**, with reproducible examples and detailed English/Portuguese documentation.
+**EN:** Fifteen independent working software prototypes, primarily focused on a **Unitree Go2 PRO research program**, with public companion studies for Évia. Each repository has executable behavior, reproducible examples, an English/Portuguese README and a Mermaid domain diagram. Physical integration is a separate development stage.
 
-**PT:** Nove protótipos funcionais independentes, com **planos de desenvolvimento com o Unitree Go2 PRO** e **estudos públicos complementares à Évia**, exemplos reproduzíveis e documentação detalhada em inglês e português.
+**PT:** Quinze protótipos funcionais independentes de software, com foco principal em um **programa de pesquisa com o Unitree Go2 PRO** e estudos públicos complementares à Évia. Cada repositório possui comportamento executável, exemplos reproduzíveis, README em inglês e português e diagrama Mermaid do domínio. A integração física é uma etapa própria de desenvolvimento.
 
-| Project · Projeto | Working prototype · Protótipo funcional | Explore · Explorar |
-|---|---|---|
-| **[Accessible Route Lab](https://github.com/galafis/accessible-route-lab)** | **EN:** Editable route maps, clearance experiments, written directions, and step-by-step simulation.<br><br>**PT:** Mapas de rotas editáveis, experimentos com espaço livre para passagem, instruções por escrito e simulação passo a passo. | [Live demo · Demonstração](https://galafis.github.io/accessible-route-lab/)<br>[Go2 PRO roadmap · Plano de desenvolvimento](https://github.com/galafis/accessible-route-lab/blob/main/docs/UNITREE_GO2_ROADMAP.md) |
-| **[Rescue Scenario Lab](https://github.com/galafis/rescue-scenario-lab)** | **EN:** Search exercises, communication gaps, resource accounting, and reproducible debriefs.<br><br>**PT:** Exercícios de busca, falhas de comunicação, acompanhamento de recursos e análises pós-exercício reproduzíveis. | [Live demo · Demonstração](https://galafis.github.io/rescue-scenario-lab/)<br>[Go2 PRO roadmap · Plano de desenvolvimento](https://github.com/galafis/rescue-scenario-lab/blob/main/docs/UNITREE_GO2_ROADMAP.md) |
-| **[Inclusive Session Studio](https://github.com/galafis/inclusive-session-studio)** | **EN:** Predictable activity plans, participant-controlled pacing, optional timers, and local exports.<br><br>**PT:** Planos de atividades previsíveis, ritmo controlado pelo participante, temporizadores opcionais e exportação local. | [Live demo · Demonstração](https://galafis.github.io/inclusive-session-studio/)<br>[Go2 PRO roadmap · Plano de desenvolvimento](https://github.com/galafis/inclusive-session-studio/blob/main/docs/UNITREE_GO2_ROADMAP.md) |
-
-<!-- robotics-expansion:start -->
-
-<a id="evia-companions"></a>
-
-### Évia Companion Studies · Estudos Complementares à Évia
-
-**EN:** Independently implemented public studies using synthetic examples, with no dependency on the Évia core.
-
-**PT:** Estudos públicos implementados de forma independente, com exemplos sintéticos e sem dependência do núcleo da Évia.
-
-| Project · Projeto | Purpose · Objetivo | Explore · Explorar |
-|---|---|---|
-| **[Évia Session Orchestrator](https://github.com/galafis/evia-session-orchestrator)** | **EN:** Rehearse consent, pauses and recovery before an interaction begins.<br><br>**PT:** Ensaie consentimento, pausas e retomadas antes de iniciar uma interação. | [Demo · Demonstração](https://galafis.github.io/evia-session-orchestrator/)<br>[Scope · Escopo](https://github.com/galafis/evia-session-orchestrator/blob/main/docs/RESEARCH_SCOPE.md) |
-| **[Évia Cue Composer](https://github.com/galafis/evia-cue-composer)** | **EN:** Compose predictable signals with explicit access preferences.<br><br>**PT:** Componha sinais previsíveis com preferências explícitas de acessibilidade. | [Demo · Demonstração](https://galafis.github.io/evia-cue-composer/)<br>[Scope · Escopo](https://github.com/galafis/evia-cue-composer/blob/main/docs/RESEARCH_SCOPE.md) |
-| **[Évia Local Event Journal](https://github.com/galafis/evia-local-event-journal)** | **EN:** Keep useful research events without collecting personal narratives.<br><br>**PT:** Registre eventos úteis de pesquisa sem coletar relatos pessoais. | [Demo · Demonstração](https://galafis.github.io/evia-local-event-journal/)<br>[Scope · Escopo](https://github.com/galafis/evia-local-event-journal/blob/main/docs/RESEARCH_SCOPE.md) |
+[Go2 PRO workbenches · Bancadas](#go2-workbenches) · [Accessibility and training · Acessibilidade e treinamento](#training-prototypes) · [Évia companion studies · Estudos complementares](#evia-companions)
 
 <a id="go2-workbenches"></a>
 
 ### Go2 PRO Workbenches · Bancadas para o Go2 PRO
 
-| Project · Projeto | Purpose · Objetivo | Explore · Explorar |
+| Project · Projeto | Implemented capability · Funcionalidade implementada | Explore · Explorar |
 |---|---|---|
-| **[Go2 PRO Telemetry Replay](https://github.com/galafis/go2-pro-telemetry-replay)** | **EN:** Inspect recorded trajectories and expose gaps in the evidence.<br><br>**PT:** Inspecione trajetórias registradas e identifique lacunas nos dados. | [Demo · Demonstração](https://galafis.github.io/go2-pro-telemetry-replay/)<br>[Scope · Escopo](https://github.com/galafis/go2-pro-telemetry-replay/blob/main/docs/RESEARCH_SCOPE.md) |
-| **[Go2 PRO Energy Planner](https://github.com/galafis/go2-pro-energy-planner)** | **EN:** Make mission energy assumptions and return reserves visible.<br><br>**PT:** Torne visíveis as hipóteses de energia e a reserva para retorno. | [Demo · Demonstração](https://galafis.github.io/go2-pro-energy-planner/)<br>[Scope · Escopo](https://github.com/galafis/go2-pro-energy-planner/blob/main/docs/RESEARCH_SCOPE.md) |
-| **[Go2 PRO Clearance Bench](https://github.com/galafis/go2-pro-clearance-bench)** | **EN:** Check the space swept by an entire path, including between waypoints.<br><br>**PT:** Analise o espaço percorrido pelo trajeto inteiro, inclusive entre pontos. | [Demo · Demonstração](https://galafis.github.io/go2-pro-clearance-bench/)<br>[Scope · Escopo](https://github.com/galafis/go2-pro-clearance-bench/blob/main/docs/RESEARCH_SCOPE.md) |
+| **[Go2 PRO Search Coverage](https://github.com/galafis/go2-pro-search-coverage)** | **EN:** Rehearse a search route with explicit coverage and a return budget.<br><br>**PT:** Ensaie uma rota de busca com cobertura explícita e orçamento de retorno. | [Demo · Demonstração](https://galafis.github.io/go2-pro-search-coverage/)<br>[Experiments · Experimentos](https://github.com/galafis/go2-pro-search-coverage/blob/main/docs/EXPERIMENTS.md) |
+| **[Go2 PRO Mission Rehearsal](https://github.com/galafis/go2-pro-mission-rehearsal)** | **EN:** Schedule mission tasks around dependencies, shared resources and deadlines.<br><br>**PT:** Programe tarefas de missão considerando dependências, recursos e prazos. | [Demo · Demonstração](https://galafis.github.io/go2-pro-mission-rehearsal/)<br>[Experiments · Experimentos](https://github.com/galafis/go2-pro-mission-rehearsal/blob/main/docs/EXPERIMENTS.md) |
+| **[Go2 PRO Link Resilience](https://github.com/galafis/go2-pro-link-resilience)** | **EN:** Expose delivery delays and expired messages in intermittent links.<br><br>**PT:** Identifique atrasos de entrega e mensagens expiradas em conexões intermitentes. | [Demo · Demonstração](https://galafis.github.io/go2-pro-link-resilience/)<br>[Experiments · Experimentos](https://github.com/galafis/go2-pro-link-resilience/blob/main/docs/EXPERIMENTS.md) |
+| **[Go2 PRO Stop Envelope](https://github.com/galafis/go2-pro-stop-envelope)** | **EN:** Explore stopping-distance assumptions before designing a controlled trial.<br><br>**PT:** Explore hipóteses de distância de parada antes de planejar um ensaio controlado. | [Demo · Demonstração](https://galafis.github.io/go2-pro-stop-envelope/)<br>[Experiments · Experimentos](https://github.com/galafis/go2-pro-stop-envelope/blob/main/docs/EXPERIMENTS.md) |
+| **[Go2 PRO Sensor Alignment](https://github.com/galafis/go2-pro-sensor-alignment)** | **EN:** Align paired planar observations and inspect held-out residuals.<br><br>**PT:** Alinhe observações planas pareadas e inspecione resíduos fora do ajuste. | [Demo · Demonstração](https://galafis.github.io/go2-pro-sensor-alignment/)<br>[Experiments · Experimentos](https://github.com/galafis/go2-pro-sensor-alignment/blob/main/docs/EXPERIMENTS.md) |
+| **[Go2 PRO Trial Bench](https://github.com/galafis/go2-pro-trial-bench)** | **EN:** Compare reproducible trial summaries while preserving unsuccessful attempts.<br><br>**PT:** Compare resumos reproduzíveis de ensaios preservando tentativas sem sucesso. | [Demo · Demonstração](https://galafis.github.io/go2-pro-trial-bench/)<br>[Experiments · Experimentos](https://github.com/galafis/go2-pro-trial-bench/blob/main/docs/EXPERIMENTS.md) |
+| **[Go2 PRO Telemetry Replay](https://github.com/galafis/go2-pro-telemetry-replay)** | **EN:** Inspect recorded trajectories and expose gaps in the evidence.<br><br>**PT:** Inspecione trajetórias registradas e identifique lacunas nos dados. | [Demo · Demonstração](https://galafis.github.io/go2-pro-telemetry-replay/)<br>[Experiments · Experimentos](https://github.com/galafis/go2-pro-telemetry-replay/blob/main/docs/EXPERIMENTS.md) |
+| **[Go2 PRO Energy Planner](https://github.com/galafis/go2-pro-energy-planner)** | **EN:** Make mission energy assumptions and return reserves visible.<br><br>**PT:** Torne visíveis as hipóteses de energia e a reserva para retorno. | [Demo · Demonstração](https://galafis.github.io/go2-pro-energy-planner/)<br>[Experiments · Experimentos](https://github.com/galafis/go2-pro-energy-planner/blob/main/docs/EXPERIMENTS.md) |
+| **[Go2 PRO Clearance Bench](https://github.com/galafis/go2-pro-clearance-bench)** | **EN:** Check the space swept by an entire path, including between waypoints.<br><br>**PT:** Analise o espaço percorrido pelo trajeto inteiro, inclusive entre pontos. | [Demo · Demonstração](https://galafis.github.io/go2-pro-clearance-bench/)<br>[Experiments · Experimentos](https://github.com/galafis/go2-pro-clearance-bench/blob/main/docs/EXPERIMENTS.md) |
 
-**EN:** Telemetry Replay exports can feed Clearance Bench through a tested adapter that rejects invalid samples and excluded intervals.
+**EN:** Implemented exchange: Search Coverage generates synthetic observations accepted by Telemetry Replay; qualified contiguous replay reports can feed Clearance Bench. Each adapter documents its input limits and coordinate assumptions.
 
-**PT:** Exportações do Telemetry Replay podem alimentar o Clearance Bench por um adaptador testado que rejeita amostras inválidas e intervalos excluídos.
+**PT:** Troca implementada: Search Coverage gera observações sintéticas aceitas pelo Telemetry Replay; relatórios de reprodução com trajetórias contínuas qualificadas podem alimentar o Clearance Bench. Cada adaptador documenta limites de entrada e hipóteses de coordenadas.
 
-<!-- robotics-expansion:end -->
+<a id="training-prototypes"></a>
 
-**EN:** **241 behavioral tests** across the portfolio · Browser demos · Versioned examples · MIT-licensed source.
+### Accessibility and Training · Acessibilidade e Treinamento
 
-**PT:** **241 testes de comportamento** no portfólio · Demonstrações no navegador · Exemplos versionados · Código-fonte sob licença MIT.
+| Project · Projeto | Implemented capability · Funcionalidade implementada | Explore · Explorar |
+|---|---|---|
+| [Accessible Route Lab](https://github.com/galafis/accessible-route-lab) | **EN:** Editable maps, weighted route search, clearance experiments and written directions.<br>**PT:** Mapas editáveis, busca ponderada de rotas, experimentos de passagem e instruções por escrito. | [Demo · Demonstração](https://galafis.github.io/accessible-route-lab/) |
+| [Rescue Scenario Lab](https://github.com/galafis/rescue-scenario-lab) | **EN:** Search exercises, communication gaps, time/energy accounting and reproducible debriefs.<br>**PT:** Exercícios de busca, falhas de comunicação, contabilidade de tempo/energia e análises finais reproduzíveis. | [Demo · Demonstração](https://galafis.github.io/rescue-scenario-lab/) |
+| [Inclusive Session Studio](https://github.com/galafis/inclusive-session-studio) | **EN:** Predictable activity sequences, optional timers and explicit pause, skip and stop controls.<br>**PT:** Sequências previsíveis, temporizadores opcionais e controles explícitos para pausar, pular e encerrar. | [Demo · Demonstração](https://galafis.github.io/inclusive-session-studio/) |
+
+<a id="evia-companions"></a>
+
+### Évia Companion Studies · Estudos Complementares à Évia
+
+**EN:** Independent public implementations using synthetic examples. The private Évia core is not included or required.
+
+**PT:** Implementações públicas independentes com exemplos sintéticos. O núcleo privado da Évia não está incluído nem é necessário.
+
+| Project · Projeto | Implemented capability · Funcionalidade implementada | Explore · Explorar |
+|---|---|---|
+| **[Évia Session Orchestrator](https://github.com/galafis/evia-session-orchestrator)** | **EN:** Rehearse consent, pauses and recovery before an interaction begins.<br><br>**PT:** Ensaie consentimento, pausas e retomadas antes de iniciar uma interação. | [Demo · Demonstração](https://galafis.github.io/evia-session-orchestrator/)<br>[Experiments · Experimentos](https://github.com/galafis/evia-session-orchestrator/blob/main/docs/EXPERIMENTS.md) |
+| **[Évia Cue Composer](https://github.com/galafis/evia-cue-composer)** | **EN:** Compose predictable signals with explicit access preferences.<br><br>**PT:** Componha sinais previsíveis com preferências explícitas de acessibilidade. | [Demo · Demonstração](https://galafis.github.io/evia-cue-composer/)<br>[Experiments · Experimentos](https://github.com/galafis/evia-cue-composer/blob/main/docs/EXPERIMENTS.md) |
+| **[Évia Local Event Journal](https://github.com/galafis/evia-local-event-journal)** | **EN:** Keep useful research events without collecting personal narratives.<br><br>**PT:** Registre eventos úteis de pesquisa sem coletar relatos pessoais. | [Demo · Demonstração](https://galafis.github.io/evia-local-event-journal/)<br>[Experiments · Experimentos](https://github.com/galafis/evia-local-event-journal/blob/main/docs/EXPERIMENTS.md) |
+
+**EN:** **403 behavioral tests** across the portfolio · Browser demonstrations · Versioned examples · MIT-licensed source.
+
+**PT:** **403 testes de comportamento** no portfólio · Demonstrações no navegador · Exemplos versionados · Código-fonte sob licença MIT.
 
 Independent research and development · Pesquisa e desenvolvimento independentes  
-**[gabrieldemetrioslafis@usp.br](mailto:gabrieldemetrioslafis@usp.br)**
+[gabrieldemetrioslafis@usp.br](mailto:gabrieldemetrioslafis@usp.br)
 
 <!-- robotics-portfolio:end -->
 
