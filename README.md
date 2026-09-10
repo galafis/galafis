@@ -32,9 +32,9 @@ Every section is available in both languages. · Todas as seções estão dispon
 
 ## Robotics, Accessibility & Education · Robótica, Acessibilidade e Educação
 
-**EN:** Three working prototypes with concrete **Unitree Go2 PRO development roadmaps**, reproducible examples, and detailed English/Portuguese documentation.
+**EN:** Nine independent working prototypes covering **Unitree Go2 PRO development roadmaps** and **public companion studies for Évia**, with reproducible examples and detailed English/Portuguese documentation.
 
-**PT:** Três protótipos funcionais com **planos concretos de desenvolvimento com o Unitree Go2 PRO**, exemplos reproduzíveis e documentação detalhada em inglês e português.
+**PT:** Nove protótipos funcionais independentes, com **planos de desenvolvimento com o Unitree Go2 PRO** e **estudos públicos complementares à Évia**, exemplos reproduzíveis e documentação detalhada em inglês e português.
 
 | Project · Projeto | Working prototype · Protótipo funcional | Explore · Explorar |
 |---|---|---|
@@ -42,9 +42,41 @@ Every section is available in both languages. · Todas as seções estão dispon
 | **[Rescue Scenario Lab](https://github.com/galafis/rescue-scenario-lab)** | **EN:** Search exercises, communication gaps, resource accounting, and reproducible debriefs.<br><br>**PT:** Exercícios de busca, falhas de comunicação, acompanhamento de recursos e análises pós-exercício reproduzíveis. | [Live demo · Demonstração](https://galafis.github.io/rescue-scenario-lab/)<br>[Go2 PRO roadmap · Plano de desenvolvimento](https://github.com/galafis/rescue-scenario-lab/blob/main/docs/UNITREE_GO2_ROADMAP.md) |
 | **[Inclusive Session Studio](https://github.com/galafis/inclusive-session-studio)** | **EN:** Predictable activity plans, participant-controlled pacing, optional timers, and local exports.<br><br>**PT:** Planos de atividades previsíveis, ritmo controlado pelo participante, temporizadores opcionais e exportação local. | [Live demo · Demonstração](https://galafis.github.io/inclusive-session-studio/)<br>[Go2 PRO roadmap · Plano de desenvolvimento](https://github.com/galafis/inclusive-session-studio/blob/main/docs/UNITREE_GO2_ROADMAP.md) |
 
-**EN:** **64 behavioral tests** across the portfolio · Browser demos · Versioned examples · MIT-licensed source.
+<!-- robotics-expansion:start -->
 
-**PT:** **64 testes de comportamento** no portfólio · Demonstrações no navegador · Exemplos versionados · Código-fonte sob licença MIT.
+<a id="evia-companions"></a>
+
+### Évia Companion Studies · Estudos Complementares à Évia
+
+**EN:** Independently implemented public studies using synthetic examples, with no dependency on the Évia core.
+
+**PT:** Estudos públicos implementados de forma independente, com exemplos sintéticos e sem dependência do núcleo da Évia.
+
+| Project · Projeto | Purpose · Objetivo | Explore · Explorar |
+|---|---|---|
+| **[Évia Session Orchestrator](https://github.com/galafis/evia-session-orchestrator)** | **EN:** Rehearse consent, pauses and recovery before an interaction begins.<br><br>**PT:** Ensaie consentimento, pausas e retomadas antes de iniciar uma interação. | [Demo · Demonstração](https://galafis.github.io/evia-session-orchestrator/)<br>[Scope · Escopo](https://github.com/galafis/evia-session-orchestrator/blob/main/docs/RESEARCH_SCOPE.md) |
+| **[Évia Cue Composer](https://github.com/galafis/evia-cue-composer)** | **EN:** Compose predictable signals with explicit access preferences.<br><br>**PT:** Componha sinais previsíveis com preferências explícitas de acessibilidade. | [Demo · Demonstração](https://galafis.github.io/evia-cue-composer/)<br>[Scope · Escopo](https://github.com/galafis/evia-cue-composer/blob/main/docs/RESEARCH_SCOPE.md) |
+| **[Évia Local Event Journal](https://github.com/galafis/evia-local-event-journal)** | **EN:** Keep useful research events without collecting personal narratives.<br><br>**PT:** Registre eventos úteis de pesquisa sem coletar relatos pessoais. | [Demo · Demonstração](https://galafis.github.io/evia-local-event-journal/)<br>[Scope · Escopo](https://github.com/galafis/evia-local-event-journal/blob/main/docs/RESEARCH_SCOPE.md) |
+
+<a id="go2-workbenches"></a>
+
+### Go2 PRO Workbenches · Bancadas para o Go2 PRO
+
+| Project · Projeto | Purpose · Objetivo | Explore · Explorar |
+|---|---|---|
+| **[Go2 PRO Telemetry Replay](https://github.com/galafis/go2-pro-telemetry-replay)** | **EN:** Inspect recorded trajectories and expose gaps in the evidence.<br><br>**PT:** Inspecione trajetórias registradas e identifique lacunas nos dados. | [Demo · Demonstração](https://galafis.github.io/go2-pro-telemetry-replay/)<br>[Scope · Escopo](https://github.com/galafis/go2-pro-telemetry-replay/blob/main/docs/RESEARCH_SCOPE.md) |
+| **[Go2 PRO Energy Planner](https://github.com/galafis/go2-pro-energy-planner)** | **EN:** Make mission energy assumptions and return reserves visible.<br><br>**PT:** Torne visíveis as hipóteses de energia e a reserva para retorno. | [Demo · Demonstração](https://galafis.github.io/go2-pro-energy-planner/)<br>[Scope · Escopo](https://github.com/galafis/go2-pro-energy-planner/blob/main/docs/RESEARCH_SCOPE.md) |
+| **[Go2 PRO Clearance Bench](https://github.com/galafis/go2-pro-clearance-bench)** | **EN:** Check the space swept by an entire path, including between waypoints.<br><br>**PT:** Analise o espaço percorrido pelo trajeto inteiro, inclusive entre pontos. | [Demo · Demonstração](https://galafis.github.io/go2-pro-clearance-bench/)<br>[Scope · Escopo](https://github.com/galafis/go2-pro-clearance-bench/blob/main/docs/RESEARCH_SCOPE.md) |
+
+**EN:** Telemetry Replay exports can feed Clearance Bench through a tested adapter that rejects invalid samples and excluded intervals.
+
+**PT:** Exportações do Telemetry Replay podem alimentar o Clearance Bench por um adaptador testado que rejeita amostras inválidas e intervalos excluídos.
+
+<!-- robotics-expansion:end -->
+
+**EN:** **241 behavioral tests** across the portfolio · Browser demos · Versioned examples · MIT-licensed source.
+
+**PT:** **241 testes de comportamento** no portfólio · Demonstrações no navegador · Exemplos versionados · Código-fonte sob licença MIT.
 
 Independent research and development · Pesquisa e desenvolvimento independentes  
 **[gabrieldemetrioslafis@usp.br](mailto:gabrieldemetrioslafis@usp.br)**
