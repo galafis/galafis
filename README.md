@@ -33,9 +33,9 @@ Every section is available in both languages. · Todas as seções estão dispon
 
 ## Robotics, Accessibility & Education · Robótica, Acessibilidade e Educação
 
-**EN:** Fifteen independent working software prototypes, primarily focused on a **Unitree Go2 PRO research program**, with public companion studies for Évia. Each repository has executable behavior, reproducible examples, an English/Portuguese README and a Mermaid domain diagram. Physical integration is a separate development stage.
+**EN:** Fifteen independent working software prototypes, primarily focused on a **Unitree Go2 PRO research program**, with public companion studies for Évia. Each repository has executable behavior, reproducible examples, English/Portuguese interfaces and documentation, and a Mermaid domain diagram. Physical integration is a separate development stage.
 
-**PT:** Quinze protótipos funcionais independentes de software, com foco principal em um **programa de pesquisa com o Unitree Go2 PRO** e estudos públicos complementares à Évia. Cada repositório possui comportamento executável, exemplos reproduzíveis, README em inglês e português e diagrama Mermaid do domínio. A integração física é uma etapa própria de desenvolvimento.
+**PT:** Quinze protótipos funcionais independentes de software, com foco principal em um **programa de pesquisa com o Unitree Go2 PRO** e estudos públicos complementares à Évia. Cada repositório possui comportamento executável, exemplos reproduzíveis, interfaces e documentação em inglês e português e diagrama Mermaid do domínio. A integração física é uma etapa própria de desenvolvimento.
 
 [Go2 PRO workbenches · Bancadas](#go2-workbenches) · [Accessibility and training · Acessibilidade e treinamento](#training-prototypes) · [Évia companion studies · Estudos complementares](#evia-companions)
 
@@ -83,9 +83,9 @@ Every section is available in both languages. · Todas as seções estão dispon
 | **[Évia Cue Composer](https://github.com/galafis/evia-cue-composer)** | **EN:** Compose predictable signals with explicit access preferences.<br><br>**PT:** Componha sinais previsíveis com preferências explícitas de acessibilidade. | [Demo · Demonstração](https://galafis.github.io/evia-cue-composer/)<br>[Experiments · Experimentos](https://github.com/galafis/evia-cue-composer/blob/main/docs/EXPERIMENTS.md) |
 | **[Évia Local Event Journal](https://github.com/galafis/evia-local-event-journal)** | **EN:** Keep useful research events without collecting personal narratives.<br><br>**PT:** Registre eventos úteis de pesquisa sem coletar relatos pessoais. | [Demo · Demonstração](https://galafis.github.io/evia-local-event-journal/)<br>[Experiments · Experimentos](https://github.com/galafis/evia-local-event-journal/blob/main/docs/EXPERIMENTS.md) |
 
-**EN:** **403 behavioral tests** across the portfolio · Browser demonstrations · Versioned examples · MIT-licensed source.
+**EN:** **422 behavioral tests** across the portfolio · Browser demonstrations · Versioned examples · MIT-licensed source.
 
-**PT:** **403 testes de comportamento** no portfólio · Demonstrações no navegador · Exemplos versionados · Código-fonte sob licença MIT.
+**PT:** **422 testes de comportamento** no portfólio · Demonstrações no navegador · Exemplos versionados · Código-fonte sob licença MIT.
 
 Independent research and development · Pesquisa e desenvolvimento independentes  
 [gabrieldemetrioslafis@usp.br](mailto:gabrieldemetrioslafis@usp.br)
