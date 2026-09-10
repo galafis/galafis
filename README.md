@@ -1,3 +1,23 @@
+<!-- robotics-portfolio:start -->
+## Robotics, Accessibility & Education
+
+Three working prototypes with concrete **Unitree Go2 PRO development roadmaps**, reproducible examples, and detailed English/Portuguese documentation.
+
+| Project | Working prototype | Explore |
+|---|---|---|
+| **[Accessible Route Lab](https://github.com/galafis/accessible-route-lab)** | Editable route maps, clearance experiments, written directions, and step-by-step simulation | [Live demo](https://galafis.github.io/accessible-route-lab/) · [Go2 PRO roadmap](https://github.com/galafis/accessible-route-lab/blob/main/docs/UNITREE_GO2_ROADMAP.md) |
+| **[Rescue Scenario Lab](https://github.com/galafis/rescue-scenario-lab)** | Search exercises, communication gaps, resource accounting, and reproducible debriefs | [Live demo](https://galafis.github.io/rescue-scenario-lab/) · [Go2 PRO roadmap](https://github.com/galafis/rescue-scenario-lab/blob/main/docs/UNITREE_GO2_ROADMAP.md) |
+| **[Inclusive Session Studio](https://github.com/galafis/inclusive-session-studio)** | Predictable activity plans, participant-controlled pacing, optional timers, and local exports | [Live demo](https://galafis.github.io/inclusive-session-studio/) · [Go2 PRO roadmap](https://github.com/galafis/inclusive-session-studio/blob/main/docs/UNITREE_GO2_ROADMAP.md) |
+
+**64 behavioral tests** across the portfolio · Browser demos · Versioned examples · MIT-licensed source
+
+*Protótipos funcionais de robótica, acessibilidade e educação, com exemplos reproduzíveis, documentação bilíngue e etapas concretas de desenvolvimento com o Unitree Go2 PRO.*
+
+Independent research and development · **gabrieldemetrioslafis@usp.br**
+
+---
+<!-- robotics-portfolio:end -->
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Gabriel+Demetrios+Lafis;Data+Scientist+%7C+MLOps+%7C+GenAI;Machine+Learning+%7C+Deep+Learning+%7C+LLMs;Real-Time+Fraud+Detection+%7C+NLP+%7C+Health+AI" alt="Typing SVG" />
