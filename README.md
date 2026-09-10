@@ -1,39 +1,61 @@
-<!-- robotics-portfolio:start -->
-## Robotics, Accessibility & Education
-
-Three working prototypes with concrete **Unitree Go2 PRO development roadmaps**, reproducible examples, and detailed English/Portuguese documentation.
-
-| Project | Working prototype | Explore |
-|---|---|---|
-| **[Accessible Route Lab](https://github.com/galafis/accessible-route-lab)** | Editable route maps, clearance experiments, written directions, and step-by-step simulation | [Live demo](https://galafis.github.io/accessible-route-lab/) · [Go2 PRO roadmap](https://github.com/galafis/accessible-route-lab/blob/main/docs/UNITREE_GO2_ROADMAP.md) |
-| **[Rescue Scenario Lab](https://github.com/galafis/rescue-scenario-lab)** | Search exercises, communication gaps, resource accounting, and reproducible debriefs | [Live demo](https://galafis.github.io/rescue-scenario-lab/) · [Go2 PRO roadmap](https://github.com/galafis/rescue-scenario-lab/blob/main/docs/UNITREE_GO2_ROADMAP.md) |
-| **[Inclusive Session Studio](https://github.com/galafis/inclusive-session-studio)** | Predictable activity plans, participant-controlled pacing, optional timers, and local exports | [Live demo](https://galafis.github.io/inclusive-session-studio/) · [Go2 PRO roadmap](https://github.com/galafis/inclusive-session-studio/blob/main/docs/UNITREE_GO2_ROADMAP.md) |
-
-**64 behavioral tests** across the portfolio · Browser demos · Versioned examples · MIT-licensed source
-
-*Protótipos funcionais de robótica, acessibilidade e educação, com exemplos reproduzíveis, documentação bilíngue e etapas concretas de desenvolvimento com o Unitree Go2 PRO.*
-
-Independent research and development · **gabrieldemetrioslafis@usp.br**
-
----
-<!-- robotics-portfolio:end -->
+<a id="top"></a>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Gabriel+Demetrios+Lafis;Data+Scientist+%7C+MLOps+%7C+GenAI;Machine+Learning+%7C+Deep+Learning+%7C+LLMs;Real-Time+Fraud+Detection+%7C+NLP+%7C+Health+AI" alt="Typing SVG" />
+# Gabriel Demetrios Lafis
 
-<br/>
+**Senior Data Scientist · Machine Learning Engineer · MLOps**  
+**Cientista de Dados Sênior · Engenheiro de Machine Learning · MLOps**
+
+Curitiba, Paraná, Brazil · Brasil
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-demetrios-lafis/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/galafis)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrieldemetrios@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=galafis&color=0A66C2&style=for-the-badge&label=Profile+Views)](https://github.com/galafis)
+[![Email · E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrieldemetrios@gmail.com)
+[![Profile views · Visualizações do perfil](https://komarev.com/ghpvc/?username=galafis&color=0A66C2&style=for-the-badge&label=Views+%2F+Visualiza%C3%A7%C3%B5es)](https://github.com/galafis)
+
+**English & Português**  
+Every section is available in both languages. · Todas as seções estão disponíveis nos dois idiomas.
 
 </div>
+
+| English — quick navigation | Português — navegação rápida |
+|---|---|
+| [Robotics & accessibility](#robotics) · [About me](#about-english) · [Experience](#experience-english) | [Robótica e acessibilidade](#robotics) · [Sobre mim](#sobre-portugues) · [Experiência](#experiencia-portugues) |
+| [Technologies](#technologies) · [Projects](#projects) · [Certifications](#certifications) | [Tecnologias](#technologies) · [Projetos](#projects) · [Certificações](#certifications) |
+| [Education](#education) · [GitHub activity](#github-activity) · [Expertise](#expertise) · [Contact](#contact) | [Formação](#education) · [Atividade no GitHub](#github-activity) · [Áreas de atuação](#expertise) · [Contato](#contact) |
+
+---
+
+<!-- robotics-portfolio:start -->
+<a id="robotics"></a>
+
+## Robotics, Accessibility & Education · Robótica, Acessibilidade e Educação
+
+**EN:** Three working prototypes with concrete **Unitree Go2 PRO development roadmaps**, reproducible examples, and detailed English/Portuguese documentation.
+
+**PT:** Três protótipos funcionais com **planos concretos de desenvolvimento com o Unitree Go2 PRO**, exemplos reproduzíveis e documentação detalhada em inglês e português.
+
+| Project · Projeto | Working prototype · Protótipo funcional | Explore · Explorar |
+|---|---|---|
+| **[Accessible Route Lab](https://github.com/galafis/accessible-route-lab)** | **EN:** Editable route maps, clearance experiments, written directions, and step-by-step simulation.<br><br>**PT:** Mapas de rotas editáveis, experimentos com espaço livre para passagem, instruções por escrito e simulação passo a passo. | [Live demo · Demonstração](https://galafis.github.io/accessible-route-lab/)<br>[Go2 PRO roadmap · Plano de desenvolvimento](https://github.com/galafis/accessible-route-lab/blob/main/docs/UNITREE_GO2_ROADMAP.md) |
+| **[Rescue Scenario Lab](https://github.com/galafis/rescue-scenario-lab)** | **EN:** Search exercises, communication gaps, resource accounting, and reproducible debriefs.<br><br>**PT:** Exercícios de busca, falhas de comunicação, acompanhamento de recursos e análises pós-exercício reproduzíveis. | [Live demo · Demonstração](https://galafis.github.io/rescue-scenario-lab/)<br>[Go2 PRO roadmap · Plano de desenvolvimento](https://github.com/galafis/rescue-scenario-lab/blob/main/docs/UNITREE_GO2_ROADMAP.md) |
+| **[Inclusive Session Studio](https://github.com/galafis/inclusive-session-studio)** | **EN:** Predictable activity plans, participant-controlled pacing, optional timers, and local exports.<br><br>**PT:** Planos de atividades previsíveis, ritmo controlado pelo participante, temporizadores opcionais e exportação local. | [Live demo · Demonstração](https://galafis.github.io/inclusive-session-studio/)<br>[Go2 PRO roadmap · Plano de desenvolvimento](https://github.com/galafis/inclusive-session-studio/blob/main/docs/UNITREE_GO2_ROADMAP.md) |
+
+**EN:** **64 behavioral tests** across the portfolio · Browser demos · Versioned examples · MIT-licensed source.
+
+**PT:** **64 testes de comportamento** no portfólio · Demonstrações no navegador · Exemplos versionados · Código-fonte sob licença MIT.
+
+Independent research and development · Pesquisa e desenvolvimento independentes  
+**[gabrieldemetrioslafis@usp.br](mailto:gabrieldemetrioslafis@usp.br)**
+
+<!-- robotics-portfolio:end -->
 
 ---
 
 ## About Me · Sobre Mim
+
+<a id="about-english"></a>
 
 **English**
 
@@ -42,6 +64,8 @@ Senior Data Scientist at **SysMap Solutions**, working in **Senior Machine Learn
 I also participate independently in **AGI Club, an iFood Labs initiative**, with a research focus on language models, particularly SLMs. Previously, I worked as a freelance Data Science Researcher at **Manus AI from March 2025 to April 2026**, alongside earlier experience in analytics, fraud detection, cybersecurity, and full-stack development.
 
 Currently pursuing a **Postgraduate in AI & Health Data Science** at Instituto Sírio-Libanês and an **MBA in Data Science & AI** at USP/Esalq. Based in **Curitiba, Paraná, Brazil**.
+
+<a id="sobre-portugues"></a>
 
 **Português**
 
@@ -221,9 +245,13 @@ Realizei pesquisa e desenvolvimento aplicados em inteligência artificial, model
 
 ---
 
-## Tech Stack
+<a id="technologies"></a>
 
-### Languages
+## Tech Stack · Tecnologias
+
+
+### Languages · Linguagens de programação
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -233,7 +261,8 @@ Realizei pesquisa e desenvolvimento aplicados em inteligência artificial, model
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-### Machine Learning & AI
+### Machine Learning & AI · Aprendizado de Máquina e Inteligência Artificial
+
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -243,7 +272,8 @@ Realizei pesquisa e desenvolvimento aplicados em inteligência artificial, model
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![SHAP](https://img.shields.io/badge/SHAP-4B0082?style=for-the-badge&logoColor=white)
 
-### Data Engineering & MLOps
+### Data Engineering & MLOps · Engenharia de Dados e MLOps
+
 ![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
@@ -253,14 +283,16 @@ Realizei pesquisa e desenvolvimento aplicados em inteligência artificial, model
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-### Cloud & Databases
+### Cloud & Databases · Nuvem e Bancos de Dados
+
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### BI & Visualization
+### BI & Visualization · Inteligência de Negócios e Visualização
+
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
@@ -268,14 +300,22 @@ Realizei pesquisa e desenvolvimento aplicados em inteligência artificial, model
 
 ---
 
-## Featured Projects
+<a id="projects"></a>
+
+## Featured Projects · Projetos em Destaque
+
 
 <table>
 <tr>
 <td width="50%">
 
 ### [Real-Time Fraud Detection](https://github.com/galafis/ai-financial-fraud-detection)
-Ensemble of 4 models (RF, XGBoost, Neural Networks, Autoencoders) with end-to-end MLOps pipeline. **AUC 0.94** | Latency < 200ms | 30K+ transactions/day.
+
+**Detecção de Fraudes em Tempo Real**
+
+**EN:** Ensemble of 4 models (RF, XGBoost, Neural Networks, Autoencoders) with end-to-end MLOps pipeline. **AUC 0.94** | Latency < 200ms | 30K+ transactions/day.
+
+**PT:** Combinação de 4 modelos (RF, XGBoost, redes neurais e autoencoders) com pipeline completo de MLOps. **AUC de 0,94** | Latência inferior a 200 ms | Mais de 30 mil transações/dia.
 
 `Python` `TensorFlow` `XGBoost` `MLflow` `Kafka`
 
@@ -283,7 +323,12 @@ Ensemble of 4 models (RF, XGBoost, Neural Networks, Autoencoders) with end-to-en
 <td width="50%">
 
 ### [HFT Analytics Platform](https://github.com/galafis/high-frequency-trading-analytics)
-Real-time analytics processing **10K+ events/second** for market microstructure insights, trading signal generation, and performance monitoring.
+
+**Plataforma de Análise de Negociação de Alta Frequência**
+
+**EN:** Real-time analytics processing **10K+ events/second** for market microstructure insights, trading signal generation, and performance monitoring.
+
+**PT:** Análise em tempo real com processamento de **mais de 10 mil eventos/segundo** para estudar a microestrutura do mercado, gerar sinais de negociação e monitorar o desempenho.
 
 `Python` `PySpark` `Kafka` `PostgreSQL`
 
@@ -293,7 +338,12 @@ Real-time analytics processing **10K+ events/second** for market microstructure 
 <td width="50%">
 
 ### [Clinical NLP Pipeline (PT-BR)](https://github.com/galafis/clinical-nlp-pipeline-ptbr)
-Medical entity extraction (ICD-10, medications, symptoms) from clinical texts using **BERTimbau/BioBERTpt** Transformers with optimized NER F1-score.
+
+**Processamento de Linguagem Natural em Textos Clínicos (PT-BR)**
+
+**EN:** Medical entity extraction (ICD-10, medications, symptoms) from clinical texts using **BERTimbau/BioBERTpt** Transformers with optimized NER F1-score.
+
+**PT:** Extração de entidades médicas (CID-10, medicamentos e sintomas) de textos clínicos com Transformers **BERTimbau/BioBERTpt** e otimização da pontuação F1 no reconhecimento de entidades nomeadas (NER).
 
 `Python` `Transformers` `NER` `FastAPI`
 
@@ -301,9 +351,14 @@ Medical entity extraction (ICD-10, medications, symptoms) from clinical texts us
 <td width="50%">
 
 ### [Genomic Data Analysis Pipeline](https://github.com/galafis/genomic-data-analysis-pipeline)
-End-to-end pipeline for DNA-seq, RNA-seq, single-cell & ChIP-seq workflows with **ML-based insights** on HPC and cloud (AWS, GCP, Azure).
 
-`Python` `Bioinformatics` `ML` `Cloud`
+**Pipeline de Análise de Dados Genômicos**
+
+**EN:** End-to-end pipeline for DNA-seq, RNA-seq, single-cell & ChIP-seq workflows with **ML-based insights** on HPC and cloud (AWS, GCP, Azure).
+
+**PT:** Pipeline completo para fluxos de DNA-seq, RNA-seq, análise de célula única e ChIP-seq, com **análises baseadas em aprendizado de máquina** em computação de alto desempenho e nuvem (AWS, GCP e Azure).
+
+`Python` `Bioinformatics / Bioinformática` `ML` `Cloud / Nuvem`
 
 </td>
 </tr>
@@ -311,7 +366,12 @@ End-to-end pipeline for DNA-seq, RNA-seq, single-cell & ChIP-seq workflows with 
 <td width="50%">
 
 ### [HR AI Fairness Toolkit](https://github.com/galafis/hr-ai-fairness-toolkit)
-Fairness auditing for HR models: 5 metrics (Disparate Impact, Demographic Parity, Equal Opportunity), SHAP by group, 3 mitigation techniques, automated HTML reports. **62 tests**.
+
+**Ferramentas de Auditoria de Equidade em Modelos de RH**
+
+**EN:** Fairness auditing for HR models: 5 metrics (Disparate Impact, Demographic Parity, Equal Opportunity), SHAP by group, 3 mitigation techniques, automated HTML reports. **62 tests**.
+
+**PT:** Auditoria de equidade em modelos de RH: 5 métricas, incluindo impacto adverso, paridade demográfica e igualdade de oportunidades; SHAP por grupo; 3 técnicas de mitigação; relatórios HTML automatizados. **62 testes**.
 
 `Python` `Fairlearn` `SHAP` `FastAPI` `Docker`
 
@@ -319,7 +379,12 @@ Fairness auditing for HR models: 5 metrics (Disparate Impact, Demographic Parity
 <td width="50%">
 
 ### [Org Network Analysis (ONA)](https://github.com/galafis/org-network-analysis-ona)
-Organizational Network Analysis with NetworkX: centrality metrics, bottleneck detection, knowledge loss risk, Louvain community detection, executive recommendations. **68 tests**.
+
+**Análise de Redes Organizacionais (ONA)**
+
+**EN:** Organizational Network Analysis with NetworkX: centrality metrics, bottleneck detection, knowledge loss risk, Louvain community detection, executive recommendations. **68 tests**.
+
+**PT:** Análise de redes organizacionais com NetworkX: métricas de centralidade, detecção de gargalos, risco de perda de conhecimento, identificação de comunidades pelo método Louvain e recomendações executivas. **68 testes**.
 
 `Python` `NetworkX` `FastAPI` `Streamlit`
 
@@ -329,7 +394,12 @@ Organizational Network Analysis with NetworkX: centrality metrics, bottleneck de
 <td width="50%">
 
 ### [HR Turnover Risk MLOps](https://github.com/galafis/hr-turnover-risk-mlops)
-End-to-end MLOps pipeline for predicting employee turnover risk with automated retraining, model monitoring, and drift detection.
+
+**MLOps para Risco de Rotatividade de Pessoal**
+
+**EN:** End-to-end MLOps pipeline for predicting employee turnover risk with automated retraining, model monitoring, and drift detection.
+
+**PT:** Pipeline completo de MLOps para prever o risco de rotatividade de pessoal, com retreinamento automatizado, monitoramento de modelos e detecção de mudanças nas distribuições dos dados.
 
 `Python` `MLflow` `Docker` `CI/CD`
 
@@ -337,7 +407,12 @@ End-to-end MLOps pipeline for predicting employee turnover risk with automated r
 <td width="50%">
 
 ### [HR Policy LLM RAG Assistant](https://github.com/galafis/hr-policy-llm-rag-assistant)
-RAG-powered assistant for HR policy Q&A using LLMs with retrieval-augmented generation over corporate policy documents.
+
+**Assistente de Consulta a Políticas de RH**
+
+**EN:** RAG-powered assistant for HR policy Q&A using LLMs with retrieval-augmented generation over corporate policy documents.
+
+**PT:** Assistente para perguntas e respostas sobre políticas de RH, com modelos de linguagem e geração apoiada na recuperação de informações (RAG) em documentos de políticas corporativas.
 
 `Python` `LangChain` `LLMs` `RAG` `FastAPI`
 
@@ -345,120 +420,102 @@ RAG-powered assistant for HR policy Q&A using LLMs with retrieval-augmented gene
 </tr>
 </table>
 
-> **450+ repositories** spanning Data Science, ML/AI, Data Engineering, Quantitative Finance, HealthTech, HR Tech, and more. [Explore all repositories →](https://github.com/galafis?tab=repositories)
+> **EN:** **450+ repositories** spanning Data Science, ML/AI, Data Engineering, Quantitative Finance, HealthTech, HR Tech, and more. [Explore all repositories →](https://github.com/galafis?tab=repositories)
+>
+> **PT:** **Mais de 450 repositórios** em Ciência de Dados, Aprendizado de Máquina e IA, Engenharia de Dados, Finanças Quantitativas, Tecnologia em Saúde, Tecnologia para RH e outras áreas. [Explorar todos os repositórios →](https://github.com/galafis?tab=repositories)
 
 ---
 
-## Certifications
+<a id="certifications"></a>
 
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white" /><br/>
-<sub><b>Advanced Data Analytics</b></sub><br/>
-<sub><b>Data Analytics</b></sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white" /><br/>
-<sub><b>AI Engineering</b></sub><br/>
-<sub><b>Data Engineering</b></sub><br/>
-<sub><b>Machine Learning</b></sub><br/>
-<sub><b>GenAI Engineering</b></sub><br/>
-<sub><b>Deep Learning</b></sub><br/>
-<sub><b>Data Science</b></sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Johns_Hopkins-002D72?style=for-the-badge&logoColor=white" /><br/>
-<sub><b>Data Science</b></sub><br/>
-<sub><b>Specialization</b></sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Wharton-011F5B?style=for-the-badge&logoColor=white" /><br/>
-<sub><b>Business Analytics</b></sub><br/>
-<sub><b>UPenn</b></sub>
-</td>
-</tr>
-</table>
+## Certifications · Certificações
+
+| Institution · Instituição | English | Português |
+|---|---|---|
+| **Google** | Advanced Data Analytics<br>Data Analytics | Análise Avançada de Dados<br>Análise de Dados |
+| **IBM** | AI Engineering<br>Data Engineering<br>Machine Learning<br>GenAI Engineering<br>Deep Learning<br>Data Science | Engenharia de Inteligência Artificial<br>Engenharia de Dados<br>Aprendizado de Máquina<br>Engenharia de IA Generativa<br>Aprendizado Profundo<br>Ciência de Dados |
+| **Johns Hopkins** | Data Science Specialization | Especialização em Ciência de Dados |
+| **Wharton / UPenn** | Business Analytics | Análise de Negócios |
 
 ---
 
-## Education
+<a id="education"></a>
 
-| Degree | Institution | Period |
-|--------|-------------|--------|
-| **Postgraduate — AI & Health Data Science** | Instituto Sírio-Libanês (IEP/HSL) | 2026 – 2027 |
-| **MBA — Data Science, AI & Analytics** | USP / Esalq | 2026 – 2027 |
-| **B.Tech — Systems Analysis & Development** | UniDomBosco | 2022 – 2025 |
-| **B.Tech — Cyber Defense** | UniDomBosco | 2022 – 2025 |
-| **B.Tech — IT Management** | UniDomBosco | 2022 – 2025 |
-| **Data Scientist (Professional)** | EBAC | 2024 – 2025 |
+## Education · Formação Acadêmica
+
+| Qualification · Formação | Institution · Instituição | Period · Período |
+|---|---|---|
+| **Postgraduate — AI & Health Data Science**<br>Pós-graduação — IA e Ciência de Dados em Saúde | Instituto Sírio-Libanês (IEP/HSL) | 2026 – 2027 |
+| **MBA — Data Science, AI & Analytics**<br>MBA — Ciência de Dados, IA e Análise de Dados | USP / Esalq | 2026 – 2027 |
+| **Technology Degree — Systems Analysis & Development**<br>Tecnólogo — Análise e Desenvolvimento de Sistemas | UniDomBosco | 2022 – 2025 |
+| **Technology Degree — Cyber Defense**<br>Tecnólogo — Defesa Cibernética | UniDomBosco | 2022 – 2025 |
+| **Technology Degree — IT Management**<br>Tecnólogo — Gestão da Tecnologia da Informação | UniDomBosco | 2022 – 2025 |
+| **Data Scientist — Professional Training**<br>Cientista de Dados — Formação Profissional | EBAC | 2024 – 2025 |
 
 ---
 
-## GitHub Analytics
+<a id="github-activity"></a>
+
+## GitHub Activity · Atividade no GitHub
+
+[Explore repositories · Explorar repositórios](https://github.com/galafis?tab=repositories) · [View contributions · Ver contribuições](https://github.com/galafis#contribution-activity)
+
+<details>
+<summary><strong>English — statistics and contribution streaks</strong></summary>
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=galafis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galafis&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=galafis&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=galafis&theme=tokyo-night&hide_border=true&area=true" />
+<img src="https://streak-stats.demolab.com/?user=galafis&theme=tokyonight&hide_border=true&locale=en" alt="Contribution streaks in English · Sequências de contribuições em inglês" />
 
 </div>
 
----
+</details>
 
-## Domain Expertise
-
-```mermaid
-mindmap
-  root((Gabriel Lafis))
-    Machine Learning
-      Supervised & Unsupervised
-      Ensemble Methods
-      Hyperparameter Optimization
-      Feature Engineering
-    Deep Learning & NLP
-      Transformers & BERT
-      LLMs & RLHF
-      NER & Text Mining
-      Computer Vision
-    MLOps & Engineering
-      CI/CD Pipelines
-      Model Monitoring
-      Docker & Kubernetes
-      Real-Time Streaming
-    Data Engineering
-      ETL/ELT Pipelines
-      Apache Spark & Kafka
-      Data Warehousing
-      BigQuery & GCP
-    Domain Applications
-      Financial Fraud Detection
-      HealthTech & Clinical NLP
-      Quantitative Finance
-      HR Tech & People Analytics
-```
-
----
+<details>
+<summary><strong>Português — estatísticas e sequências de contribuições</strong></summary>
 
 <div align="center">
 
-### Let's Connect
+<img src="https://streak-stats.demolab.com/?user=galafis&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequências de contribuições em português · Contribution streaks in Portuguese" />
 
-I'm always open to discussing **Data Science**, **MLOps architectures**, or **AI applications** in Finance, Health, and HR.
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-demetrios-lafis/)
-[![Email](https://img.shields.io/badge/Send_me_an_email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrieldemetrios@gmail.com)
+</details>
 
 ---
 
-<sub>Curitiba, PR, Brazil | Open to remote & hybrid opportunities</sub>
+<a id="expertise"></a>
+
+## Domain Expertise · Áreas de Atuação
+
+| Area · Área | English | Português |
+|---|---|---|
+| **Machine Learning · Aprendizado de Máquina** | Supervised and unsupervised learning; ensemble methods; hyperparameter optimization; feature engineering. | Aprendizado supervisionado e não supervisionado; combinação de modelos; otimização de hiperparâmetros; engenharia de atributos. |
+| **Deep Learning & NLP · Aprendizado Profundo e PLN** | Transformers and BERT; LLMs and RLHF; named entity recognition and text mining; computer vision. | Transformers e BERT; modelos de linguagem e aprendizado por reforço com feedback humano; reconhecimento de entidades nomeadas e mineração de textos; visão computacional. |
+| **MLOps & Engineering · MLOps e Engenharia** | CI/CD pipelines; model monitoring; Docker and Kubernetes; real-time streaming. | Pipelines de integração e entrega contínuas; monitoramento de modelos; Docker e Kubernetes; processamento de fluxos em tempo real. |
+| **Data Engineering · Engenharia de Dados** | ETL/ELT pipelines; Apache Spark and Kafka; data warehousing; BigQuery and Google Cloud. | Pipelines de ETL/ELT; Apache Spark e Kafka; armazenamento analítico de dados; BigQuery e Google Cloud. |
+| **Domain Applications · Áreas de Aplicação** | Financial fraud detection; health technology and clinical NLP; quantitative finance; HR technology and people analytics. | Detecção de fraudes financeiras; tecnologia em saúde e processamento de linguagem natural em textos clínicos; finanças quantitativas; tecnologia para RH e análise de dados de pessoas. |
+
+---
+
+<a id="contact"></a>
+
+<div align="center">
+
+## Let's Connect · Vamos Conversar
+
+**EN:** I'm always open to discussing **Data Science**, **MLOps architectures**, or **AI applications** in Finance, Health, and HR.
+
+**PT:** Estou sempre aberto a conversar sobre **Ciência de Dados**, **arquiteturas de MLOps** ou **aplicações de IA** em Finanças, Saúde e RH.
+
+[Connect on LinkedIn · Conecte-se pelo LinkedIn](https://www.linkedin.com/in/gabriel-demetrios-lafis/)
+
+**Email · E-mail:** [gabrieldemetrios@gmail.com](mailto:gabrieldemetrios@gmail.com)  
+**Institutional email · E-mail institucional:** [gabrieldemetrioslafis@usp.br](mailto:gabrieldemetrioslafis@usp.br)
+
+Curitiba, Paraná, Brazil · Brasil  
+Open to remote & hybrid opportunities · Aberto a oportunidades remotas e híbridas
+
+[Back to top · Voltar ao início](#top)
 
 </div>
