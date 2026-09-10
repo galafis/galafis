@@ -21,9 +21,53 @@ Every section is available in both languages. · Todas as seções estão dispon
 
 | English — quick navigation | Português — navegação rápida |
 |---|---|
-| [Robotics & accessibility](#robotics) · [About me](#about-english) · [Experience](#experience-english) | [Robótica e acessibilidade](#robotics) · [Sobre mim](#sobre-portugues) · [Experiência](#experiencia-portugues) |
+| [Selected projects](#projects) · [Robotics & accessibility](#robotics) · [About me](#about-english) · [Experience](#experience-english) | [Projetos selecionados](#projects) · [Robótica e acessibilidade](#robotics) · [Sobre mim](#sobre-portugues) · [Experiência](#experiencia-portugues) |
 | [Technologies](#technologies) · [Projects](#projects) · [Certifications](#certifications) | [Tecnologias](#technologies) · [Projetos](#projects) · [Certificações](#certifications) |
 | [Education](#education) · [GitHub activity](#github-activity) · [Expertise](#expertise) · [Contact](#contact) | [Formação](#education) · [Atividade no GitHub](#github-activity) · [Áreas de atuação](#expertise) · [Contato](#contact) |
+
+---
+
+<!-- broader-portfolio:start -->
+<a id="projects"></a>
+
+## Data, Software & Research · Dados, Software e Pesquisa
+
+**EN:** A broader selection of my existing projects, with reviewed implementations, executable examples, bilingual documentation and automated checks. Explore the repositories for the code, assumptions and validation evidence.
+
+**PT:** Uma seleção mais ampla dos meus projetos existentes, com implementações revisadas, exemplos executáveis, documentação bilíngue e verificações automatizadas. Explore os repositórios para consultar código, premissas e evidências de validação.
+
+### Data Engineering & Analytics · Engenharia de Dados e Análise
+
+| Project · Projeto | What you can explore · O que explorar | Evidence · Evidência |
+|---|---|---|
+| **[People Analytics Warehouse](https://github.com/galafis/people-analytics-dwh-dbt)**<br>dbt · DuckDB · Python | **EN:** Seven synthetic source tables, analytical models and tested data relationships.<br><br>**PT:** Sete tabelas fictícias de origem, modelos analíticos e relacionamentos testados. | [README · EN/PT](https://github.com/galafis/people-analytics-dwh-dbt#readme)<br>[Validation · Validação](https://github.com/galafis/people-analytics-dwh-dbt/blob/HEAD/docs/VALIDATION.md)<br>[Checks · Verificações](https://github.com/galafis/people-analytics-dwh-dbt/actions/workflows/ci.yml) |
+| **[Organizational Network Analysis](https://github.com/galafis/org-network-analysis-ona)**<br>NetworkX · Python | **EN:** Weighted collaboration graphs, centrality, communities and documented input contracts.<br><br>**PT:** Grafos ponderados de colaboração, centralidade, comunidades e contratos de entrada documentados. | [README · EN/PT](https://github.com/galafis/org-network-analysis-ona#readme)<br>[Validation · Validação](https://github.com/galafis/org-network-analysis-ona/blob/HEAD/docs/VALIDATION.md)<br>[Checks · Verificações](https://github.com/galafis/org-network-analysis-ona/actions/workflows/ci.yml) |
+| **[Sales Reporting Pipeline](https://github.com/galafis/Automated-Report-Generator)**<br>pandas · Plotly · ReportLab | **EN:** Reproducible sales summaries, charts, HTML dashboards and bilingual PDF reports.<br><br>**PT:** Resumos de vendas reproduzíveis, gráficos, painéis HTML e relatórios PDF bilíngues. | [README · EN/PT](https://github.com/galafis/Automated-Report-Generator#readme)<br>[Validation · Validação](https://github.com/galafis/Automated-Report-Generator/blob/HEAD/docs/VALIDATION.md)<br>[Checks · Verificações](https://github.com/galafis/Automated-Report-Generator/actions/workflows/ci.yml) |
+
+### Research Tools & Security · Ferramentas de Pesquisa e Segurança
+
+| Project · Projeto | What you can explore · O que explorar | Evidence · Evidência |
+|---|---|---|
+| **[Genomic Variant Export](https://github.com/galafis/genomic-data-analysis-pipeline)**<br>VCF · pandas · Python | **EN:** Validated VCF parsing, quality/depth filters and CSV, Excel and JSON exports.<br><br>**PT:** Leitura validada de VCF, filtros de qualidade e profundidade e exportação CSV, Excel e JSON. | [README · EN/PT](https://github.com/galafis/genomic-data-analysis-pipeline#readme)<br>[Validation · Validação](https://github.com/galafis/genomic-data-analysis-pipeline/blob/HEAD/docs/VALIDATION.md)<br>[Checks · Verificações](https://github.com/galafis/genomic-data-analysis-pipeline/actions/workflows/ci.yml) |
+| **[Portuguese Clinical Text Processing](https://github.com/galafis/clinical-nlp-pipeline-ptbr)**<br>Python · FastAPI | **EN:** Offline text cleaning, abbreviation expansion, negation spans and validated batch contracts.<br><br>**PT:** Limpeza local de textos, expansão de abreviações, intervalos de negação e contratos de lote validados. | [README · EN/PT](https://github.com/galafis/clinical-nlp-pipeline-ptbr#readme)<br>[Validation · Validação](https://github.com/galafis/clinical-nlp-pipeline-ptbr/blob/HEAD/docs/VALIDATION.md)<br>[Checks · Verificações](https://github.com/galafis/clinical-nlp-pipeline-ptbr/actions/workflows/ci.yml) |
+| **[Solidity Source Review](https://github.com/galafis/Blockchain-Security-Analyzer)**<br>Solidity · Flask · Python | **EN:** Source review prompts with bilingual explanations, line numbers and matched evidence.<br><br>**PT:** Pontos de revisão de código com explicações bilíngues, linhas e evidências localizadas. | [README · EN/PT](https://github.com/galafis/Blockchain-Security-Analyzer#readme)<br>[Validation · Validação](https://github.com/galafis/Blockchain-Security-Analyzer/blob/HEAD/docs/VALIDATION.md)<br>[Checks · Verificações](https://github.com/galafis/Blockchain-Security-Analyzer/actions/workflows/ci.yml) |
+
+### Applications & Software Architecture · Aplicações e Arquitetura de Software
+
+| Project · Projeto | What you can explore · O que explorar | Evidence · Evidência |
+|---|---|---|
+| **[Market Mechanics Workspace](https://github.com/galafis/trading-dashboard)**<br>React · Vite · Zustand | **EN:** Synthetic market charts, tested indicators and a working paper portfolio interface.<br><br>**PT:** Gráficos de mercado fictício, indicadores testados e interface funcional de carteira simulada. | [Demo · Demonstração](https://galafis.github.io/trading-dashboard/)<br>[README · EN/PT](https://github.com/galafis/trading-dashboard#readme)<br>[Validation · Validação](https://github.com/galafis/trading-dashboard/blob/HEAD/docs/VALIDATION.md)<br>[Checks · Verificações](https://github.com/galafis/trading-dashboard/actions/workflows/ci.yml) |
+| **[TypeScript Event Scheduler](https://github.com/galafis/TypeScript-Event-Scheduler-Improved)**<br>TypeScript · Jest | **EN:** A bilingual scheduler with UTC dates, protected event state, JSON exchange and browser storage.<br><br>**PT:** Agendador bilíngue com datas UTC, estado protegido, intercâmbio JSON e armazenamento no navegador. | [Demo · Demonstração](https://galafis.github.io/TypeScript-Event-Scheduler-Improved/)<br>[README · EN/PT](https://github.com/galafis/TypeScript-Event-Scheduler-Improved#readme)<br>[Validation · Validação](https://github.com/galafis/TypeScript-Event-Scheduler-Improved/blob/HEAD/docs/VALIDATION.md)<br>[Checks · Verificações](https://github.com/galafis/TypeScript-Event-Scheduler-Improved/actions/workflows/ci.yml) |
+| **[Event Planning Workspace](https://github.com/galafis/Event-Planning-System)**<br>Flask · JavaScript | **EN:** Events, budgets, guests and task follow-up through a bilingual browser workspace and API.<br><br>**PT:** Eventos, orçamentos, convidados e acompanhamento de tarefas por interface bilíngue e API. | [README · EN/PT](https://github.com/galafis/Event-Planning-System#readme)<br>[Validation · Validação](https://github.com/galafis/Event-Planning-System/blob/HEAD/docs/VALIDATION.md)<br>[Checks · Verificações](https://github.com/galafis/Event-Planning-System/actions/workflows/ci.yml) |
+| **[Banking Domain Model](https://github.com/galafis/Banking-System-Architecture)**<br>Python · Decimal | **EN:** Exact-cent balances, atomic transfers and concurrency tests that verify value conservation.<br><br>**PT:** Saldos exatos em centavos, transferências atômicas e testes concorrentes de conservação de valor. | [README · EN/PT](https://github.com/galafis/Banking-System-Architecture#readme)<br>[Validation · Validação](https://github.com/galafis/Banking-System-Architecture/blob/HEAD/docs/VALIDATION.md)<br>[Checks · Verificações](https://github.com/galafis/Banking-System-Architecture/actions/workflows/ci.yml) |
+
+**EN:** These are working prototypes with defined scope. Examples use synthetic data. Clinical, genomic, financial and security demonstrations do not imply validated real-world outcomes. The robotics and accessibility portfolio continues below.
+
+**PT:** São protótipos funcionais com escopo definido. Os exemplos usam dados fictícios. Demonstrações clínicas, genômicas, financeiras e de segurança não implicam resultados validados no mundo real. O portfólio de robótica e acessibilidade continua abaixo.
+
+[Robotics & accessibility · Robótica e acessibilidade](#robotics) · [Professional experience · Experiência profissional](#experience-english)
+
+<!-- broader-portfolio:end -->
 
 ---
 
@@ -338,132 +382,6 @@ Realizei pesquisa e desenvolvimento aplicados em inteligência artificial, model
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
-
----
-
-<a id="projects"></a>
-
-## Featured Projects · Projetos em Destaque
-
-
-<table>
-<tr>
-<td width="50%">
-
-### [Real-Time Fraud Detection](https://github.com/galafis/ai-financial-fraud-detection)
-
-**Detecção de Fraudes em Tempo Real**
-
-**EN:** Ensemble of 4 models (RF, XGBoost, Neural Networks, Autoencoders) with end-to-end MLOps pipeline. **AUC 0.94** | Latency < 200ms | 30K+ transactions/day.
-
-**PT:** Combinação de 4 modelos (RF, XGBoost, redes neurais e autoencoders) com pipeline completo de MLOps. **AUC de 0,94** | Latência inferior a 200 ms | Mais de 30 mil transações/dia.
-
-`Python` `TensorFlow` `XGBoost` `MLflow` `Kafka`
-
-</td>
-<td width="50%">
-
-### [HFT Analytics Platform](https://github.com/galafis/high-frequency-trading-analytics)
-
-**Plataforma de Análise de Negociação de Alta Frequência**
-
-**EN:** Real-time analytics processing **10K+ events/second** for market microstructure insights, trading signal generation, and performance monitoring.
-
-**PT:** Análise em tempo real com processamento de **mais de 10 mil eventos/segundo** para estudar a microestrutura do mercado, gerar sinais de negociação e monitorar o desempenho.
-
-`Python` `PySpark` `Kafka` `PostgreSQL`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### [Clinical NLP Pipeline (PT-BR)](https://github.com/galafis/clinical-nlp-pipeline-ptbr)
-
-**Processamento de Linguagem Natural em Textos Clínicos (PT-BR)**
-
-**EN:** Medical entity extraction (ICD-10, medications, symptoms) from clinical texts using **BERTimbau/BioBERTpt** Transformers with optimized NER F1-score.
-
-**PT:** Extração de entidades médicas (CID-10, medicamentos e sintomas) de textos clínicos com Transformers **BERTimbau/BioBERTpt** e otimização da pontuação F1 no reconhecimento de entidades nomeadas (NER).
-
-`Python` `Transformers` `NER` `FastAPI`
-
-</td>
-<td width="50%">
-
-### [Genomic Data Analysis Pipeline](https://github.com/galafis/genomic-data-analysis-pipeline)
-
-**Pipeline de Análise de Dados Genômicos**
-
-**EN:** End-to-end pipeline for DNA-seq, RNA-seq, single-cell & ChIP-seq workflows with **ML-based insights** on HPC and cloud (AWS, GCP, Azure).
-
-**PT:** Pipeline completo para fluxos de DNA-seq, RNA-seq, análise de célula única e ChIP-seq, com **análises baseadas em aprendizado de máquina** em computação de alto desempenho e nuvem (AWS, GCP e Azure).
-
-`Python` `Bioinformatics / Bioinformática` `ML` `Cloud / Nuvem`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### [HR AI Fairness Toolkit](https://github.com/galafis/hr-ai-fairness-toolkit)
-
-**Ferramentas de Auditoria de Equidade em Modelos de RH**
-
-**EN:** Fairness auditing for HR models: 5 metrics (Disparate Impact, Demographic Parity, Equal Opportunity), SHAP by group, 3 mitigation techniques, automated HTML reports. **62 tests**.
-
-**PT:** Auditoria de equidade em modelos de RH: 5 métricas, incluindo impacto adverso, paridade demográfica e igualdade de oportunidades; SHAP por grupo; 3 técnicas de mitigação; relatórios HTML automatizados. **62 testes**.
-
-`Python` `Fairlearn` `SHAP` `FastAPI` `Docker`
-
-</td>
-<td width="50%">
-
-### [Org Network Analysis (ONA)](https://github.com/galafis/org-network-analysis-ona)
-
-**Análise de Redes Organizacionais (ONA)**
-
-**EN:** Organizational Network Analysis with NetworkX: centrality metrics, bottleneck detection, knowledge loss risk, Louvain community detection, executive recommendations. **68 tests**.
-
-**PT:** Análise de redes organizacionais com NetworkX: métricas de centralidade, detecção de gargalos, risco de perda de conhecimento, identificação de comunidades pelo método Louvain e recomendações executivas. **68 testes**.
-
-`Python` `NetworkX` `FastAPI` `Streamlit`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### [HR Turnover Risk MLOps](https://github.com/galafis/hr-turnover-risk-mlops)
-
-**MLOps para Risco de Rotatividade de Pessoal**
-
-**EN:** End-to-end MLOps pipeline for predicting employee turnover risk with automated retraining, model monitoring, and drift detection.
-
-**PT:** Pipeline completo de MLOps para prever o risco de rotatividade de pessoal, com retreinamento automatizado, monitoramento de modelos e detecção de mudanças nas distribuições dos dados.
-
-`Python` `MLflow` `Docker` `CI/CD`
-
-</td>
-<td width="50%">
-
-### [HR Policy LLM RAG Assistant](https://github.com/galafis/hr-policy-llm-rag-assistant)
-
-**Assistente de Consulta a Políticas de RH**
-
-**EN:** RAG-powered assistant for HR policy Q&A using LLMs with retrieval-augmented generation over corporate policy documents.
-
-**PT:** Assistente para perguntas e respostas sobre políticas de RH, com modelos de linguagem e geração apoiada na recuperação de informações (RAG) em documentos de políticas corporativas.
-
-`Python` `LangChain` `LLMs` `RAG` `FastAPI`
-
-</td>
-</tr>
-</table>
-
-> **EN:** **450+ repositories** spanning Data Science, ML/AI, Data Engineering, Quantitative Finance, HealthTech, HR Tech, and more. [Explore all repositories →](https://github.com/galafis?tab=repositories)
->
-> **PT:** **Mais de 450 repositórios** em Ciência de Dados, Aprendizado de Máquina e IA, Engenharia de Dados, Finanças Quantitativas, Tecnologia em Saúde, Tecnologia para RH e outras áreas. [Explorar todos os repositórios →](https://github.com/galafis?tab=repositories)
 
 ---
 
