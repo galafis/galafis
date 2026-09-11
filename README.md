@@ -39,9 +39,9 @@ Every section is available in both languages. · Todas as seções estão dispon
 <!-- polyglot-portfolio:start -->
 ### Explore by language · Explore por linguagem
 
-**EN:** Among the 25 reviewed projects below, 14 include functional Python implementations. Six robotics and public companion repositories now provide installable offline packages, with independent calculations, worked examples and comparisons against the browser results. SQL and C++ components add reproducible queries and numerical checks; a repository can contain more than one language.
+**EN:** Among the 28 reviewed projects below, 17 include functional Python implementations. Nine robotics and public companion repositories provide installable offline packages; three now connect complete community demonstrations to public engines, with independent calculations, worked examples and comparisons against the browser results. SQL and C++ components add reproducible queries and numerical checks; a repository can contain more than one language.
 
-**PT:** Entre os 25 projetos revisados abaixo, 14 incluem implementações funcionais em Python. Seis repositórios de robótica e complementos públicos oferecem pacotes offline instaláveis, com cálculos independentes, exemplos explicados e comparação com os resultados do navegador. Componentes SQL e C++ acrescentam consultas reproduzíveis e verificações numéricas; um repositório pode conter mais de uma linguagem.
+**PT:** Entre os 28 projetos revisados abaixo, 17 incluem implementações funcionais em Python. Nove repositórios de robótica e complementos públicos oferecem pacotes offline instaláveis; três conectam demonstrações comunitárias completas a motores públicos, com cálculos independentes, exemplos explicados e comparação com os resultados do navegador. Componentes SQL e C++ acrescentam consultas reproduzíveis e verificações numéricas; um repositório pode conter mais de uma linguagem.
 
 | Language · Linguagem | Implemented work · Trabalho implementado | Start here · Comece aqui |
 |---|---|---|
@@ -93,11 +93,32 @@ Every section is available in both languages. · Todas as seções estão dispon
 
 ## Robotics, Accessibility & Education · Robótica, Acessibilidade e Educação
 
-**EN:** Fifteen independent working software prototypes, primarily focused on a **Unitree Go2 PRO research program**, with public companion studies for Évia. Each repository has executable behavior, reproducible examples, English/Portuguese interfaces and documentation, and a Mermaid domain diagram. Physical integration is a separate development stage.
+**EN:** Eighteen working software prototypes and connected applications, primarily focused on a **Unitree Go2 PRO research program**, with public companion studies for Évia. Each repository has executable behavior, reproducible examples, English/Portuguese interfaces and documentation, and a Mermaid domain diagram. Physical integration is a separate development stage.
 
-**PT:** Quinze protótipos funcionais independentes de software, com foco principal em um **programa de pesquisa com o Unitree Go2 PRO** e estudos públicos complementares à Évia. Cada repositório possui comportamento executável, exemplos reproduzíveis, interfaces e documentação em inglês e português e diagrama Mermaid do domínio. A integração física é uma etapa própria de desenvolvimento.
+**PT:** Dezoito protótipos funcionais de software e aplicações conectadas, com foco principal em um **programa de pesquisa com o Unitree Go2 PRO** e estudos públicos complementares à Évia. Cada repositório possui comportamento executável, exemplos reproduzíveis, interfaces e documentação em inglês e português e diagrama Mermaid do domínio. A integração física é uma etapa própria de desenvolvimento.
 
-[Go2 PRO workbenches · Bancadas](#go2-workbenches) · [Accessibility and training · Acessibilidade e treinamento](#training-prototypes) · [Évia companion studies · Estudos complementares](#evia-companions)
+[Community applications · Aplicações comunitárias](#community-applications) · [Go2 PRO workbenches · Bancadas](#go2-workbenches) · [Accessibility and training · Acessibilidade e treinamento](#training-prototypes) · [Évia companion studies · Estudos complementares](#evia-companions)
+
+<!-- community-applications:start -->
+<a id="community-applications"></a>
+
+### Community applications · Aplicações comunitárias
+
+**EN:** Three Python applications turn the research components into complete, demonstrable experiences: assess a venue, rehearse a mission, and prepare an optional encounter. Each includes a local interactive workbench, a hosted example explorer, bilingual printable reports and reproducible evidence bundles.
+
+**PT:** Três aplicações Python transformam os componentes de pesquisa em experiências completas e demonstráveis: avaliar um espaço, ensaiar uma missão e preparar um encontro opcional. Cada uma inclui bancada interativa local, explorador de exemplos publicado, relatórios bilíngues imprimíveis e pacotes reproduzíveis de evidências.
+
+| Application · Aplicação | A concrete demonstration · Uma demonstração concreta | Explore · Explorar |
+| --- | --- | --- |
+| **[Venue Access Atlas · Atlas de Acesso](https://github.com/galafis/go2-pro-accessible-venue-audit)**<br>Python · Go2 PRO study / Estudo | **EN:** Find why a library route is unavailable; compare proposed changes that recover access in the fictional graph.<br><br>**PT:** Descubra por que um percurso na biblioteca está indisponível; compare mudanças propostas que recuperam o acesso no grafo fictício. | [Demo · Demonstração](https://galafis.github.io/go2-pro-accessible-venue-audit/)<br>[Walkthrough · Guia](https://github.com/galafis/go2-pro-accessible-venue-audit/blob/main/docs/DEMO.md) |
+| **[Community Mission Lab · Laboratório de Missões](https://github.com/galafis/go2-pro-community-mission-lab)**<br>Python · Go2 PRO study / Estudo | **EN:** Follow coverage, observations, communication and energy in one exercise; expose the difference between a completed route and a complete report.<br><br>**PT:** Acompanhe cobertura, observações, comunicação e energia em um exercício; identifique a diferença entre percurso concluído e relato completo. | [Demo · Demonstração](https://galafis.github.io/go2-pro-community-mission-lab/)<br>[Walkthrough · Guia](https://github.com/galafis/go2-pro-community-mission-lab/blob/main/docs/DEMO.md) |
+| **[Évia · My Encounter / Meu Encontro](https://github.com/galafis/evia-inclusive-encounter-kit)**<br>Python · Public companion / Complemento público | **EN:** Preview invitation cards, choose how to participate, pause or decline, and export a minimal public journal without a participation score.<br><br>**PT:** Conheça cartões de convite, escolha como participar, pause ou recuse e exporte um diário público mínimo sem pontuação de participação. | [Demo · Demonstração](https://galafis.github.io/evia-inclusive-encounter-kit/)<br>[Walkthrough · Guia](https://github.com/galafis/evia-inclusive-encounter-kit/blob/main/docs/DEMO.md) |
+
+**EN:** These are functional software MVPs using synthetic scenarios. Physical operation and social outcomes remain to be studied; the private Évia implementation is outside the public projects.
+
+**PT:** São MVPs funcionais de software com cenários sintéticos. Operação física e resultados sociais ainda precisam ser estudados; a implementação privada da Évia fica fora dos projetos públicos.
+
+<!-- community-applications:end -->
 
 <a id="go2-workbenches"></a>
 
@@ -143,9 +164,9 @@ Every section is available in both languages. · Todas as seções estão dispon
 | **[Évia Cue Composer](https://github.com/galafis/evia-cue-composer)** | **EN:** Compose predictable signals with explicit access preferences.<br><br>**PT:** Componha sinais previsíveis com preferências explícitas de acessibilidade. | [Demo · Demonstração](https://galafis.github.io/evia-cue-composer/)<br>[Experiments · Experimentos](https://github.com/galafis/evia-cue-composer/blob/main/docs/EXPERIMENTS.md) |
 | **[Évia Local Event Journal](https://github.com/galafis/evia-local-event-journal)** | **EN:** Keep useful research events without collecting personal narratives.<br><br>**PT:** Registre eventos úteis de pesquisa sem coletar relatos pessoais. | [Demo · Demonstração](https://galafis.github.io/evia-local-event-journal/)<br>[Experiments · Experimentos](https://github.com/galafis/evia-local-event-journal/blob/main/docs/EXPERIMENTS.md)<br>[Python · EN/PT](https://github.com/galafis/evia-local-event-journal/blob/main/docs/PYTHON.md) |
 
-**EN:** **422 browser tests + 144 Python tests**, plus independent C++ numerical checks across these 15 repositories · Browser demonstrations · Versioned examples · MIT-licensed source.
+**EN:** **422 browser tests + 240 Python tests**, plus independent C++ numerical checks across these 18 repositories · Browser demonstrations · Versioned examples · MIT-licensed source.
 
-**PT:** **422 testes do navegador + 144 testes Python**, além de verificações numéricas independentes em C++ nestes 15 repositórios · Demonstrações no navegador · Exemplos versionados · Código-fonte sob licença MIT.
+**PT:** **422 testes do navegador + 240 testes Python**, além de verificações numéricas independentes em C++ nestes 18 repositórios · Demonstrações no navegador · Exemplos versionados · Código-fonte sob licença MIT.
 
 Independent research and development · Pesquisa e desenvolvimento independentes  
 [gabrieldemetrioslafis@usp.br](mailto:gabrieldemetrioslafis@usp.br)
