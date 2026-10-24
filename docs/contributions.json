@@ -1,0 +1,1143 @@
+{
+  "pull_request_count": 53,
+  "project_count": 32,
+  "new_in_expanded_batch": 46,
+  "earlier_contributions": 7,
+  "draft_count": 2,
+  "contributions": [
+    {
+      "project": "koaning/scikit-lego",
+      "pull_request": "https://github.com/koaning/scikit-lego/pull/846",
+      "title": "Fix log_step shape deltas for keyword dataframe arguments",
+      "head_commit": "fa9aef4e22111cee74d3873776c3e8224941410b",
+      "state": "open",
+      "draft": false,
+      "merged": false,
+      "sector": "data-ml",
+      "changed_files": [],
+      "validation": "40 pandas utility tests; Ruff 0.15.11 check sklego tests; changed source format; executable documentation snippet"
+    },
+    {
+      "project": "pa11y/pa11y-ci",
+      "pull_request": "https://github.com/pa11y/pa11y-ci/pull/377",
+      "title": "Show actionable CLI output with a reproducible sample page",
+      "head_commit": "940b7d2032d4b8ad265d0c15722876034773a00b",
+      "state": "open",
+      "draft": false,
+      "merged": false,
+      "sector": "software-access",
+      "changed_files": [],
+      "validation": "Actual browser runs: missing language exit 2, corrected language exit 0; 59 unit tests; lint zero errors with one existing warning"
+    },
+    {
+      "project": "dask/dask",
+      "pull_request": "https://github.com/dask/dask/pull/12673",
+      "title": "[unsupervised AI] Avoid observed warnings in categorical variance aggregation",
+      "head_commit": "6dd6d7ba47d258de61cdecd3700457ddd111e397",
+      "state": "open",
+      "draft": true,
+      "merged": false,
+      "sector": "data-ml",
+      "changed_files": [],
+      "validation": "Four tests failed before fix; 245 groupby tests pass on pandas 2.2.3, 12 focused tests pass on pandas 3.1.0; pinned Ruff and Black passed."
+    },
+    {
+      "project": "dask/dask",
+      "pull_request": "https://github.com/dask/dask/pull/12674",
+      "title": "[unsupervised AI] Preserve falsy column names in variance aggregation",
+      "head_commit": "0a829f2df1bfdc29fb9c632e32b797b5c2de98e5",
+      "state": "open",
+      "draft": true,
+      "merged": false,
+      "sector": "data-ml",
+      "changed_files": [],
+      "validation": "8 failures and 4 passing controls before fix; all 253 groupby tests pass on pandas 2.2.3. On pandas 3.1.0: 249 pass, 2 skip, 2 existing tuple-selection warnings fail, reproduced without this patch. New 12 cases all pass. Pinned Ruff and Black passed."
+    },
+    {
+      "project": "scikit-learn-contrib/imbalanced-learn",
+      "pull_request": "https://github.com/scikit-learn-contrib/imbalanced-learn/pull/1239",
+      "title": "[MRG] Validate per-class RandomOverSampler shrinkage factors",
+      "head_commit": "34f310ca69c4aab01c4f42d7b1c40a039076f4c5",
+      "state": "open",
+      "draft": false,
+      "merged": false,
+      "sector": "data-ml",
+      "changed_files": [],
+      "validation": "10 regression failures before fix; 117 oversampling tests pass in each environment: scikit-learn 1.4.2 and 1.9.1. Ruff 0.4.8 and Black 23.3.0 pass."
+    },
+    {
+      "project": "pydata/xarray",
+      "pull_request": "https://github.com/pydata/xarray/pull/11802",
+      "title": "Fix Windows Zarr directory detection in open_dataset",
+      "head_commit": "c8495566c7a4067dd6a692af8aa281970f393311",
+      "state": "open",
+      "draft": false,
+      "merged": false,
+      "sector": "data-ml",
+      "changed_files": [],
+      "validation": "6 failures and 6 passing controls before fix; 101 utils/plugin tests passed, 1 skipped (h5netcdf unavailable). 12 additional selected Zarr tests passed, 374 dependency/environment skips. After final type annotations, all 12 focused checks pass. Ruff 0.16.10 lint, format and docstring-preview checks and git diff --check passed."
+    },
+    {
+      "project": "pytoolz/toolz",
+      "pull_request": "https://github.com/pytoolz/toolz/pull/655",
+      "title": "Make sliding_window startup linear in the window size",
+      "head_commit": "36314982a66463486899b76f9c7183c8c4ec5526",
+      "state": "open",
+      "draft": false,
+      "merged": false,
+      "sector": "data-ml",
+      "changed_files": [],
+      "validation": "272 tests/doctests passed and 2 skipped on each of CPython 3.9.25 and 3.12.14; both sliding-window benchmark tests pass on both versions. Source passes CI pycodestyle rule set; changed lines pass pycodestyle; git diff --check passes."
+    },
+    {
+      "project": "PyPortfolio/PyPortfolioOpt",
+      "pull_request": "https://github.com/PyPortfolio/PyPortfolioOpt/pull/772",
+      "title": "Preserve caller benchmark columns in CAPM return estimates",
+      "head_commit": "dc50cc0a6a67e0dfc868be80b9620e110dbed8e6",
+      "state": "open",
+      "draft": false,
+      "merged": false,
+      "sector": "finance",
+      "changed_files": [
+        "pypfopt/expected_returns.py",
+        "tests/test_expected_returns.py"
+      ],
+      "validation": {
+        "before": "2 new cases fail on caller DataFrame column mutation",
+        "after": "21 passed in complete tests/test_expected_returns.py",
+        "black": "2 files unchanged",
+        "diff_check": "passed",
+        "limitations": "Full optimization suite not rerun; no model formula change"
+      }
+    },
+    {
+      "project": "nipy/nibabel",
+      "pull_request": "https://github.com/nipy/nibabel/pull/1586",
+      "title": "BF: Avoid integer overflow when computing voxel sizes",
+      "head_commit": "fc8fdc0255e0eacb402a895980c5bf8d321a12fd",
+      "state": "open",
+      "draft": false,
+      "merged": false,
+      "sector": "science-health",
+      "changed_files": [
+        "nibabel/affines.py",
+        "nibabel/tests/test_affines.py"
+      ],
+      "validation": {
+        "python": "3.12.14",
+        "numpy": "2.5.4",
+        "scipy": "1.18.1",
+        "pytest": "9.1.1",
+        "before": "5 failed, 9 passed on base (four signed integer cases and array-like regression)",
+        "after": "32 passed across affines, processing and orientations (15 affines tests, including uint8)",
+        "lint": "ruff check, ruff format --check and git diff --check passed",
+        "full_suite": "Stopped after progress remained at 34% for several minutes; no completed summary, no full-suite claim"
+      }
+    },
+    {
+      "project": "CamDavidsonPilon/lifelines",
+      "pull_request": "https://github.com/CamDavidsonPilon/lifelines/pull/1708",
+      "title": "Correct the censored subject in the survival-table example",
+      "head_commit": "80399b33c774ae9e90434c5d97fe682b7dd06000",
+      "state": "open",
+      "draft": false,
+      "merged": false,
+      "sector": "science-health",
+      "changed_files": [
+        "docs/Time varying survival regression.rst"
+      ],
+      "validation": {
+        "before": "extracted first code block executes; assertion for censored subject 2 fails with True",
+        "after": "same check passes with False",
+        "python": "3.12.14",
+        "pandas": "2.3.3",
+        "lifelines": "0.30.3",
+        "limitations": "No Sphinx build or full suite; a single literal change in documentation"
+      }
+    },
+    {
+      "project": "CamDavidsonPilon/lifelines",
+      "pull_request": "https://github.com/CamDavidsonPilon/lifelines/pull/1710",
+      "title": "Shuffle cross-validation rows by position to support duplicate indices",
+      "head_commit": "b1f582175346139383c59949fd1ee813847359bd",
+      "state": "open",
+      "draft": false,
+      "merged": false,
+      "sector": "science-health",
+      "changed_files": [
+        "lifelines/utils/__init__.py",
+        "lifelines/tests/utils/test_utils.py"
+      ],
+      "validation": {
+        "before": "3 regressions failed; duplicate and multiindex raise ValueError, constant index produces different CV scores",
+        "after": "92 passed in lifelines/tests/utils/test_utils.py, two approximation warnings",
+        "versions": {
+          "python": "3.12.14",
+          "numpy": "2.5.4",
+          "pandas": "2.3.3",
+          "lifelines": "0.30.3"
+        },
+        "full_suite": "Not run; complete utility module exercised",
+        "format": "Black 22.8.0, line length 130, reports unchanged baseline formatting differences in both candidate and git-show HEAD controls; no changed-line formatting findings. git diff --check passes."
+      }
+    },
+    {
+      "project": "CamDavidsonPilon/lifelines",
+      "pull_request": "https://github.com/CamDavidsonPilon/lifelines/pull/1711",
+      "title": "Use observation ranks in the complete-separation correlation check",
+      "head_commit": "2a2cb920d58f156e79904dbe3de8044eb71a14b5",
+      "state": "open",
+      "draft": false,
+      "merged": false,
+      "sector": "science-health",
+      "changed_files": [
+        "lifelines/utils/__init__.py",
+        "lifelines/tests/utils/test_utils.py"
+      ],
+      "validation": {
+        "before": "4 failed negative-correlation regressions; 4 passed positive-correlation controls",
+        "after": "97 passed in lifelines/tests/utils/test_utils.py; two approximation warnings",
+        "versions": {
+          "python": "3.12.14",
+          "numpy": "2.5.4",
+          "pandas": "2.3.3",
+          "scipy": "1.18.1"
+        },
+        "format": "git diff --check clean; Black 22.8.0 diff confined to unchanged baseline sections",
+        "limitations": "Full model suite not run"
+      }
+    },
+    {
+      "project": "CamDavidsonPilon/lifelines",
+      "pull_request": "https://github.com/CamDavidsonPilon/lifelines/pull/1712",
+      "title": "Evaluate the default observation cutoff when converting durations",
+      "head_commit": "d3d2c62f4ef97a9500b5af7ee22dbfc64498ec9b",
+      "state": "open",
+      "draft": false,
+      "merged": false,
+      "sector": "science-health",
+      "changed_files": [
+        "lifelines/utils/__init__.py",
+        "lifelines/tests/utils/test_utils.py"
+      ],
+      "validation": {
+        "before": "Default-clock regression fails: duration based on import-time date rather than substituted call-time clock",
+        "after": "90 passed in lifelines/tests/utils/test_utils.py; two approximation warnings",
+        "versions": {
+          "python": "3.12.14",
+          "numpy": "2.5.4",
+          "pandas": "2.3.3"
+        },
+        "format": "git diff --check clean; Black22.8.0 diff only unchanged baseline",
+        "limitations": "Full model suite not run"
+      }
+    },
+    {
+      "project": "CamDavidsonPilon/lifelines",
+      "pull_request": "https://github.com/CamDavidsonPilon/lifelines/pull/1713",
+      "title": "Keep single-row survival DataFrames as Series for quantile lookup",
+      "head_commit": "9556d0567c1c344cd66d737a5d8537073591a721",
+      "state": "open",
+      "draft": false,
+      "merged": false,
+      "sector": "science-health",
+      "changed_files": [
+        "lifelines/utils/__init__.py",
+        "lifelines/tests/utils/test_utils.py"
+      ],
+      "validation": {
+        "before": "4 new single-row DataFrame cases fail with ValueError while equivalent Series inputs work",
+        "after": "93 passed in lifelines/tests/utils/test_utils.py; two approximation warnings",
+        "versions": {
+          "python": "3.12.14",
+          "numpy": "2.5.4",
+          "pandas": "2.3.3"
+        },
+        "format": "git diff --check clean; Black 22.8.0 differences are unrelated baseline",
+        "limitations": "Full model suite not run"
+      }
+    },
+    {
+      "project": "bashtage/arch",
+      "pull_request": "https://github.com/bashtage/arch/pull/975",
+      "title": "BUG: Preserve small upper-tail Wald p-values",
+      "head_commit": "806d630ed84039354cecec9f6f1470c71e67c0fe",
+      "state": "closed",
+      "draft": false,
+      "merged": true,
+      "sector": "finance",
+      "changed_files": [
+        "arch/utility/testing.py",
+        "arch/tests/utility/test_validation_utility.py"
+      ],
+      "validation": {
+        "before": "4 new cases fail; stat50 loses3.8e-6 relative precision, stats100/500/1000 round to0",
+        "after": "1227 utility tests passed",
+        "limitations": "Full econometric-model suite not run",
+        "ruff": "lint and format passed for both files"
+      }
+    },
+    {
+      "project": "bashtage/arch",
+      "pull_request": "https://github.com/bashtage/arch/pull/976",
+      "title": "BUG: Preserve NumPy complex scalars in object data",
+      "head_commit": "720909801729a74cfcb61faf96494761d575c124",
+      "state": "open",
+      "draft": false,
+      "merged": false,
+      "sector": "finance",
+      "changed_files": [
+        "arch/utility/array.py",
+        "arch/tests/utility/test_dtype_policy.py"
+      ],
+      "validation": {
+        "before": "NumPy-complex allowed case loses imaginary component; disallowed case does not raise",
+        "after": "485 dtype-policy tests passed; 24 cases span four helpers and ndarray/Series/DataFrame",
+        "ruff": "Both files pass lint and format",
+        "limitations": "Source tree tested with ignored version metadata from installed arch8.0.0. Full model suite not run."
+      }
+    },
+    {
+      "project": "dcajasn/Riskfolio-Lib",
+      "pull_request": "https://github.com/dcajasn/Riskfolio-Lib/pull/269",
+      "title": "Return zero range for a single observation",
+      "head_commit": "9d9d3d46bf63c0ceb158e8de91c5ad5ddea109ac",
+      "state": "open",
+      "draft": false,
+      "merged": false,
+      "sector": "finance",
+      "changed_files": [
+        "riskfolio/src/OwaWeights.py",
+        "tests/test_owa_range.py"
+      ],
+      "validation": {
+        "before": "3 failed, 3 passed",
+        "after": "6 passed",
+        "limitations": "Full optimization suite not run; compiled extension/version metadata supplied by same-version7.4.0 wheel",
+        "ruff": "test lint and format passed"
+      }
+    },
+    {
+      "project": "dcajasn/Riskfolio-Lib",
+      "pull_request": "https://github.com/dcajasn/Riskfolio-Lib/pull/270",
+      "title": "Avoid exponential overflow in entropic risk calculations",
+      "head_commit": "a481c2891eade026fda27cee68b34bedc632e3d2",
+      "state": "open",
+      "draft": false,
+      "merged": false,
+      "sector": "finance",
+      "changed_files": [
+        "riskfolio/src/RiskFunctions.py",
+        "tests/test_entropic_risk.py"
+      ],
+      "validation": {
+        "before": "6 failed, 2 passed",
+        "after": "8 passed",
+        "diff_check": "passed",
+        "limitations": "Source imports verified. Same-version 7.4.0 wheel supplies ignored compiled extension/version file. Full optimization suite not run; source has existing lint violations."
+      }
+    },
+    {
+      "project": "kernc/backtesting.py",
+      "pull_request": "https://github.com/kernc/backtesting.py/pull/1429",
+      "title": "Report total loss in geometric mean returns",
+      "head_commit": "9a9c603a26b260982a1480bd05628bdfadb773b5",
+      "state": "open",
+      "draft": false,
+      "merged": false,
+      "sector": "finance",
+      "changed_files": [
+        "backtesting/_stats.py",
+        "backtesting/test/_test.py"
+      ],
+      "validation": {
+        "before": "4 helper subcases fail, integration reports annualized 0 rather than -100",
+        "after": "26 TestBacktest tests pass",
+        "flake8": "both changed files passed",
+        "diff_check": "passed",
+        "limitations": "Existing pandas deprecation warnings. Same 10 mypy errors in unchanged _plotting.py on clean baseline.",
+        "full_suite": "84 tests OK, 1 skipped, after installing test extras",
+        "mypy": "same 10 _plotting.py errors as clean baseline; error lines identical"
+      }
+    },
+    {
+      "project": "marshmallow-code/apispec",
+      "pull_request": "https://github.com/marshmallow-code/apispec/pull/1088",
+      "title": "Reject duplicate names for unreferenced lazy components",
+      "head_commit": "9553704dbd3f0b2c85e677721b47613e34b88a28",
+      "state": "open",
+      "draft": false,
+      "merged": false,
+      "sector": "software-access",
+      "changed_files": [
+        "src/apispec/core.py",
+        "tests/test_core.py",
+        "CHANGELOG.rst"
+      ],
+      "validation": "24 regression combinations; 12 fail before fix, all pass after. Full suite 660 passed, 6 skipped. Ruff lint/format pass."
+    },
+    {
+      "project": "marshmallow-code/apispec",
+      "pull_request": "https://github.com/marshmallow-code/apispec/pull/1089",
+      "title": "Keep custom field mappings local to each plugin",
+      "head_commit": "f17c0a82974aa7903c1c8bdf618ca9b4492ec2ce",
+      "state": "open",
+      "draft": false,
+      "merged": false,
+      "sector": "software-access",
+      "changed_files": [
+        "src/apispec/ext/marshmallow/openapi.py",
+        "tests/test_ext_marshmallow.py",
+        "CHANGELOG.rst"
+      ],
+      "validation": "Regression fails before; full suite 637 passed, 6 skipped after. Ruff and diff checks pass."
+    },
+    {
+      "project": "micheles/decorator",
+      "pull_request": "https://github.com/micheles/decorator/pull/195",
+      "title": "Preserve the signature of partials when decorating them",
+      "head_commit": "f33bfa8f18f0e02ee653abbec83243397c8e2f0f",
+      "state": "open",
+      "draft": false,
+      "merged": false,
+      "sector": "software-access",
+      "changed_files": [
+        "src/decorator/__init__.py",
+        "tests/test.py"
+      ],
+      "validation": "New regression fails before fix; 29 tests pass after on Python 3.12.14. git diff --check passes."
+    },
+    {
+      "project": "micheles/decorator",
+      "pull_request": "https://github.com/micheles/decorator/pull/196",
+      "title": "Preserve positional-only parameters in decoratorx",
+      "head_commit": "08b372c9017845c7adcabdf8253096b248c869ad",
+      "state": "open",
+      "draft": false,
+      "merged": false,
+      "sector": "software-access",
+      "changed_files": [
+        "src/decorator/__init__.py",
+        "tests/test.py"
+      ],
+      "validation": "New regression fails before fix; 29 tests pass after on Python 3.12.14. git diff --check passes."
+    },
+    {
+      "project": "neuropsychology/NeuroKit",
+      "pull_request": "https://github.com/neuropsychology/NeuroKit/pull/1227",
+      "title": "[Fix] Apply monotone interpolation fill values at actual data boundaries",
+      "head_commit": "5564aa19e317c7ca6ee6e4871b023aa1a6c59732",
+      "state": "open",
+      "draft": false,
+      "merged": false,
+      "sector": "science-health",
+      "changed_files": [
+        "neurokit2/signal/signal_interpolate.py",
+        "tests/tests_signal.py",
+        "NEWS.rst"
+      ],
+      "validation": {
+        "before": "6 failed boundary-fill cases, 2 passed extrapolation controls; initial focused command also hits whole-package coverage threshold by design",
+        "after": "28 passed: python -m pytest tests/tests_signal.py -q -o addopts=",
+        "lint": "ruff check, ruff format --check and git diff --check passed",
+        "versions": {
+          "python": "3.12.14",
+          "numpy": "2.5.4",
+          "scipy": "1.18.1",
+          "pandas": "2.3.3"
+        },
+        "limitations": "No full package test or total coverage claim"
+      }
+    },
+    {
+      "project": "neuropsychology/NeuroKit",
+      "pull_request": "https://github.com/neuropsychology/NeuroKit/pull/1228",
+      "title": "[Fix] Preserve pandas labels during rolling standardization",
+      "head_commit": "cd066e1c41f3ead81238f68d6eec8d93514c1009",
+      "state": "open",
+      "draft": false,
+      "merged": false,
+      "sector": "science-health",
+      "changed_files": [
+        "neurokit2/stats/standardize.py",
+        "tests/tests_stats.py",
+        "NEWS.rst",
+        "neurokit2/misc/check_type.py"
+      ],
+      "validation": {
+        "before": "6 regressions fail on dev: KeyError 0 for named single columns, lost column/index labels for mixed frames",
+        "after": "17 passed in complete statistics module on each of pandas 2.3.3 and 3.1.0",
+        "lint": "ruff check, ruff format --check and git diff --check pass",
+        "versions": {
+          "python": "3.12.14",
+          "numpy": "2.5.4",
+          "pandas": "2.3.3 and 3.1.0",
+          "scipy": "1.18.1"
+        },
+        "limitations": "No full package run or total coverage claim",
+        "ci_followup": {
+          "pr": "https://github.com/neuropsychology/NeuroKit/pull/1228",
+          "parent_commit": "99abde261d7746e8cc904864aa03625c495853ba",
+          "cause": "pandas 3 infers text columns as StringDtype; is_string only recognized object, so rolling attempted numeric aggregation on text",
+          "before": "3 failed, 7 passed, 7 deselected with explicit object/string regression cases on pandas 3.1.0",
+          "after": {
+            "pandas 3.1.0": "17 passed in 30.42s",
+            "pandas 2.3.3": "17 passed in 24.17s"
+          },
+          "command": "python -m pytest tests/tests_stats.py -q -o addopts= --tb=short",
+          "lint": "ruff 0.17.2 check and format --check on both changed files; git diff --check pass",
+          "files": [
+            "neurokit2/misc/check_type.py",
+            "tests/tests_stats.py"
+          ],
+          "publication_status": "Published after parent review to the existing PR branch; commit cd066e1c41f3ead81238f68d6eec8d93514c1009",
+          "remote_ci": {
+            "head": "cd066e1c41f3ead81238f68d6eec8d93514c1009",
+            "status": "All Python 3.10-3.14 test jobs, lint/format, package build and documentation build succeeded; deploy and package publication jobs skipped",
+            "test_run_url": "https://github.com/neuropsychology/NeuroKit/actions/runs/40119358135"
+          }
+        }
+      }
+    },
+    {
+      "project": "nipy/nibabel",
+      "pull_request": "https://github.com/nipy/nibabel/pull/1588",
+      "title": "BF: Exclude complex infinities from finite_range",
+      "head_commit": "a9bf7b8bdbfe27a3bfd2131d581341870ef2685b",
+      "state": "open",
+      "draft": false,
+      "merged": false,
+      "sector": "science-health",
+      "changed_files": [
+        "nibabel/volumeutils.py",
+        "nibabel/tests/test_scaling.py"
+      ],
+      "validation": {
+        "before": "4 failed regressions, 21 passed finite-range controls",
+        "after": "106 passed across test_scaling.py, test_arraywriters.py and test_volumeutils.py; 68 numeric cast/overflow warnings",
+        "lint": "ruff check, ruff format --check and git diff --check passed",
+        "versions": {
+          "python": "3.12.14",
+          "numpy": "2.5.4"
+        },
+        "limitations": "Full package suite not run"
+      }
+    },
+    {
+      "project": "jazzband/tablib",
+      "pull_request": "https://github.com/jazzband/tablib/pull/710",
+      "title": "Clear stale column configuration when wiping a Dataset",
+      "head_commit": "7118e7005cc669aa55be870fb7e3fac043af8d8a",
+      "state": "open",
+      "draft": false,
+      "merged": false,
+      "sector": "software-access",
+      "changed_files": [
+        "src/tablib/core.py",
+        "tests/test_tablib.py"
+      ],
+      "validation": "Regression raises IndexError before fix. Full suite 184 passed after; Ruff and git diff --check pass."
+    },
+    {
+      "project": "alkaline-ml/pmdarima",
+      "pull_request": "https://github.com/alkaline-ml/pmdarima/pull/625",
+      "title": "[MRG] Preserve Box-Cox precision for lambda near zero",
+      "head_commit": "8052b36f271bf8f7ecc097da436867d1dd06ddca",
+      "state": "open",
+      "draft": false,
+      "merged": false,
+      "sector": "finance",
+      "changed_files": [
+        "pmdarima/preprocessing/endog/boxcox.py",
+        "pmdarima/preprocessing/endog/tests/test_boxcox.py"
+      ],
+      "validation": {
+        "before": "16 failed, 8 passed new numerical cases",
+        "after": "52 preprocessing tests passed, 2 existing pandas weekday deprecation warnings",
+        "limitations": "Four compiled extensions supplied by installed2.1.1 wheel; source Python modules tested. Full ARIMA suite not run.",
+        "flake8": "both changed files passed"
+      }
+    },
+    {
+      "project": "alkaline-ml/pmdarima",
+      "pull_request": "https://github.com/alkaline-ml/pmdarima/pull/626",
+      "title": "[MRG] Keep perfect zero-valued forecasts finite in SMAPE",
+      "head_commit": "857f394452d580ef30260b9b0ce35bdac2c2e4d5",
+      "state": "open",
+      "draft": false,
+      "merged": false,
+      "sector": "finance",
+      "changed_files": [
+        "pmdarima/metrics.py",
+        "pmdarima/tests/test_metrics.py"
+      ],
+      "validation": {
+        "before": "3 failed, 3 passed",
+        "after": "6 metrics tests passed",
+        "limitations": "Full ARIMA/model-selection suite not run; installed2.1.1 wheel supplies compiled extensions"
+      }
+    },
+    {
+      "project": "getsentry/responses",
+      "pull_request": "https://github.com/getsentry/responses/pull/842",
+      "title": "Distinguish JSON booleans from numbers in request matching",
+      "head_commit": "943b9e983d804c6b38eb82039462f31d8e175739",
+      "state": "open",
+      "draft": false,
+      "merged": false,
+      "sector": "software-access",
+      "changed_files": [
+        "responses/matchers.py",
+        "responses/tests/test_matchers.py",
+        "CHANGES"
+      ],
+      "validation": "12 regression failures before; 5 controls pass. After: 81 matcher tests and full suite 278 tests pass; 18 existing deprecation warnings. Black, Flake8 and diff checks pass. Same 3 baseline mypy errors reproduced unchanged."
+    },
+    {
+      "project": "pydicom/pydicom",
+      "pull_request": "https://github.com/pydicom/pydicom/pull/2409",
+      "title": "Serialize buffered binary element values to JSON",
+      "head_commit": "de6b1315a388b977d0f9ffd459bd7e7a05c34fb6",
+      "state": "open",
+      "draft": false,
+      "merged": false,
+      "sector": "science-health",
+      "changed_files": [
+        "src/pydicom/dataelem.py",
+        "tests/test_json.py",
+        "doc/release_notes/v3.1.0.rst"
+      ],
+      "validation": {
+        "before": "3 new buffered JSON regressions fail with TypeError",
+        "after": "640 passed, 5 skipped across test_json, test_dataelem, test_filewriter, test_fileutil; 3 existing validation warnings",
+        "lint": "Pinned Ruff0.15.12 check/format and git diff --check pass",
+        "typing": "Mypy1.20.2 Python3.12 changed-file check with --follow-imports=silent passes; followed imports report six errors in unchanged pixels/utils.py",
+        "versions": {
+          "python": "3.12.14",
+          "numpy": "2.5.4",
+          "pydicom": "3.1.0.dev0"
+        },
+        "limitations": "No full package suite, global type pass or documentation build claim"
+      }
+    },
+    {
+      "project": "neuropsychology/NeuroKit",
+      "pull_request": "https://github.com/neuropsychology/NeuroKit/pull/1229",
+      "title": "[Fix] Scale robust standardization by each column MAD",
+      "head_commit": "f3b705a84e47516f3bec66cf6e3e47e5594b6fbd",
+      "state": "open",
+      "draft": false,
+      "merged": false,
+      "sector": "science-health",
+      "changed_files": [
+        "neurokit2/stats/standardize.py",
+        "tests/tests_stats.py",
+        "NEWS.rst"
+      ],
+      "validation": {
+        "before": "2 regressions fail with incorrect column scaling for ndarray and DataFrame inputs",
+        "after": "9 passed in tests/tests_stats.py with -o addopts=",
+        "lint": "ruff check, ruff format --check and git diff --check pass",
+        "versions": {
+          "python": "3.12.14",
+          "numpy": "2.5.4",
+          "pandas": "2.3.3"
+        },
+        "limitations": "No full package suite or total coverage claim"
+      }
+    },
+    {
+      "project": "Pylons/webob",
+      "pull_request": "https://github.com/Pylons/webob/pull/504",
+      "title": "Make MultiDict.setdefault return the current value of duplicate keys",
+      "head_commit": "e4174c7560aff635c0ab97f74267ed0cd869da9d",
+      "state": "open",
+      "draft": false,
+      "merged": false,
+      "sector": "software-access",
+      "changed_files": [
+        "src/webob/multidict.py",
+        "tests/test_multidict.py"
+      ],
+      "validation": "Before: 2 regression failures, 2 passing controls. After: full suite 2395 passed, 3 skipped, 1 xfailed, 14 warnings. Black/diff checks pass."
+    },
+    {
+      "project": "rlabbe/filterpy",
+      "pull_request": "https://github.com/rlabbe/filterpy/pull/334",
+      "title": "Accept array-like means in SimplexSigmaPoints",
+      "head_commit": "5dcb359f5f481e61da1d71cc58cd5e80504a73a0",
+      "state": "open",
+      "draft": false,
+      "merged": false,
+      "sector": "signals",
+      "changed_files": [
+        "filterpy/kalman/sigma_points.py",
+        "filterpy/kalman/tests/test_simplex_arraylike.py"
+      ],
+      "validation": {
+        "before": "4 failed, 3 passed",
+        "after": "11 passed, 12 deselected in new tests plus existing UKF sigma-point subset",
+        "limitations": "Full plotting/filter suite not run; existing SciPy deprecation warnings"
+      }
+    },
+    {
+      "project": "rlabbe/filterpy",
+      "pull_request": "https://github.com/rlabbe/filterpy/pull/335",
+      "title": "Fix standalone RTS smoothing with varying transition and noise matrices",
+      "head_commit": "8b20d7a0022a283c4a48aad78937e040cf9edfcf",
+      "state": "open",
+      "draft": false,
+      "merged": false,
+      "sector": "signals",
+      "changed_files": [
+        "filterpy/kalman/kalman_filter.py",
+        "filterpy/kalman/tests/test_rts_varying_parameters.py"
+      ],
+      "validation": {
+        "before": "6 failed, 2 passed",
+        "after": "20 passed, 2 existing failures across regression and test_kf.py",
+        "baseline_existing": "test_noisy_1d and test_steadystate fail identically on base in mahalanobis float(array)",
+        "versions": {
+          "python": "3.12.14",
+          "numpy": "2.5.4",
+          "scipy": "1.18.1",
+          "pytest": "9.1.1"
+        },
+        "checks": "flake8 new test and git diff --check pass",
+        "limitations": "Full filter/plotting suite not run. Two existing scipy.ndimage deprecation warnings.",
+        "encoding": "Remote diff verified after restoring original UTF-8 docstring; only planned RTS changes remain."
+      }
+    },
+    {
+      "project": "pyserial/pyserial",
+      "pull_request": "https://github.com/pyserial/pyserial/pull/886",
+      "title": "Honor the total read timeout in the loopback handler",
+      "head_commit": "47fc2e7586137ecfacc5588bde6d8197cc824218",
+      "state": "open",
+      "draft": false,
+      "merged": false,
+      "sector": "software-access",
+      "changed_files": [
+        "serial/urlhandler/protocol_loop.py",
+        "test/test_loop_timeout.py"
+      ],
+      "validation": "Before: 1 regression failure, 5 controls passed. After: 111 passed, 10 skipped; Python 3.12.14/Windows, pytest 9.1.1, pyfakefs 6.2.0. Hardware not tested."
+    },
+    {
+      "project": "websocket-client/websocket-client",
+      "pull_request": "https://github.com/websocket-client/websocket-client/pull/1082",
+      "title": "Accept case-insensitive WebSocket URL schemes",
+      "head_commit": "b55585106f1fca8e36d084dd1eea2f5dc02c3dac",
+      "state": "open",
+      "draft": false,
+      "merged": false,
+      "sector": "software-access",
+      "changed_files": [
+        "websocket/_url.py",
+        "websocket/tests/test_url.py"
+      ],
+      "validation": "Before focused URL suite: 4 new scheme subtest failures plus existing Windows CGI failure, 15 passed and 19 subtests passed. After full suite: 270 passed, 26 skipped, 146 subtests passed, same single CGI failure. Python3.12.14/pytest9.1.1. No internet-enabled tests."
+    },
+    {
+      "project": "GrahamDumpleton/wrapt",
+      "pull_request": "https://github.com/GrahamDumpleton/wrapt/pull/363",
+      "title": "Preserve variadic annotations in formatargspec",
+      "head_commit": "33b779df4c0bee145a506e0bc3edaa991e8c2c7b",
+      "state": "open",
+      "draft": false,
+      "merged": false,
+      "sector": "software-access",
+      "changed_files": [
+        "src/wrapt/arguments.py",
+        "tests/core/test_formatargspec.py"
+      ],
+      "validation": "Before: 3 failed, 2 passed in focused test_formatargspec. After: 1376 passed, 8 skipped, 43 subtests passed in core suite, pure Python only; explicit WRAPT_DISABLE_EXTENSIONS=true same result. Python3.12.14, pytest9.1.1, Black26.10.1 pass. Complete Justfile/C/mypy matrices not run."
+    },
+    {
+      "project": "pydicom/pydicom",
+      "pull_request": "https://github.com/pydicom/pydicom/pull/2410",
+      "title": "Restore buffer positions when context operations raise",
+      "head_commit": "76f4a335f0dc6a9c24ef76b46ec3394651f6bd51",
+      "state": "open",
+      "draft": false,
+      "merged": false,
+      "sector": "science-health",
+      "changed_files": [
+        "src/pydicom/fileutil.py",
+        "tests/test_fileutil.py",
+        "doc/release_notes/v3.1.0.rst"
+      ],
+      "validation": {
+        "before": "2 regression failures: buffer remains at57 instead of original13 after RuntimeError and KeyboardInterrupt",
+        "after": "602 passed, 5 skipped across test_fileutil, test_dataelem, test_filewriter; two existing validation warnings",
+        "lint": "Pinned Ruff0.15.12 lint/format and git diff --check pass",
+        "versions": {
+          "python": "3.12.14",
+          "numpy": "2.5.4",
+          "pydicom": "3.1.0.dev0"
+        },
+        "limitations": "No full package or docs build claim"
+      }
+    },
+    {
+      "project": "imageio/imageio",
+      "pull_request": "https://github.com/imageio/imageio/pull/1250",
+      "title": "BUG: Match planar DICOM pixel byte order to the transfer syntax",
+      "head_commit": "0b430681f18b42b15d3b21e8647ce392e4de37da",
+      "state": "open",
+      "draft": false,
+      "merged": false,
+      "sector": "science-health",
+      "changed_files": [
+        "imageio/plugins/pydicom.py",
+        "tests/test_pydicom.py"
+      ],
+      "validation": {
+        "before": "2 regression failures, 2 matching-byte-order controls pass",
+        "after": "23 passed, 10 skipped: pytest tests/test_pydicom.py -q -m not needs_internet",
+        "format": "Black26.10.1 --check, flake8 7.4.1, ruff format --check and git diff --check pass",
+        "versions": {
+          "python": "3.12.14",
+          "numpy": "2.5.4",
+          "pydicom": "3.0.2",
+          "imageio": "2.38.1"
+        },
+        "limitations": "Remote test fixtures excluded; no full package test claim"
+      }
+    },
+    {
+      "project": "mhe/pynrrd",
+      "pull_request": "https://github.com/mhe/pynrrd/pull/174",
+      "title": "Reject truncated compressed NRRD payloads",
+      "head_commit": "2fe3cda2b9023b8f418190969c5f952e7ee0ea9a",
+      "state": "open",
+      "draft": false,
+      "merged": false,
+      "sector": "science-health",
+      "changed_files": [
+        "nrrd/reader.py",
+        "nrrd/tests/test_reading.py"
+      ],
+      "validation": {
+        "before": "Two truncated trailer cases are incorrectly accepted; two complete-stream controls pass",
+        "after": "Full unittest discover nrrd/tests: 161 tests, OK",
+        "lint": "flake8 --config=setup.cfg and git diff --check pass",
+        "versions": {
+          "python": "3.12.14",
+          "numpy": "2.5.4",
+          "pynrrd": "1.1.3"
+        },
+        "warnings": "Existing datetime.utcnow deprecation in unchanged writer.py; already covered by open PR171"
+      }
+    },
+    {
+      "project": "mhe/pynrrd",
+      "pull_request": "https://github.com/mhe/pynrrd/pull/175",
+      "title": "Apply positive byte skips after decompression",
+      "head_commit": "2e322ef16cc6403efa7e7592c92eeb172b1e4b85",
+      "state": "open",
+      "draft": false,
+      "merged": false,
+      "sector": "science-health",
+      "changed_files": [
+        "nrrd/reader.py",
+        "nrrd/tests/test_reading.py"
+      ],
+      "validation": {
+        "before": "Four compressed positive-skip subtests error (gzip/bzip2 × byte skip/byteskip); raw and ASCII controls pass",
+        "after": "Full unittest discover nrrd/tests: 161 tests, OK",
+        "lint": "flake8 --config=setup.cfg and git diff --check pass",
+        "versions": {
+          "python": "3.12.14",
+          "numpy": "2.5.4",
+          "pynrrd": "1.1.3"
+        },
+        "warnings": "Existing datetime.utcnow writer warning, already addressed by open PR171"
+      }
+    },
+    {
+      "project": "requests/toolbelt",
+      "pull_request": "https://github.com/requests/toolbelt/pull/412",
+      "title": "Fall back from unknown response encodings",
+      "head_commit": "d28289b9693471adb66bbc5602e92d13b611d2aa",
+      "state": "open",
+      "draft": false,
+      "merged": false,
+      "sector": "software-access",
+      "changed_files": [
+        "requests_toolbelt/utils/deprecated.py",
+        "tests/test_deprecated.py",
+        "AUTHORS.rst"
+      ],
+      "validation": "Before focused: 3 failed, 3 passed. After: 6 passed. Nonthreaded suite with 3 narrow existing-deprecation filters: baseline 3 failed,145 passed,5 skipped; fix148 passed,5 skipped. Full threaded suite interrupted/incomplete. Strict warnings fail on baseline Betamax utcnow. Sphinx build succeeds with1 existing-theme deprecation warning. Flake8/diff pass."
+    },
+    {
+      "project": "c0fec0de/anytree",
+      "pull_request": "https://github.com/c0fec0de/anytree/pull/285",
+      "title": "Honor false-valued parents in sibling helpers",
+      "head_commit": "13b39883956d295aa28506b9b49d41f589a99e70",
+      "state": "open",
+      "draft": false,
+      "merged": false,
+      "sector": "software-access",
+      "changed_files": [
+        "src/anytree/util/__init__.py",
+        "tests/test_util.py"
+      ],
+      "validation": "Before focused:2failed,3passed. After configured full pytest/doctests/cov:236passed,1skipped,98%coverage; Python3.12.14/Windows,pytest9.1.1,PyYAML6.0.3,test2ref1.3.0. Ruff0.17.2 checks/formatpass,Mypy2.4.0 all33filespass,diffpass. Sphinx9.1.1 HTML succeeds29warnings. Initial17missingdiff baseline failures resolved by existingGitdiffPATH."
+    },
+    {
+      "project": "gorakhargosh/watchdog",
+      "pull_request": "https://github.com/gorakhargosh/watchdog/pull/1348",
+      "title": "Deduplicate consecutive None items in SkipRepeatsQueue",
+      "head_commit": "50e15e67882da612b9d76f36081e9598005729d3",
+      "state": "open",
+      "draft": false,
+      "merged": false,
+      "sector": "software-access",
+      "changed_files": [
+        "src/watchdog/utils/bricks.py",
+        "tests/test_skip_repeats_queue.py"
+      ],
+      "validation": "Before:1 failed(None),54passed. After:55queue tests passed; expandedqueue/delayedqueue/observer/events94passed,2unknownflakymarkerwarnings. Python3.12.14/Windows,pytest9.1.1,Ruff0.17.2/Mypy2.4.0 pass. Fullplatformsuite and monkeypatchedqueues notrun."
+    },
+    {
+      "project": "unit8co/darts",
+      "pull_request": "https://github.com/unit8co/darts/pull/3298",
+      "title": "Fix scalar division by TimeSeries",
+      "head_commit": "dc35491da62f1a034136ad5705d85a61df944e7e",
+      "state": "open",
+      "draft": false,
+      "merged": false,
+      "sector": "signals",
+      "changed_files": [
+        "darts/timeseries.py",
+        "darts/tests/test_timeseries.py",
+        "CHANGELOG.md"
+      ],
+      "validation": {
+        "before": "37 failed, 326 deselected",
+        "targeted_after": "48 passed, 315 deselected",
+        "module_after": "361 passed, 1 skipped, 1 existing Windows test_from_csv PermissionError",
+        "baseline_existing": "test_from_csv same PermissionError on base, 362 deselected",
+        "style": "Pinned Ruff0.7.2 from pre-commit config: lint and format checks pass; git diff --check pass",
+        "versions": {
+          "python": "3.12.14",
+          "numpy": "2.5.4",
+          "pandas": "3.0.6"
+        },
+        "limitations": "Full dev-all/model dependencies were not installed; TimeSeries tests used required lightweight dependencies. NumPy scalar operator dispatch not changed."
+      }
+    },
+    {
+      "project": "blue-yonder/tsfresh",
+      "pull_request": "https://github.com/blue-yonder/tsfresh/pull/1138",
+      "title": "Preserve integer distances in sample and approximate entropy",
+      "head_commit": "cb356a2d147333e1a4cb6e6fe2171ee3d5894ecd",
+      "state": "open",
+      "draft": false,
+      "merged": false,
+      "sector": "signals",
+      "changed_files": [
+        "tsfresh/feature_extraction/feature_calculators.py",
+        "tests/units/feature_extraction/test_integer_entropy.py"
+      ],
+      "validation": {
+        "before": "11 failed",
+        "after": "96 passed, 3 skipped across regressions and full feature-calculation module with the final range-based fast path",
+        "checks": "Black22.12.0 and isort5.12.0 Black profile pass; git diff --check pass",
+        "versions": {
+          "python": "3.12.14",
+          "numpy": "2.5.4",
+          "pandas": "3.0.6",
+          "scipy": "1.18.1",
+          "numba": "0.68.0"
+        },
+        "limitations": "Full project suite not run. No performance benchmark or claim. Only 64-bit integer values outside +/-2**52 use exact object arithmetic, at some cost."
+      }
+    },
+    {
+      "project": "rlabbe/filterpy",
+      "pull_request": "https://github.com/rlabbe/filterpy/pull/336",
+      "title": "Fix the scale of rand_student_t samples",
+      "head_commit": "a396dd3b3dfed921d65fea19336151d0e87a2087",
+      "state": "open",
+      "draft": false,
+      "merged": false,
+      "sector": "signals",
+      "changed_files": [
+        "filterpy/stats/stats.py",
+        "filterpy/stats/tests/test_student_scale.py"
+      ],
+      "validation": {
+        "before": "6 regressions fail, plus existing multivariate_gaussian failure",
+        "after": "10 passed, 1 existing NumPy2 failure across all stats tests",
+        "checks": "flake8 new test and git diff --check pass",
+        "limitations": "Full filter suite not run; existing NumPy2 compatibility failure remains."
+      }
+    },
+    {
+      "project": "rlabbe/filterpy",
+      "pull_request": "https://github.com/rlabbe/filterpy/pull/337",
+      "title": "Support flat state vectors in sequential Kalman updates",
+      "head_commit": "f904811d7e442de190ec963f4bbbc1d420321cc1",
+      "state": "open",
+      "draft": false,
+      "merged": false,
+      "sector": "signals",
+      "changed_files": [
+        "filterpy/kalman/kalman_filter.py",
+        "filterpy/kalman/tests/test_sequential_flat_state.py"
+      ],
+      "validation": {
+        "before": "3 failed, 3 passed",
+        "after": "9 passed, 11 deselected across regression plus existing sequential/batch-filter tests",
+        "checks": "flake8 new test and git diff --check pass",
+        "limitations": "Full filter/plotting suite not run; existing SciPy warnings."
+      }
+    },
+    {
+      "project": "rlabbe/filterpy",
+      "pull_request": "https://github.com/rlabbe/filterpy/pull/338",
+      "title": "Use predicted mode probabilities when combining IMM priors",
+      "head_commit": "6982255393817ba41d79923e5d51a4a3d0ae85b7",
+      "state": "open",
+      "draft": false,
+      "merged": false,
+      "sector": "signals",
+      "changed_files": [
+        "filterpy/kalman/IMM.py",
+        "filterpy/kalman/tests/test_imm_prior_weights.py"
+      ],
+      "validation": {
+        "before": "4 failed, 2 passed",
+        "after": "7 passed, 1 existing failure across regressions and existing IMM module",
+        "baseline_existing": "Existing test_imm fails identically on base while constructing simulated trajectory: NumPy2 rejects implicit conversion of 2D array to scalar. Other existing IMM test passes.",
+        "checks": "flake8 new test and git diff --check pass",
+        "versions": {
+          "python": "3.12.14",
+          "numpy": "2.5.4",
+          "scipy": "1.18.1",
+          "pytest": "9.1.1"
+        },
+        "limitations": "Full filter/plotting suite not run; consecutive prediction calls without measurement updates are outside this focused aggregate-prior correction."
+      }
+    },
+    {
+      "project": "pydata/patsy",
+      "pull_request": "https://github.com/pydata/patsy/pull/277",
+      "title": "Accept single-pass iterables in LinearConstraint.combine",
+      "head_commit": "9ac1fe5fb1ecfa1afc65dae545c47516e22a031e",
+      "state": "open",
+      "draft": false,
+      "merged": false,
+      "sector": "science-health",
+      "changed_files": [
+        "patsy/constraint.py"
+      ],
+      "validation": {
+        "before": "1 failed, 1 passed, 4 deselected: python -m pytest patsy/constraint.py -q -k combine --tb=short; new regression fails TypeError list_iterator is not subscriptable",
+        "after": "163 passed in 40.38s: python -m pytest -q --tb=short",
+        "lint": "Exact project-pinned Ruff 0.17.1: ruff format --check patsy/constraint.py passed (1 file already formatted); git diff --check passed. No formatting mutation performed.",
+        "versions": {
+          "python": "3.12.14",
+          "patsy_source_version": "1.0.3",
+          "numpy": "2.5.4",
+          "pandas": "2.3.3",
+          "scipy": "1.18.1",
+          "pytest": "9.1.1"
+        },
+        "limitations": "Single Windows/Python dependency environment; no full CI matrix claim"
+      }
+    },
+    {
+      "project": "alkaline-ml/pmdarima",
+      "pull_request": "https://github.com/alkaline-ml/pmdarima/pull/627",
+      "title": "[MRG] Copy pipeline confidence intervals before inverse transformation",
+      "head_commit": "f15a6dd0a4413152cb84452532522bd5cd9b6a0c",
+      "state": "open",
+      "draft": false,
+      "merged": false,
+      "sector": "finance",
+      "changed_files": [
+        "pmdarima/pipeline.py",
+        "pmdarima/tests/test_pipeline_readonly.py"
+      ],
+      "validation": {
+        "versions": {
+          "python": "3.12.14",
+          "platform": "Windows-11-10.0.26300-SP0",
+          "pmdarima": "2.1.1",
+          "numpy": "2.5.4",
+          "pandas": "3.1.0",
+          "scipy": "1.18.1",
+          "statsmodels": "0.15.0",
+          "sklearn": "1.9.1",
+          "pytest": "9.1.1"
+        },
+        "base_ci_reproduction": "Unmodified base: original pipeline6 fails with read-only error at pipeline.py:478; 1 failed, 66 deselected.",
+        "commands": {
+          "baseline": "python -m pytest pmdarima/tests/test_pipeline.py -k \"pipeline_predict_inverse_transform and True-True-X0-pipeline6\" -q",
+          "new_before": "python -m pytest pmdarima/tests/test_pipeline_readonly.py -q",
+          "after": "python -m pytest pmdarima/tests/test_pipeline.py pmdarima/tests/test_pipeline_readonly.py -q",
+          "working_directory": "[local path]"
+        },
+        "new_before": "4 failed",
+        "after": "71 passed, 10 pre-existing warnings",
+        "style": "flake8 both changed files and git diff --check pass",
+        "limitations": "Source Python code tested using compiled 2.1.1 wheel extensions on Windows. Entire project/ARIMA suite and Linux builds not run.",
+        "payload": "Both remote blob SHAs match UTF-8/LF local files; complete remote diff contains only one production line plus the new test file."
+      }
+    },
+    {
+      "project": "bashtage/arch",
+      "pull_request": "https://github.com/bashtage/arch/pull/977",
+      "title": "BUG: Preserve small normal-tail p-values",
+      "head_commit": "77a7f0c4b353a9076327e077b7001b93efac8de6",
+      "state": "open",
+      "draft": false,
+      "merged": false,
+      "sector": "finance",
+      "changed_files": [
+        "arch/unitroot/cointegration.py",
+        "arch/unitroot/unitroot.py",
+        "arch/tests/unitroot/test_normal_tail_pvalues.py"
+      ],
+      "validation": {
+        "before": {
+          "head": "806d630ed84039354cecec9f6f1470c71e67c0fe",
+          "result": "14 tail failures, 8 passing zero/ordinary controls"
+        },
+        "fresh_base_focused": {
+          "base": "2646f9a3da7eb35ec9b940b93fa0274843f7cdb3",
+          "result": "22 passed in 6.58s",
+          "command": "python -m pytest arch/tests/unitroot/test_normal_tail_pvalues.py -q --color=no"
+        },
+        "fresh_base_static": "Ruff 0.17.2 lint and format passed for all 3 changed files; git diff --check passed",
+        "previous_broad": {
+          "head": "806d630ed84039354cecec9f6f1470c71e67c0fe",
+          "result": "3679 passed in 140.10s in DynamicOLS/FMOLS/CCR/new-normal-tail module and utility tests; 86 additional existing VarianceRatio cases passed, 406 unrelated cases deselected. The 22 new cases are included in 3679, not counted twice.",
+          "repeated_on_new_base": false
+        },
+        "oracle": "math.erfc(abs(stat)/sqrt(2)), rtol=5e-14, atol=0; actual deterministic data for positive/negative/zero/ordinary VarianceRatio cases",
+        "versions": {
+          "python": "3.12.14",
+          "numpy": "2.5.4",
+          "pandas": "3.1.0",
+          "scipy": "1.18.1",
+          "statsmodels": "0.15.0",
+          "pytest": "9.1.1",
+          "ruff": "0.17.2"
+        },
+        "limitations": "Full arch suite, compiled extension builds and multi-version matrix not run. Ignored version metadata only comes from the installed arch 8.0.0 wheel.",
+        "evidence": {
+          "before": "[local path]",
+          "fresh_focused": "[local path]",
+          "previous_broad": "[local path]",
+          "previous_variance_ratio": "[local path]"
+        }
+      }
+    }
+  ],
+  "merged_count": 1
+}
