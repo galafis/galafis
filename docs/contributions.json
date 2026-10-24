@@ -1,9 +1,11 @@
 {
-  "pull_request_count": 53,
-  "project_count": 32,
-  "new_in_expanded_batch": 46,
+  "pull_request_count": 56,
+  "project_count": 35,
+  "new_in_expanded_batch": 49,
   "earlier_contributions": 7,
-  "draft_count": 2,
+  "original_tracked_pull_requests": 53,
+  "new_in_followup_batch": 3,
+  "draft_count": 0,
   "contributions": [
     {
       "project": "koaning/scikit-lego",
@@ -32,10 +34,10 @@
     {
       "project": "dask/dask",
       "pull_request": "https://github.com/dask/dask/pull/12673",
-      "title": "[unsupervised AI] Avoid observed warnings in categorical variance aggregation",
+      "title": "Avoid observed warnings in categorical variance aggregation",
       "head_commit": "6dd6d7ba47d258de61cdecd3700457ddd111e397",
       "state": "open",
-      "draft": true,
+      "draft": false,
       "merged": false,
       "sector": "data-ml",
       "changed_files": [],
@@ -44,10 +46,10 @@
     {
       "project": "dask/dask",
       "pull_request": "https://github.com/dask/dask/pull/12674",
-      "title": "[unsupervised AI] Preserve falsy column names in variance aggregation",
+      "title": "Preserve falsy column names in variance aggregation",
       "head_commit": "0a829f2df1bfdc29fb9c632e32b797b5c2de98e5",
       "state": "open",
-      "draft": true,
+      "draft": false,
       "merged": false,
       "sector": "data-ml",
       "changed_files": [],
@@ -1136,6 +1138,125 @@
           "previous_broad": "[local path]",
           "previous_variance_ratio": "[local path]"
         }
+      }
+    },
+    {
+      "project": "nschloe/meshio",
+      "pull_request": "https://github.com/nschloe/meshio/pull/1578",
+      "title": "Resolve relative OBJ face indices at each face position",
+      "head_commit": "92b9584e0b1633b0a701c64d3562d7f0d9e516a4",
+      "state": "open",
+      "draft": false,
+      "merged": false,
+      "sector": "science-health",
+      "changed_files": [
+        "src/meshio/obj/_obj.py",
+        "tests/test_obj.py"
+      ],
+      "validation": {
+        "before": "12 failed, 6 passed, 6 deselected: pytest tests/test_obj.py -q -k relative --tb=short",
+        "after": "52 passed, 2 skipped, 1 warning in 1.25s: pytest tests/test_obj.py tests/test_off.py tests/test_stl.py tests/test_ply.py tests/test_mesh.py -q --tb=short",
+        "lint": "Black 24.1.1 --check, isort 5.13.2 --check-only, flake8 7.0.0, git diff --check passed for changed files",
+        "versions": {
+          "python": "3.12.14",
+          "meshio_source": "5.3.5 at b2ee99842e119901349fdeee06b5bf61e01f450a",
+          "numpy": "2.5.4",
+          "pytest": "9.1.1"
+        },
+        "limitations": "No full suite; existing skip for external OBJ reference data and existing mesh test skip; NumPy overflow warning in unchanged STL code",
+        "source_specification": "Wavefront Advanced Visualizer Appendix B1, Elements/Referencing vertex data; original text mirrored at https://raw.githubusercontent.com/mokiat/java-data-front/master/documents/OBJ%20Specification.txt (negative index -1 references latest preceding vertex)"
+      }
+    },
+    {
+      "project": "jshttp/negotiator",
+      "pull_request": "https://github.com/jshttp/negotiator/pull/117",
+      "title": "Fix case-insensitive preferred encoding matching",
+      "head_commit": "2ccc7131fbb77178c88976e08e32c1c66d5e0e13",
+      "state": "open",
+      "draft": false,
+      "merged": false,
+      "sector": "software-access",
+      "changed_files": [
+        "lib/encoding.js",
+        "test/encoding.js"
+      ],
+      "validation": {
+        "platform": "Windows",
+        "node": "24.20.0",
+        "packages": {
+          "content-type": "2.1.0",
+          "mocha": "11.8.0",
+          "nyc": "17.1.0",
+          "eslint": "7.32.0"
+        },
+        "baseline": "253 passing, 3 pending",
+        "regressions_before": "257 passing, 3 pending, 4 failing",
+        "after": "npm run test-ci: 261 passing, 3 pending",
+        "coverage": "100% lines/functions; 98.4% statements; 89.65% branches overall; 96% branches in encoding.js",
+        "lint": "npm run lint passed",
+        "diff": "git diff --check passed",
+        "limits": [
+          "Windows Node24 only",
+          "No lockfile exists; npm ci could not run. Used npm install --no-package-lock.",
+          "npm installation reported esbuild postinstall awaiting npm allowScripts; esbuild is only a Vitest benchmark transitive dependency and no tests used it."
+        ]
+      }
+    },
+    {
+      "project": "rsheftel/pandas_market_calendars",
+      "pull_request": "https://github.com/rsheftel/pandas_market_calendars/pull/504",
+      "title": "Normalize schedule dates regardless of resolution",
+      "head_commit": "a9dc619d68618fb4566614044a98b8fa5c00e0c4",
+      "state": "open",
+      "draft": false,
+      "merged": false,
+      "sector": "finance",
+      "changed_files": [
+        "pandas_market_calendars/market_calendar.py",
+        "tests/test_schedule_input_dates.py"
+      ],
+      "validation": {
+        "versions": {
+          "python": "3.12.14",
+          "pandas": "3.1.0",
+          "numpy": "2.5.4",
+          "exchange_calendars": "4.13.2",
+          "pandas_market_calendars": "5.5.0",
+          "pytest": "9.1.1",
+          "black": "26.10.1"
+        },
+        "before": "1 failed,1 passed in tests/test_schedule_input_dates.py on unmodified dev source",
+        "targeted_after": "2 passed; no warnings in the new test file (an exact-message filter handles the existing NYSE weekday deprecation on pandas3.1)",
+        "full_after_pandas23": "1515 passed,1 skipped,20169 warnings",
+        "full_before_pandas31": "13 failed,1501 passed,19498 warnings",
+        "full_after_pandas31": "13 failed,1503 passed,19498 warnings",
+        "same_existing_failures": true,
+        "existing_failure_ids": [
+          "tests/test_market_calendar.py::test_schedule_w_interruptions - Asserti...",
+          "tests/test_market_calendar.py::test_special_opens - AssertionError: Se...",
+          "tests/test_market_calendar.py::test_special_opens_adhoc - AssertionErr...",
+          "tests/test_market_calendar.py::test_special_closes - AssertionError: S...",
+          "tests/test_market_calendar.py::test_special_closes_adhoc - AssertionEr...",
+          "tests/test_nyse_calendar.py::test_days_at_time_open[dates0-results0]",
+          "tests/test_nyse_calendar.py::test_days_at_time_open[dates1-results1]",
+          "tests/test_nyse_calendar.py::test_days_at_time_close[dates0-results0]",
+          "tests/test_nyse_calendar.py::test_days_at_time_close[dates1-results1]",
+          "tests/test_nyse_calendar.py::test_days_at_time_close[dates2-results2]",
+          "tests/test_nyse_calendar.py::test_days_at_time_close[dates3-results3]",
+          "tests/test_nyse_calendar.py::test_days_at_time_custom - AssertionError...",
+          "tests/test_tase_calendar.py::test_tase_friday_early_close - AssertionE..."
+        ],
+        "commands": {
+          "cwd": "[local path]",
+          "regression": "python -m pytest tests/test_schedule_input_dates.py -q",
+          "baseline_original": "python -m pytest -q -m \"not slow\" --ignore=tests/test_schedule_input_dates.py",
+          "full_after": "python -m pytest -q -m \"not slow\"",
+          "python_pandas31": "python",
+          "python_pandas23": "python"
+        },
+        "style": "Black26.10.1 on new tests and edited source line864, Ruff0.17.2 on both files, git diff --check pass. Full-file Black has three inherited formatting differences outside the edited section; these were preserved.",
+        "limitations": "The full pandas3.1 suite retains baseline frequency-metadata failures and existing warnings. No performance claim or holiday-data correction.",
+        "payload": "Remote diff inspected: one normalization line replacing dtype guard plus42-line new test. UTF-8 blob SHAs match local normalized files; plan excluded."
       }
     }
   ],

@@ -1,6 +1,6 @@
 # Open-source contribution evidence · Evidências de contribuições
 
-**53 pull requests · 32 projects / projetos**
+**56 pull requests · 35 projects / projetos**
 
 **EN:** A record of focused corrections, executable examples and regression tests across scientific computing, finance, data workflows and software infrastructure. Each pull request links the implementation, review and current CI results. This index includes seven earlier submissions and the subsequent expanded batch.
 
@@ -10,11 +10,11 @@
 
 ## Review and validation · Revisão e validação
 
-**EN:** Test summaries describe the environment and scope actually exercised. Approvals, pending workflows and merge decisions remain visible in the linked projects. The two Dask proposals remain drafts awaiting the author review required by that project.
+**EN:** Test summaries describe the environment and scope actually exercised. Approvals, pending workflows and merge decisions remain visible in the linked projects. Gabriel reviewed and approved both Dask changes and their tests; the two proposals are now ready for maintainer review. [Follow-up audit · Auditoria de acompanhamento](PR_FOLLOWUP.md).
 
-**PT:** Os resumos de testes registram o ambiente e o escopo efetivamente executados. Aprovações, verificações pendentes e decisões de incorporação ficam disponíveis nos projetos vinculados. As duas propostas ao Dask permanecem como rascunhos, aguardando a revisão pessoal exigida pelo projeto.
+**PT:** Os resumos de testes registram o ambiente e o escopo efetivamente executados. Aprovações, verificações pendentes e decisões de incorporação ficam disponíveis nos projetos vinculados. Gabriel revisou e aprovou as duas correções do Dask e seus testes; ambas estão disponíveis para revisão dos mantenedores. [Auditoria de acompanhamento · Follow-up audit](PR_FOLLOWUP.md).
 
-**Follow-up · Acompanhamento:** [NeuroKit #1228](https://github.com/neuropsychology/NeuroKit/pull/1228) was corrected for pandas 2/3 and its Python 3.10–3.14 matrix passed. [Pmdarima #627](https://github.com/alkaline-ml/pmdarima/pull/627) addresses the shared pipeline failure in [#625](https://github.com/alkaline-ml/pmdarima/pull/625)/[#626](https://github.com/alkaline-ml/pmdarima/pull/626); its Python 3.10–3.14, lint and documentation CI passed. Dask CI details and the existing [fixture proposal #12671](https://github.com/dask/dask/pull/12671) are recorded in both draft descriptions. / O NeuroKit #1228 recebeu a correção para pandas 2/3 e passou na matriz Python 3.10–3.14. O pmdarima #627 corrige a falha compartilhada do pipeline de #625/#626 e passou no CI de Python 3.10–3.14, lint e documentação. As descrições dos dois rascunhos Dask registram o diagnóstico de CI e a proposta existente para a fixture.
+**Follow-up · Acompanhamento:** [NeuroKit #1228](https://github.com/neuropsychology/NeuroKit/pull/1228) was corrected for pandas 2/3 and its Python 3.10–3.14 matrix passed. [Pmdarima #627](https://github.com/alkaline-ml/pmdarima/pull/627) addresses the shared pipeline failure in [#625](https://github.com/alkaline-ml/pmdarima/pull/625)/[#626](https://github.com/alkaline-ml/pmdarima/pull/626); its Python 3.10–3.14, lint and documentation CI passed. Dask CI details and the existing [fixture proposal #12671](https://github.com/dask/dask/pull/12671) are recorded in both PR descriptions. / O NeuroKit #1228 recebeu a correção para pandas 2/3 e passou na matriz Python 3.10–3.14. O pmdarima #627 corrige a falha compartilhada do pipeline de #625/#626 e passou no CI de Python 3.10–3.14, lint e documentação. As descrições dos dois PRs Dask registram o diagnóstico de CI e a proposta existente para a fixture.
 
 **Merged upstream · Incorporado ao projeto:** [bashtage/arch #975](https://github.com/bashtage/arch/pull/975)
 
@@ -40,6 +40,7 @@
 | mhe/pynrrd | Reject truncated compressed NRRD payloads | [PR #174](https://github.com/mhe/pynrrd/pull/174) · [2fe3cda](https://github.com/mhe/pynrrd/commit/2fe3cda2b9023b8f418190969c5f952e7ee0ea9a) · [Tests · Testes](#evidence-mhe-pynrrd-174) | Open · Aberto |
 | mhe/pynrrd | Apply positive byte skips after decompression | [PR #175](https://github.com/mhe/pynrrd/pull/175) · [2e322ef](https://github.com/mhe/pynrrd/commit/2e322ef16cc6403efa7e7592c92eeb172b1e4b85) · [Tests · Testes](#evidence-mhe-pynrrd-175) | Open · Aberto |
 | pydata/patsy | Accept single-pass iterables in LinearConstraint.combine | [PR #277](https://github.com/pydata/patsy/pull/277) · [9ac1fe5](https://github.com/pydata/patsy/commit/9ac1fe5fb1ecfa1afc65dae545c47516e22a031e) · [Tests · Testes](#evidence-pydata-patsy-277) | Open · Aberto |
+| nschloe/meshio | Resolve relative OBJ face indices at each face position | [PR #1578](https://github.com/nschloe/meshio/pull/1578) · [92b9584](https://github.com/nschloe/meshio/commit/92b9584e0b1633b0a701c64d3562d7f0d9e516a4) · [Tests · Testes](#evidence-nschloe-meshio-1578) | Open · Aberto |
 
 <a id="finance"></a>
 
@@ -57,6 +58,7 @@
 | alkaline-ml/pmdarima | Keep perfect zero-valued forecasts finite in SMAPE | [PR #626](https://github.com/alkaline-ml/pmdarima/pull/626) · [857f394](https://github.com/alkaline-ml/pmdarima/commit/857f394452d580ef30260b9b0ce35bdac2c2e4d5) · [Tests · Testes](#evidence-alkaline-ml-pmdarima-626) | Open · Aberto |
 | alkaline-ml/pmdarima | Copy pipeline confidence intervals before inverse transformation | [PR #627](https://github.com/alkaline-ml/pmdarima/pull/627) · [f15a6dd](https://github.com/alkaline-ml/pmdarima/commit/f15a6dd0a4413152cb84452532522bd5cd9b6a0c) · [Tests · Testes](#evidence-alkaline-ml-pmdarima-627) | Open · Aberto |
 | bashtage/arch | Preserve small normal-tail p-values | [PR #977](https://github.com/bashtage/arch/pull/977) · [77a7f0c](https://github.com/bashtage/arch/commit/77a7f0c4b353a9076327e077b7001b93efac8de6) · [Tests · Testes](#evidence-bashtage-arch-977) | Open · Aberto |
+| rsheftel/pandas_market_calendars | Normalize schedule dates regardless of resolution | [PR #504](https://github.com/rsheftel/pandas_market_calendars/pull/504) · [a9dc619](https://github.com/rsheftel/pandas_market_calendars/commit/a9dc619d68618fb4566614044a98b8fa5c00e0c4) · [Tests · Testes](#evidence-rsheftel-pandas-market-calendars-504) | Open · Aberto |
 
 <a id="signals"></a>
 
@@ -79,8 +81,8 @@
 | Project · Projeto | Change · Correção | Code · Código | Review · Revisão |
 | --- | --- | --- | --- |
 | koaning/scikit-lego | Fix log_step shape deltas for keyword dataframe arguments | [PR #846](https://github.com/koaning/scikit-lego/pull/846) · [fa9aef4](https://github.com/koaning/scikit-lego/commit/fa9aef4e22111cee74d3873776c3e8224941410b) · [Tests · Testes](#evidence-koaning-scikit-lego-846) | Open · Aberto |
-| dask/dask | Avoid observed warnings in categorical variance aggregation | [PR #12673](https://github.com/dask/dask/pull/12673) · [6dd6d7b](https://github.com/dask/dask/commit/6dd6d7ba47d258de61cdecd3700457ddd111e397) · [Tests · Testes](#evidence-dask-dask-12673) | Draft · Rascunho |
-| dask/dask | Preserve falsy column names in variance aggregation | [PR #12674](https://github.com/dask/dask/pull/12674) · [0a829f2](https://github.com/dask/dask/commit/0a829f2df1bfdc29fb9c632e32b797b5c2de98e5) · [Tests · Testes](#evidence-dask-dask-12674) | Draft · Rascunho |
+| dask/dask | Avoid observed warnings in categorical variance aggregation | [PR #12673](https://github.com/dask/dask/pull/12673) · [6dd6d7b](https://github.com/dask/dask/commit/6dd6d7ba47d258de61cdecd3700457ddd111e397) · [Tests · Testes](#evidence-dask-dask-12673) | Open · Aberto |
+| dask/dask | Preserve falsy column names in variance aggregation | [PR #12674](https://github.com/dask/dask/pull/12674) · [0a829f2](https://github.com/dask/dask/commit/0a829f2df1bfdc29fb9c632e32b797b5c2de98e5) · [Tests · Testes](#evidence-dask-dask-12674) | Open · Aberto |
 | scikit-learn-contrib/imbalanced-learn | Validate per-class RandomOverSampler shrinkage factors | [PR #1239](https://github.com/scikit-learn-contrib/imbalanced-learn/pull/1239) · [34f310c](https://github.com/scikit-learn-contrib/imbalanced-learn/commit/34f310ca69c4aab01c4f42d7b1c40a039076f4c5) · [Tests · Testes](#evidence-scikit-learn-contrib-imbalanced-learn-1239) | Open · Aberto |
 | pydata/xarray | Fix Windows Zarr directory detection in open_dataset | [PR #11802](https://github.com/pydata/xarray/pull/11802) · [c849556](https://github.com/pydata/xarray/commit/c8495566c7a4067dd6a692af8aa281970f393311) · [Tests · Testes](#evidence-pydata-xarray-11802) | Open · Aberto |
 | pytoolz/toolz | Make sliding_window startup linear in the window size | [PR #655](https://github.com/pytoolz/toolz/pull/655) · [3631498](https://github.com/pytoolz/toolz/commit/36314982a66463486899b76f9c7183c8c4ec5526) · [Tests · Testes](#evidence-pytoolz-toolz-655) | Open · Aberto |
@@ -105,6 +107,7 @@
 | requests/toolbelt | Fall back from unknown response encodings | [PR #412](https://github.com/requests/toolbelt/pull/412) · [d28289b](https://github.com/requests/toolbelt/commit/d28289b9693471adb66bbc5602e92d13b611d2aa) · [Tests · Testes](#evidence-requests-toolbelt-412) | Open · Aberto |
 | c0fec0de/anytree | Honor false-valued parents in sibling helpers | [PR #285](https://github.com/c0fec0de/anytree/pull/285) · [13b3988](https://github.com/c0fec0de/anytree/commit/13b39883956d295aa28506b9b49d41f589a99e70) · [Tests · Testes](#evidence-c0fec0de-anytree-285) | Open · Aberto |
 | gorakhargosh/watchdog | Deduplicate consecutive None items in SkipRepeatsQueue | [PR #1348](https://github.com/gorakhargosh/watchdog/pull/1348) · [50e15e6](https://github.com/gorakhargosh/watchdog/commit/50e15e67882da612b9d76f36081e9598005729d3) · [Tests · Testes](#evidence-gorakhargosh-watchdog-1348) | Open · Aberto |
+| jshttp/negotiator | Fix case-insensitive preferred encoding matching | [PR #117](https://github.com/jshttp/negotiator/pull/117) · [2ccc713](https://github.com/jshttp/negotiator/commit/2ccc7131fbb77178c88976e08e32c1c66d5e0e13) · [Tests · Testes](#evidence-jshttp-negotiator-117) | Open · Aberto |
 
 ## Validation records · Registros de validação
 
@@ -1101,6 +1104,119 @@ Before:1 failed(None),54passed. After:55queue tests passed; expandedqueue/delaye
     "previous_broad": "[local path]",
     "previous_variance_ratio": "[local path]"
   }
+}
+```
+
+</details>
+
+<a id="evidence-nschloe-meshio-1578"></a>
+
+<details>
+<summary>nschloe/meshio #1578 — validation / validação</summary>
+
+[Implementation and regression tests · Implementação e regressões](https://github.com/nschloe/meshio/pull/1578/files)
+
+```json
+{
+  "before": "12 failed, 6 passed, 6 deselected: pytest tests/test_obj.py -q -k relative --tb=short",
+  "after": "52 passed, 2 skipped, 1 warning in 1.25s: pytest tests/test_obj.py tests/test_off.py tests/test_stl.py tests/test_ply.py tests/test_mesh.py -q --tb=short",
+  "lint": "Black 24.1.1 --check, isort 5.13.2 --check-only, flake8 7.0.0, git diff --check passed for changed files",
+  "versions": {
+    "python": "3.12.14",
+    "meshio_source": "5.3.5 at b2ee99842e119901349fdeee06b5bf61e01f450a",
+    "numpy": "2.5.4",
+    "pytest": "9.1.1"
+  },
+  "limitations": "No full suite; existing skip for external OBJ reference data and existing mesh test skip; NumPy overflow warning in unchanged STL code",
+  "source_specification": "Wavefront Advanced Visualizer Appendix B1, Elements/Referencing vertex data; original text mirrored at https://raw.githubusercontent.com/mokiat/java-data-front/master/documents/OBJ%20Specification.txt (negative index -1 references latest preceding vertex)"
+}
+```
+
+</details>
+
+<a id="evidence-jshttp-negotiator-117"></a>
+
+<details>
+<summary>jshttp/negotiator #117 — validation / validação</summary>
+
+[Implementation and regression tests · Implementação e regressões](https://github.com/jshttp/negotiator/pull/117/files)
+
+```json
+{
+  "platform": "Windows",
+  "node": "24.20.0",
+  "packages": {
+    "content-type": "2.1.0",
+    "mocha": "11.8.0",
+    "nyc": "17.1.0",
+    "eslint": "7.32.0"
+  },
+  "baseline": "253 passing, 3 pending",
+  "regressions_before": "257 passing, 3 pending, 4 failing",
+  "after": "npm run test-ci: 261 passing, 3 pending",
+  "coverage": "100% lines/functions; 98.4% statements; 89.65% branches overall; 96% branches in encoding.js",
+  "lint": "npm run lint passed",
+  "diff": "git diff --check passed",
+  "limits": [
+    "Windows Node24 only",
+    "No lockfile exists; npm ci could not run. Used npm install --no-package-lock.",
+    "npm installation reported esbuild postinstall awaiting npm allowScripts; esbuild is only a Vitest benchmark transitive dependency and no tests used it."
+  ]
+}
+```
+
+</details>
+
+<a id="evidence-rsheftel-pandas-market-calendars-504"></a>
+
+<details>
+<summary>rsheftel/pandas_market_calendars #504 — validation / validação</summary>
+
+[Implementation and regression tests · Implementação e regressões](https://github.com/rsheftel/pandas_market_calendars/pull/504/files)
+
+```json
+{
+  "versions": {
+    "python": "3.12.14",
+    "pandas": "3.1.0",
+    "numpy": "2.5.4",
+    "exchange_calendars": "4.13.2",
+    "pandas_market_calendars": "5.5.0",
+    "pytest": "9.1.1",
+    "black": "26.10.1"
+  },
+  "before": "1 failed,1 passed in tests/test_schedule_input_dates.py on unmodified dev source",
+  "targeted_after": "2 passed; no warnings in the new test file (an exact-message filter handles the existing NYSE weekday deprecation on pandas3.1)",
+  "full_after_pandas23": "1515 passed,1 skipped,20169 warnings",
+  "full_before_pandas31": "13 failed,1501 passed,19498 warnings",
+  "full_after_pandas31": "13 failed,1503 passed,19498 warnings",
+  "same_existing_failures": true,
+  "existing_failure_ids": [
+    "tests/test_market_calendar.py::test_schedule_w_interruptions - Asserti...",
+    "tests/test_market_calendar.py::test_special_opens - AssertionError: Se...",
+    "tests/test_market_calendar.py::test_special_opens_adhoc - AssertionErr...",
+    "tests/test_market_calendar.py::test_special_closes - AssertionError: S...",
+    "tests/test_market_calendar.py::test_special_closes_adhoc - AssertionEr...",
+    "tests/test_nyse_calendar.py::test_days_at_time_open[dates0-results0]",
+    "tests/test_nyse_calendar.py::test_days_at_time_open[dates1-results1]",
+    "tests/test_nyse_calendar.py::test_days_at_time_close[dates0-results0]",
+    "tests/test_nyse_calendar.py::test_days_at_time_close[dates1-results1]",
+    "tests/test_nyse_calendar.py::test_days_at_time_close[dates2-results2]",
+    "tests/test_nyse_calendar.py::test_days_at_time_close[dates3-results3]",
+    "tests/test_nyse_calendar.py::test_days_at_time_custom - AssertionError...",
+    "tests/test_tase_calendar.py::test_tase_friday_early_close - AssertionE..."
+  ],
+  "commands": {
+    "cwd": "[local path]",
+    "regression": "python -m pytest tests/test_schedule_input_dates.py -q",
+    "baseline_original": "python -m pytest -q -m \"not slow\" --ignore=tests/test_schedule_input_dates.py",
+    "full_after": "python -m pytest -q -m \"not slow\"",
+    "python_pandas31": "python",
+    "python_pandas23": "python"
+  },
+  "style": "Black26.10.1 on new tests and edited source line864, Ruff0.17.2 on both files, git diff --check pass. Full-file Black has three inherited formatting differences outside the edited section; these were preserved.",
+  "limitations": "The full pandas3.1 suite retains baseline frequency-metadata failures and existing warnings. No performance claim or holiday-data correction.",
+  "payload": "Remote diff inspected: one normalization line replacing dtype guard plus42-line new test. UTF-8 blob SHAs match local normalized files; plan excluded."
 }
 ```
 
