@@ -21,7 +21,7 @@ Every section is available in both languages. · Todas as seções estão dispon
 
 | English — quick navigation | Português — navegação rápida |
 |---|---|
-| [Portfolio tour](#portfolio-tour) · [Selected projects](#projects) · [Vbot studies](#vbot-studies) · [Robotics & accessibility](#robotics) · [About me](#about-english) · [Experience](#experience-english) | [Visita ao portfólio](#portfolio-tour) · [Projetos selecionados](#projects) · [Estudos com Vbot](#vbot-studies) · [Robótica e acessibilidade](#robotics) · [Sobre mim](#sobre-portugues) · [Experiência](#experiencia-portugues) |
+| [Portfolio tour](#portfolio-tour) · [Open-source contributions](#open-source-contributions) · [Selected projects](#projects) · [Vbot studies](#vbot-studies) · [Robotics & accessibility](#robotics) · [About me](#about-english) · [Experience](#experience-english) | [Visita ao portfólio](#portfolio-tour) · [Contribuições open source](#open-source-contributions) · [Projetos selecionados](#projects) · [Estudos com Vbot](#vbot-studies) · [Robótica e acessibilidade](#robotics) · [Sobre mim](#sobre-portugues) · [Experiência](#experiencia-portugues) |
 | [Technologies](#technologies) · [Projects](#projects) · [Certifications](#certifications) | [Tecnologias](#technologies) · [Projetos](#projects) · [Certificações](#certifications) |
 | [Education](#education) · [GitHub activity](#github-activity) · [Expertise](#expertise) · [Contact](#contact) | [Formação](#education) · [Atividade no GitHub](#github-activity) · [Áreas de atuação](#expertise) · [Contato](#contact) |
 
@@ -50,6 +50,30 @@ Every section is available in both languages. · Todas as seções estão dispon
 **PT:** Os valores acima vêm de exemplos fictícios de software. Cada repositório distingue comportamento implementado, evidências reproduzíveis e validação pendente.
 
 <!-- portfolio-navigation:end -->
+
+---
+
+<!-- community-contributions:start -->
+<a id="open-source-contributions"></a>
+
+## Open-source contributions · Contribuições à comunidade
+
+**EN:** Contributions to shared tools for data workflows and accessibility, with reproducible failure cases, focused changes and validation records. The proposals below were submitted on **24 October 2026**; their pull request pages show the current review and merge status.
+
+**PT:** Contribuições a ferramentas usadas em fluxos de dados e acessibilidade, com falhas reproduzíveis, alterações focadas e registros de validação. As propostas abaixo foram enviadas em **24 de outubro de 2026**; as páginas dos pull requests mostram a situação atual de revisão e incorporação.
+
+| Project · Projeto | Contribution · Contribuição | Code and evidence · Código e evidência |
+| --- | --- | --- |
+| **scikit-lego**<br>Data pipelines · Pipelines de dados | **EN:** Fix shape-change logging when a dataframe is passed by keyword, preserving argument order and error reporting.<br><br>**PT:** Corrigir o registro de mudanças de tamanho quando a tabela é passada por nome, preservando argumentos e relatos de erro. | [PR #846](https://github.com/koaning/scikit-lego/pull/846)<br>40 utility tests passed · 40 testes de utilitários aprovados<br>[Original issue · Questão original](https://github.com/koaning/scikit-lego/issues/552) |
+| **Pa11y CI**<br>Web accessibility · Acessibilidade web | **EN:** Add a reproducible HTML example and explain the real console output, issue locations and exit codes.<br><br>**PT:** Acrescentar exemplo HTML reproduzível e explicar saída real, localização dos achados e códigos de saída. | [PR #377](https://github.com/pa11y/pa11y-ci/pull/377)<br>59 unit tests and real browser checks · 59 testes unitários e verificações no navegador<br>[Original issue · Questão original](https://github.com/pa11y/pa11y-ci/issues/87) |
+| **Dask**<br>Parallel data processing · Processamento paralelo | **EN:** Prevent categorical variance/std aggregation from failing under pandas 2.2 warning-as-error settings.<br><br>**PT:** Evitar falha na agregação categórica de variância e desvio padrão com avisos tratados como erros no pandas 2.2. | [PR #12673](https://github.com/dask/dask/pull/12673)<br>245 groupby tests passed on pandas 2.2 · 245 testes de agrupamento aprovados no pandas 2.2<br>[Original issue · Questão original](https://github.com/dask/dask/issues/10826) |
+| **Dask**<br>Dataframe correctness · Consistência de tabelas | **EN:** Preserve valid column names `0` and `""` when aggregating variance and standard deviation across partitions.<br><br>**PT:** Preservar nomes válidos de coluna `0` e `""` na agregação de variância e desvio padrão entre partições. | [PR #12674](https://github.com/dask/dask/pull/12674)<br>253 groupby tests passed on pandas 2.2 · 253 testes de agrupamento aprovados no pandas 2.2<br>12 regression/control cases · 12 casos de regressão e controle |
+
+**EN:** The two Dask proposals were submitted as drafts for author review, following the project's contribution process. Submitted work is distinct from merged work; detailed test scope and known environment limitations are recorded in each proposal.
+
+**PT:** As duas propostas ao Dask foram enviadas como rascunhos para revisão do autor, seguindo o processo do projeto. Trabalho enviado e trabalho incorporado são etapas distintas; o escopo dos testes e os limites conhecidos do ambiente estão registrados em cada proposta.
+
+<!-- community-contributions:end -->
 
 ---
 
@@ -575,4 +599,5 @@ Open to remote & hybrid opportunities · Aberto a oportunidades remotas e híbri
 [Back to top · Voltar ao início](#top)
 
 </div>
+
 
