@@ -58,9 +58,9 @@ Every section is available in both languages. · Todas as seções estão dispon
 
 ## Open-source contributions · Contribuições à comunidade
 
-**EN:** Contributions to shared tools for data workflows and accessibility, with reproducible failure cases, focused changes and validation records. The proposals below were submitted on **24 October 2026**; their pull request pages show the current review and merge status.
+**EN:** Contributions to shared tools for data workflows and accessibility, with reproducible failure cases, focused changes and validation records. Each pull request page shows the current review and merge status.
 
-**PT:** Contribuições a ferramentas usadas em fluxos de dados e acessibilidade, com falhas reproduzíveis, alterações focadas e registros de validação. As propostas abaixo foram enviadas em **24 de outubro de 2026**; as páginas dos pull requests mostram a situação atual de revisão e incorporação.
+**PT:** Contribuições a ferramentas usadas em fluxos de dados e acessibilidade, com falhas reproduzíveis, alterações focadas e registros de validação. As páginas dos pull requests mostram a situação atual de revisão e incorporação.
 
 | Project · Projeto | Contribution · Contribuição | Code and evidence · Código e evidência |
 | --- | --- | --- |
