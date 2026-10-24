@@ -21,9 +21,35 @@ Every section is available in both languages. · Todas as seções estão dispon
 
 | English — quick navigation | Português — navegação rápida |
 |---|---|
-| [Selected projects](#projects) · [Vbot studies](#vbot-studies) · [Robotics & accessibility](#robotics) · [About me](#about-english) · [Experience](#experience-english) | [Projetos selecionados](#projects) · [Estudos com Vbot](#vbot-studies) · [Robótica e acessibilidade](#robotics) · [Sobre mim](#sobre-portugues) · [Experiência](#experiencia-portugues) |
+| [Portfolio tour](#portfolio-tour) · [Selected projects](#projects) · [Vbot studies](#vbot-studies) · [Robotics & accessibility](#robotics) · [About me](#about-english) · [Experience](#experience-english) | [Visita ao portfólio](#portfolio-tour) · [Projetos selecionados](#projects) · [Estudos com Vbot](#vbot-studies) · [Robótica e acessibilidade](#robotics) · [Sobre mim](#sobre-portugues) · [Experiência](#experiencia-portugues) |
 | [Technologies](#technologies) · [Projects](#projects) · [Certifications](#certifications) | [Tecnologias](#technologies) · [Projetos](#projects) · [Certificações](#certifications) |
 | [Education](#education) · [GitHub activity](#github-activity) · [Expertise](#expertise) · [Contact](#contact) | [Formação](#education) · [Atividade no GitHub](#github-activity) · [Áreas de atuação](#expertise) · [Contato](#contact) |
+
+---
+
+<!-- portfolio-navigation:start -->
+<a id="portfolio-tour"></a>
+
+## Explore the portfolio · Explore o portfólio
+
+**EN:** Start with a question, open the working example, then inspect its input, output and checks. The collections below connect each demonstration to the repository that implements it.
+
+**PT:** Comece por uma pergunta, abra o exemplo funcional e confira entrada, saída e verificações. As coleções abaixo conectam cada demonstração ao repositório que a implementa.
+
+<p align="center"><img src="https://raw.githubusercontent.com/galafis/galafis/main/assets/portfolio-map.svg" width="960" alt="Portfolio map: data and analytics, software architecture, robotics and accessibility / Mapa do portfólio: dados e análise, arquitetura de software, robótica e acessibilidade"></p>
+
+| Follow a question · Siga uma pergunta | Start with an example · Comece por um exemplo | Inspect the evidence · Confira a evidência |
+| --- | --- | --- |
+| **Data & analytics · Dados e análise**<br>Can a result be traced to its source?<br>É possível rastrear o resultado até a fonte? | [Sales reports · Relatórios de vendas](https://github.com/galafis/Automated-Report-Generator)<br>600 in sales, 12 orders, distinct calendar years.<br>600 em vendas, 12 pedidos, anos separados. | [Guided tour · Visita guiada](https://github.com/galafis/Automated-Report-Generator/blob/main/docs/SHOWCASE.md)<br>[All data projects · Todos os projetos de dados](#projects) |
+| **Software · Software**<br>Does a transfer preserve total value?<br>Uma transferência preserva o valor total? | [Banking domain · Domínio bancário](https://github.com/galafis/Banking-System-Architecture)<br>Transfer 12.35; total remains 125.00.<br>Transferência de 12,35; total de 125,00. | [Worked example · Exemplo executável](https://github.com/galafis/Banking-System-Architecture/blob/main/examples/review_demo.py)<br>[Expected output · Saída esperada](https://github.com/galafis/Banking-System-Architecture/blob/main/examples/expected.json) |
+| **Robotics & accessibility · Robótica e acessibilidade**<br>Which change restores a route?<br>Qual mudança recupera um percurso? | [Venue Access Atlas · Atlas de Acesso](https://galafis.github.io/go2-pro-accessible-venue-audit/)<br>Compare 5/6 with 6/6 available route pairs.<br>Compare 5/6 com 6/6 pares com percurso. | [15-minute walkthrough · Roteiro de 15 minutos](https://github.com/galafis/go2-pro-accessible-venue-audit/blob/main/docs/DEMO.md)<br>[All robotics projects · Todos os projetos de robótica](#robotics) |
+| **Companion studies · Estudos de companhia**<br>How do assumptions change the plan?<br>Como as premissas mudam o plano? | [Vbot cargo study · Estudo de materiais](https://galafis.github.io/vbot-community-cargo-planner/?lang=pt&example=library-outreach)<br>Three supplies, explicit return reserve.<br>Três materiais, reserva de retorno explícita. | [Five Vbot studies · Cinco estudos Vbot](#vbot-studies)<br>[Method · Método](https://github.com/galafis/vbot-community-cargo-planner/blob/main/docs/METHOD.md) |
+
+**EN:** The values above come from synthetic software examples. Each repository separates implemented behavior, reproducible evidence and remaining validation work.
+
+**PT:** Os valores acima vêm de exemplos fictícios de software. Cada repositório distingue comportamento implementado, evidências reproduzíveis e validação pendente.
+
+<!-- portfolio-navigation:end -->
 
 ---
 
@@ -66,9 +92,9 @@ Every section is available in both languages. · Todas as seções estão dispon
 
 ## Data, Software & Research · Dados, Software e Pesquisa
 
-**EN:** A broader selection of my existing projects, with reviewed implementations, executable examples, bilingual documentation and automated checks. Explore the repositories for the code, assumptions and validation evidence.
+**EN:** A broader selection of my existing projects, with reviewed implementations, executable examples, bilingual documentation and automated checks. Every repository now opens with a domain question, a workflow illustration, a concrete example and a bilingual evidence tour. Explore the code, assumptions and validation evidence.
 
-**PT:** Uma seleção mais ampla dos meus projetos existentes, com implementações revisadas, exemplos executáveis, documentação bilíngue e verificações automatizadas. Explore os repositórios para consultar código, premissas e evidências de validação.
+**PT:** Uma seleção mais ampla dos meus projetos existentes, com implementações revisadas, exemplos executáveis, documentação bilíngue e verificações automatizadas. Cada repositório abre com uma pergunta do domínio, ilustração do fluxo, exemplo concreto e visita bilíngue às evidências. Consulte código, premissas e validação.
 
 <!-- polyglot-portfolio:start -->
 ### Explore by language · Explore por linguagem
@@ -549,3 +575,4 @@ Open to remote & hybrid opportunities · Aberto a oportunidades remotas e híbri
 [Back to top · Voltar ao início](#top)
 
 </div>
+
