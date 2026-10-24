@@ -21,9 +21,43 @@ Every section is available in both languages. · Todas as seções estão dispon
 
 | English — quick navigation | Português — navegação rápida |
 |---|---|
-| [Selected projects](#projects) · [Robotics & accessibility](#robotics) · [About me](#about-english) · [Experience](#experience-english) | [Projetos selecionados](#projects) · [Robótica e acessibilidade](#robotics) · [Sobre mim](#sobre-portugues) · [Experiência](#experiencia-portugues) |
+| [Selected projects](#projects) · [Vbot studies](#vbot-studies) · [Robotics & accessibility](#robotics) · [About me](#about-english) · [Experience](#experience-english) | [Projetos selecionados](#projects) · [Estudos com Vbot](#vbot-studies) · [Robótica e acessibilidade](#robotics) · [Sobre mim](#sobre-portugues) · [Experiência](#experiencia-portugues) |
 | [Technologies](#technologies) · [Projects](#projects) · [Certifications](#certifications) | [Tecnologias](#technologies) · [Projetos](#projects) · [Certificações](#certifications) |
 | [Education](#education) · [GitHub activity](#github-activity) · [Expertise](#expertise) · [Contact](#contact) | [Formação](#education) · [Atividade no GitHub](#github-activity) · [Áreas de atuação](#expertise) · [Contato](#contact) |
+
+---
+
+<!-- vbot-studies:start -->
+<a id="vbot-studies"></a>
+
+## Vbot Studies · Estudos com Vbot
+
+**Companion robotics, accessible interaction and community education.**  
+**Robótica de companhia, interação acessível e educação comunitária.**
+
+**EN:** Five working software studies with public browser demonstrations, **25 narrated synthetic scenarios and 93 automated tests**. Each project includes a guided English/Portuguese interface, domain visualizations, explained results, reproducible code and downloadable HTML, CSV and JSON reports.
+
+**PT:** Cinco estudos funcionais de software com demonstrações públicas no navegador, **25 cenários fictícios comentados e 93 testes automatizados**. Cada projeto inclui interface guiada em português/inglês, visualizações do domínio, resultados explicados, código reproduzível e relatórios em HTML, CSV e JSON.
+
+<p align="center">
+<a href="https://galafis.github.io/vbot-community-cargo-planner/?lang=en&example=library-outreach">
+<img src="https://raw.githubusercontent.com/galafis/vbot-community-cargo-planner/main/assets/workbench.png" width="780" alt="Community Cargo Planner: actual bilingual workbench / Bancada bilíngue real do Planejador de Materiais Comunitários">
+</a>
+</p>
+
+| Study · Estudo | What you can explore · O que explorar | Try it · Experimentar |
+| --- | --- | --- |
+| **[Companion Follow Lab](https://github.com/galafis/vbot-accessible-follow-lab)** | **EN:** Time-weighted following observations, unknown gaps and stop review.<br><br>**PT:** Observações de acompanhamento ponderadas pelo tempo, lacunas e revisão de paradas. | [Demo · EN](https://galafis.github.io/vbot-accessible-follow-lab/?lang=en&example=stop-review)<br>[Demo · PT](https://galafis.github.io/vbot-accessible-follow-lab/?lang=pt&example=stop-review)<br>[Methods · Métodos](https://github.com/galafis/vbot-accessible-follow-lab/blob/main/docs/METHOD.md) |
+| **[Portuguese Interaction Bench](https://github.com/galafis/vbot-ptbr-interaction-bench)** | **EN:** Portuguese phrase sandbox, confusion matrix and per-intent metrics.<br><br>**PT:** Teste de frases em português, matriz de confusão e métricas por intenção. | [Demo · EN](https://galafis.github.io/vbot-ptbr-interaction-bench/?lang=en&example=everyday-requests)<br>[Demo · PT](https://galafis.github.io/vbot-ptbr-interaction-bench/?lang=pt&example=everyday-requests)<br>[Methods · Métodos](https://github.com/galafis/vbot-ptbr-interaction-bench/blob/main/docs/METHOD.md) |
+| **[Community Cargo Planner](https://github.com/galafis/vbot-community-cargo-planner)** | **EN:** Exact supply selection with payload, return reserve and energy sensitivity.<br><br>**PT:** Seleção exata de materiais com carga, reserva de retorno e sensibilidade energética. | [Demo · EN](https://galafis.github.io/vbot-community-cargo-planner/?lang=en&example=library-outreach)<br>[Demo · PT](https://galafis.github.io/vbot-community-cargo-planner/?lang=pt&example=library-outreach)<br>[Methods · Métodos](https://github.com/galafis/vbot-community-cargo-planner/blob/main/docs/METHOD.md) |
+| **[Inclusive Encounter Kit](https://github.com/galafis/vbot-inclusive-encounter-kit)** | **EN:** Optional participation, pause, withdrawal and separate recording choices.<br><br>**PT:** Participação opcional, pausa, retirada e escolhas separadas de gravação. | [Demo · EN](https://galafis.github.io/vbot-inclusive-encounter-kit/?lang=en&example=pause-and-resume)<br>[Demo · PT](https://galafis.github.io/vbot-inclusive-encounter-kit/?lang=pt&example=pause-and-resume)<br>[Methods · Métodos](https://github.com/galafis/vbot-inclusive-encounter-kit/blob/main/docs/METHOD.md) |
+| **[Community Observation Lab](https://github.com/galafis/vbot-community-observation-lab)** | **EN:** Distinct visits, duplicate records and human-confirmed barrier review.<br><br>**PT:** Visitas distintas, registros duplicados e revisão de barreiras com confirmação humana. | [Demo · EN](https://galafis.github.io/vbot-community-observation-lab/?lang=en&example=community-venue)<br>[Demo · PT](https://galafis.github.io/vbot-community-observation-lab/?lang=pt&example=community-venue)<br>[Methods · Métodos](https://github.com/galafis/vbot-community-observation-lab/blob/main/docs/METHOD.md) |
+
+**EN:** A standard Vbot without an open SDK is welcome for the proposed hardware stage: native functions, the official app and manual observations provide the starting workflow. These are independent software studies with synthetic examples; physical performance and social outcomes remain to be evaluated. No Vbot or USP partnership is announced.
+
+**PT:** Uma unidade comum do Vbot, sem SDK aberto, é bem-vinda para a fase física proposta: funções nativas, aplicativo oficial e observações manuais são o ponto de partida. São estudos independentes de software com exemplos fictícios; desempenho físico e resultados sociais ainda precisam ser avaliados. Não há parceria anunciada com Vbot ou USP.
+
+<!-- vbot-studies:end -->
 
 ---
 
